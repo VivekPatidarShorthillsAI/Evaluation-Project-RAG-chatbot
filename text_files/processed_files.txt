@@ -1,0 +1,6 @@
+./text_files\crawler_results.txt
+./text_files\formatted_q_and_r.txt
+./text_files\question and answer.txt
+./text_files/crawler_results.txt
+./text_files/formatted_q_and_r.txt
+./text_files/question and answer.txt

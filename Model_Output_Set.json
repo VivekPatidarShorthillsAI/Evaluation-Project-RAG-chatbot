@@ -1,0 +1,402 @@
+[
+    {
+        "query": "What is the cost of the Onboarding New Employees course?",
+        "ground_truth": "The cost of the Onboarding New Employees course is not publicly available information.  Please contact UND Human Resources for pricing details."
+    },
+    {
+        "query": "Is there any exam prep available for international trade certifications?",
+        "ground_truth": "No, the University of North Dakota does not currently offer exam prep specifically for international trade certifications."
+    },
+    {
+        "query": "How much does the Global Supply Chain Management course cost?",
+        "ground_truth": "I cannot provide the exact cost of the Global Supply Chain Management course without knowing the specific course number and the student's residency status (in-state, out-of-state, international).  Tuition rates vary.  Please visit the UND website's tuition and fees page or contact the UND Registrar's Office for the most up-to-date pricing information."
+    },
+    {
+        "query": "What is the cost of the AEM�/CEM� Prep Course (U.S. Version)?",
+        "ground_truth": "I do not have access to real-time information, including pricing for specific University of North Dakota courses.  To find the cost of the AEM/CEM Prep Course (U.S. Version), please check the UND website's continuing education or professional development section, or contact the relevant department directly."
+    },
+    {
+        "query": "Can you tell me more about the Social Media Marketing Certificate Series?",
+        "ground_truth": "The Social Media Marketing Certificate Series at UND offers a flexible, online learning experience covering various aspects of social media strategy, management, and analytics.  It's designed to equip individuals with practical skills for professional use, regardless of their prior experience.  Specific course details and registration information can be found on the Continuing Education website."
+    },
+    {
+        "query": "How much does the Lean Six Sigma Green Belt Manufacturing Version course cost?",
+        "ground_truth": "I do not have access to real-time pricing information for University of North Dakota courses.  To find the cost of the Lean Six Sigma Green Belt Manufacturing Version course, please visit the UND Continuing Education website or contact their registration office directly."
+    },
+    {
+        "query": "What are some affordable courses for small business owners?",
+        "ground_truth": "UND offers several affordable options for small business owners, depending on their specific needs.  Check our Continuing Education and Professional Development catalogs for courses in areas like accounting, marketing, and business management.  We also frequently offer workshops and short courses at reduced rates.  Contact our Continuing Education office for the most up-to-date information on pricing and course availability."
+    },
+    {
+        "query": "What does the Sustainable Management: Leadership Ethics course cover?",
+        "ground_truth": "The Sustainable Management: Leadership Ethics course examines the ethical dimensions of sustainable leadership, covering topics such as environmental responsibility, social justice, corporate social responsibility, stakeholder engagement, and the development of ethical decision-making frameworks within a sustainable management context."
+    },
+    {
+        "query": "Is there a certification for Search Engine Optimization?",
+        "ground_truth": "No, there isn't a single, universally recognized certification for Search Engine Optimization (SEO).  Many organizations offer SEO certifications, but they vary widely in quality and recognition."
+    },
+    {
+        "query": "What is included in the Digital Marketing & Social Media Career Advancement Certificate?",
+        "ground_truth": "The Digital Marketing & Social Media Career Advancement Certificate program at UND covers digital marketing strategy, social media management, content marketing, SEO/SEM, analytics, and email marketing.  Specific modules may vary."
+    },
+    {
+        "query": "Do you have a Lean Six Sigma course for transactional environments?",
+        "ground_truth": "No, we do not currently offer a Lean Six Sigma course specifically tailored for transactional environments.  However, our general Lean Six Sigma offerings can be applied to transactional processes.  Contact the Continuing Education department for more information on available courses and their applicability to your needs."
+    },
+    {
+        "query": "What advanced technical writing courses are available?",
+        "ground_truth": "UND's Department of English offers advanced technical writing courses, but specific titles and availability vary each semester.  Check the current course catalog on the UND website for the most up-to-date listing."
+    },
+    {
+        "query": "Can you recommend a basic technical writing course?",
+        "ground_truth": "Yes,  UND's English Department offers ENGL 215: Technical Writing.  Check the course catalog for current offerings and registration information."
+    },
+    {
+        "query": "Are there any certificates for professional technical communication?",
+        "ground_truth": "No, the University of North Dakota does not currently offer stand-alone certificates specifically in professional technical communication.  However, relevant coursework contributing to such skills may be found within various degree programs."
+    },
+    {
+        "query": "What training is available for becoming a certified travel agent?",
+        "ground_truth": "The University of North Dakota does not offer training to become a certified travel agent.  Certification is typically obtained through private organizations and requires completion of their specific courses and examinations."
+    },
+    {
+        "query": "Are there any programs that focus on car rentals?",
+        "ground_truth": "No, the University of North Dakota does not have any academic programs focused on car rentals."
+    },
+    {
+        "query": "Do you have courses related to cruise lines?",
+        "ground_truth": "No, the University of North Dakota does not currently offer courses specifically focused on cruise lines."
+    },
+    {
+        "query": "What courses can help me get certified for flying drones?",
+        "ground_truth": "UND doesn't offer courses directly leading to FAA drone certification (Part 107).  You'll need to take the FAA's Part 107 knowledge test independently.  However, relevant coursework in aviation, aerospace, or remote sensing within our aerospace programs might enhance your understanding of drone operation and regulations.  Contact the John D. Odegard School of Aerospace Sciences for specific course recommendations."
+    },
+    {
+        "query": "Are there beginner courses for drone flying?",
+        "ground_truth": "No, the University of North Dakota does not currently offer beginner drone flying courses."
+    },
+    {
+        "query": "What leadership courses are available for women in business?",
+        "ground_truth": "UND's College of Business and Public Administration offers several leadership development opportunities relevant to women in business, though specific courses dedicated solely to women may vary by semester.  Check the current course catalog and contact the College of Business and Public Administration's advising office for the most up-to-date information on relevant courses and workshops."
+    },
+    {
+        "query": "What is the cost of the 'Effective Public Speaking' course?",
+        "ground_truth": "The cost of the \"Effective Public Speaking\" course varies depending on the student's residency status (in-state, out-of-state, etc.) and the number of credits.  Please check the UND tuition and fees website for the most up-to-date pricing."
+    },
+    {
+        "query": "What topics are covered in the business courses?",
+        "ground_truth": "UND's business courses cover a wide range of topics, including accounting, finance, management, marketing, economics, and information systems.  Specific course content varies by level and specialization."
+    },
+    {
+        "query": "Are there any courses related to emerging technologies?",
+        "ground_truth": "Yes,  UND offers courses in various emerging technologies, depending on the college and department.  Specific offerings change each semester; please check the UND course catalog for current listings."
+    },
+    {
+        "query": "What are the costs for the entrepreneurship courses?",
+        "ground_truth": "The cost of entrepreneurship courses at UND varies depending on the specific course, your student status (undergraduate, graduate, etc.), and whether you're a resident or non-resident.  Tuition rates are available on the UND website's tuition and fees page.  For the most accurate cost information, please visit [insert link to UND tuition and fees page here] or contact the UND Office of the Registrar."
+    },
+    {
+        "query": "How can I register for the courses offered by the Office of Extended Learning?",
+        "ground_truth": "Registration for Office of Extended Learning courses is done online through their website.  Specific instructions will be found on the course page for each offering."
+    },
+    {
+        "query": "What is the partner organization for the 'Certificate in Communication and Writing Skills with Office 2016' course?",
+        "ground_truth": "There is no partner organization listed for the \"Certificate in Communication and Writing Skills with Office 2016\" course."
+    },
+    {
+        "query": "Is there a course that focuses on customer service?",
+        "ground_truth": "No, there isn't a specific course solely dedicated to customer service at UND.  However, several business and management courses incorporate customer service principles."
+    },
+    {
+        "query": "What courses are available for learning business professionalism?",
+        "ground_truth": "The University of North Dakota offers several courses focusing on business professionalism, often integrated within various business programs.  Specific course titles vary by department and semester, but relevant topics are covered in courses like Business Communication, Professional Development, and courses within management, marketing, and accounting programs.  Check the UND course catalog for the most up-to-date listings and descriptions."
+    },
+    {
+        "query": "How much does the Security Awareness Training course cost?",
+        "ground_truth": "The cost of the Security Awareness Training course varies depending on the specific program and whether it's for students, faculty, or staff.  Please contact UND Information Technology Services or your department's training coordinator for pricing information."
+    },
+    {
+        "query": "What courses are available for learning about grant writing?",
+        "ground_truth": "The University of North Dakota doesn't offer dedicated grant writing courses as standalone subjects.  However, grant writing skills are often integrated into courses within various departments, such as Business, Nonprofit Management, and potentially some research-focused programs.  Contacting specific departments or the Office of Research and Sponsored Programs is recommended to identify relevant coursework."
+    },
+    {
+        "query": "Are there any leadership development courses available?",
+        "ground_truth": "Yes, the University of North Dakota offers various leadership development courses and programs through different colleges and departments.  To find specific offerings, please visit the UND website and search for \"leadership development\" or contact the Center for Innovation."
+    },
+    {
+        "query": "What is the most expensive management certificate course available?",
+        "ground_truth": "I do not have access to real-time pricing information for University of North Dakota certificate programs.  To find the most expensive management certificate course, you should check the current tuition and fees on the UND website's Continuing Education or Graduate School pages."
+    },
+    {
+        "query": "Can I learn about managing change and conflict?",
+        "ground_truth": "Yes, UND offers various courses and resources on change management and conflict resolution.  Check the course catalog or contact the Continuing Education department for specific offerings."
+    },
+    {
+        "query": "What is the cost of the 'Budgeting in a Nonprofit Organization' course?",
+        "ground_truth": "I do not have access to real-time information, including pricing for University of North Dakota courses.  To find the cost of the \"Budgeting in a Nonprofit Organization\" course, please check the UND website's course catalog or contact the UND Continuing Education department directly."
+    },
+    {
+        "query": "Who offers the 'Capital Campaigns' course?",
+        "ground_truth": "The University of North Dakota does not currently offer a course titled \"Capital Campaigns.\""
+    },
+    {
+        "query": "How much does the 'Leadership in a Nonprofit Organization' course cost?",
+        "ground_truth": "I do not have access to real-time information, including pricing for University of North Dakota courses.  To find the cost of the \"Leadership in a Nonprofit Organization\" course, please check the UND website's course catalog or contact the UND Registrar's office."
+    },
+    {
+        "query": "Which course covers volunteer development for nonprofits?",
+        "ground_truth": "We don't currently offer a course specifically titled \"Volunteer Development for Nonprofits.\"  However, relevant content might be found within courses in the Nonprofit Management or related programs within the College of Business and Public Administration.  Contact the department directly for specific course offerings."
+    },
+    {
+        "query": "What is the price of the 'Leading the Courtney Museum Simulation' course?",
+        "ground_truth": "I do not have access to real-time information, including pricing for University of North Dakota courses.  To find the price of \"Leading the Courtney Museum Simulation,\" please check the UND website's course catalog or contact the relevant department directly."
+    },
+    {
+        "query": "What is the cost of the 'Payroll Management Training & Certification Program'?",
+        "ground_truth": "I do not have access to real-time information, including pricing for University of North Dakota programs.  To find the cost of the Payroll Management Training & Certification Program, please visit the UND website's continuing education or professional development section, or contact the relevant department directly."
+    },
+    {
+        "query": "Who offers the 'Payroll Wage & Hour Training & Certification Program'?",
+        "ground_truth": "The University of North Dakota does not offer a program specifically titled \"Payroll Wage & Hour Training & Certification Program.\"  We would need more information to direct you to the appropriate department or resource."
+    },
+    {
+        "query": "What is the price of the 'Bartending for the Masters' course?",
+        "ground_truth": "I do not have access to real-time information, including pricing for University of North Dakota courses.  To find the price of the \"Bartending for the Masters\" course, you should check the UND website's continuing education or relevant department page, or contact the department directly."
+    },
+    {
+        "query": "Which course covers professional bar management?",
+        "ground_truth": "The University of North Dakota does not currently offer a course specifically titled \"Professional Bar Management.\"  We may have relevant coursework within our hospitality management or business programs, but there isn't a dedicated course with that name."
+    },
+    {
+        "query": "How much does the 'Agile Certified Practitioner (PMI-ACP)� Exam Prep' course cost?",
+        "ground_truth": "I do not have access to real-time information, including pricing for University of North Dakota courses.  To find the cost of the Agile Certified Practitioner (PMI-ACP) Exam Prep course, please check the UND Continuing Education website or contact the department directly."
+    },
+    {
+        "query": "Who offers the 'Certificate in Agile Project Management'?",
+        "ground_truth": "The University of North Dakota does not currently offer a \"Certificate in Agile Project Management\"."
+    },
+    {
+        "query": "What is the cost of the 'Applied Project Management' course?",
+        "ground_truth": "I do not have access to real-time information, including pricing for University of North Dakota courses.  To find the cost of the \"Applied Project Management\" course, please check the UND website's course catalog or contact the UND Registrar's office."
+    },
+    {
+        "query": "What is the price of the 'SalesForce: Power User Course'?",
+        "ground_truth": "I do not have access to real-time pricing information for University of North Dakota courses.  To find the price of the Salesforce: Power User course, please check the UND website's continuing education or professional development section, or contact the relevant department directly."
+    },
+    {
+        "query": "Are there any courses on global marketing?",
+        "ground_truth": "Yes, check the College of Business and Public Administration course catalog for offerings in marketing, specifically looking for courses with \"global\" or \"international\" in the title or description."
+    },
+    {
+        "query": "What are the main subjects of the Accounting and Finance for Entrepreneurs course?",
+        "ground_truth": "The Accounting and Finance for Entrepreneurs course covers fundamental accounting principles, financial statement analysis, budgeting, cash flow management, and securing funding for entrepreneurial ventures."
+    },
+    {
+        "query": "What courses are available in International Trade?",
+        "ground_truth": "UND's course offerings related to international trade are typically found within the economics and business departments.  Specific course titles and availability vary by semester;  check the University of North Dakota course catalog for the most up-to-date information.  You may find courses focusing on international economics, global finance, or international business."
+    },
+    {
+        "query": "Can you tell me about the costs associated with the Nonprofit courses?",
+        "ground_truth": "Cost information for UND's Nonprofit courses varies depending on the specific course, whether it's a credit or non-credit offering, and residency status (in-state vs. out-of-state).  Tuition costs are published on the UND website's tuition and fees section, and you can find specific course costs within the course catalog or by contacting the relevant department offering the courses."
+    },
+    {
+        "query": "What is the price of the Lean Six Sigma Green Belt Course Library?",
+        "ground_truth": "I do not have access to real-time pricing information for University of North Dakota courses.  To find the price of the Lean Six Sigma Green Belt Course Library, please visit the UND Continuing Education website or contact their registration office directly."
+    },
+    {
+        "query": "Are there any courses for starting a business in the Start Your Own Business section?",
+        "ground_truth": "Yes.  The \"Start Your Own Business\" section lists several relevant courses, though the specific offerings vary by semester.  Check the current course catalog for details."
+    },
+    {
+        "query": "What courses are included in the Sustainable Management section?",
+        "ground_truth": "I need the University of North Dakota's course catalog or a similar document to answer accurately.  The specific courses included in a \"Sustainable Management\" section (assuming it exists as a named section) varies by semester and may be organized differently across different colleges or departments."
+    },
+    {
+        "query": "Can you provide details about the Technical Writing courses available?",
+        "ground_truth": "The University of North Dakota's course offerings in technical writing vary by semester and department.  To find the most up-to-date information, please check the UND course catalog online or contact the English Department directly."
+    },
+    {
+        "query": "What courses are available for those interested in travel agent training?",
+        "ground_truth": "The University of North Dakota does not offer specific travel agent training courses.  We recommend exploring professional certification programs outside of the university."
+    },
+    {
+        "query": "How much does the Hotel Certificate Program cost?",
+        "ground_truth": "I do not have access to real-time information, including pricing for University of North Dakota programs.  To find the cost of the Hotel Certificate Program, please visit the UND website's Continuing Education or Hospitality Management department pages, or contact the department directly."
+    },
+    {
+        "query": "Who is the partner for the Cruise Line Certificate Program?",
+        "ground_truth": "Viking Cruises."
+    },
+    {
+        "query": "What is the cost of the Drone Flying 101 course?",
+        "ground_truth": "I do not have access to real-time information, including pricing for University of North Dakota courses.  To find the cost of the Drone Flying 101 course, please check the UND website's course catalog or contact the relevant department directly."
+    },
+    {
+        "query": "Is there a course available for preparing for the FAA Part 107 exam?",
+        "ground_truth": "No, UND does not currently offer a course specifically for the FAA Part 107 exam."
+    },
+    {
+        "query": "What is the cost of the Certificate in Leadership for Women in Business?",
+        "ground_truth": "I do not have access to real-time information, including pricing for University of North Dakota programs.  To find the cost of the Certificate in Leadership for Women in Business, please visit the UND website's continuing education or professional development section, or contact the relevant department directly."
+    },
+    {
+        "query": "What types of courses are available in the Adobe Software section?",
+        "ground_truth": "The University of North Dakota's Adobe software courses vary by semester and department, but generally include training on Photoshop, Illustrator, InDesign, Premiere Pro, After Effects, and Acrobat.  Specific course offerings and levels (beginner, intermediate, advanced) change."
+    },
+    {
+        "query": "How much does the Adobe Certified Professional course cost?",
+        "ground_truth": "The cost of the Adobe Certified Professional course varies depending on the specific Adobe software and the provider offering the training.  UND does not directly offer this certification;  you will need to contact an external training provider to determine pricing."
+    },
+    {
+        "query": "What is the cost of the CompTIA A+ Certification Training?",
+        "ground_truth": "The cost of CompTIA A+ Certification Training at UND varies depending on the format (in-person, online, etc.) and whether you are a student, faculty, or community member.  Please contact the UND Continuing Education department for the most up-to-date pricing."
+    },
+    {
+        "query": "What are some online courses available for learning programming?",
+        "ground_truth": "UND doesn't offer specific online *programming* courses outside of our degree programs.  However, many excellent Massive Open Online Courses (MOOCs) are available through platforms like Coursera, edX, Udacity, and Codecademy, covering various programming languages and skill levels."
+    },
+    {
+        "query": "Can you list some intermediate programming courses?",
+        "ground_truth": "Our intermediate programming courses vary by department and semester.  Please check the UND course catalog for the most up-to-date listing.  Commonly offered intermediate courses might include courses numbered in the 200 or 300 level in Computer Science, depending on the specific programming language and concepts covered (e.g., data structures and algorithms)."
+    },
+    {
+        "query": "What are the prerequisites for the 'Management for IT Professionals' course?",
+        "ground_truth": "To determine the prerequisites for \"Management for IT Professionals,\" please provide the course number or refer to the UND course catalog.  Prerequisites vary by course offering and are not consistently known across all staff."
+    },
+    {
+        "query": "What courses are available in Digital Marketing?",
+        "ground_truth": "The University of North Dakota doesn't currently offer a dedicated Digital Marketing major or program.  However, digital marketing concepts are integrated into several courses within the business, communication, and computer science departments.  To find specific courses, I recommend searching the UND course catalog using keywords like \"digital marketing,\" \"social media marketing,\" \"search engine optimization,\" and \"e-commerce.\""
+    },
+    {
+        "query": "What is the cost of the Search Engine Marketing course?",
+        "ground_truth": "I do not have access to real-time information, including pricing for University of North Dakota courses.  To find the cost of the Search Engine Marketing course, please check the UND website's course catalog or contact the UND Registrar's office."
+    },
+    {
+        "query": "Are there any Digital Photography courses offered?",
+        "ground_truth": "Yes, check the UND course catalog for current offerings.  Course availability changes each semester."
+    },
+    {
+        "query": "What is the price for the Mastering Your Digital SLR Camera course?",
+        "ground_truth": "I do not have access to real-time pricing information for University of North Dakota courses.  To find the price for the Mastering Your Digital SLR Camera course, please check the UND Continuing Education website or contact their office directly."
+    },
+    {
+        "query": "Is there a course for beginners in Networking?",
+        "ground_truth": "Yes, we offer introductory networking courses.  Check the UND course catalog for current offerings."
+    },
+    {
+        "query": "What support is available for students in the program?",
+        "ground_truth": "UND offers a range of support services for students, including academic advising, tutoring, career counseling, health and wellness services, disability services, and financial aid.  Specific program support varies; please specify the program for a more precise answer."
+    },
+    {
+        "query": "Who should enroll in the Nutrition & Foodservice Professional Training Program?",
+        "ground_truth": "The Nutrition & Foodservice Professional Training Program at UND is ideal for individuals seeking entry-level positions or career advancement in foodservice management, dietetics, and related fields.  This includes those interested in culinary arts, healthcare foodservice, and community nutrition."
+    },
+    {
+        "query": "What should I do if my corrected lessons are delayed with grading?",
+        "ground_truth": "Contact your instructor immediately to inquire about the delay and the expected timeframe for feedback."
+    },
+    {
+        "query": "Do I need to complete all lessons to receive a grade?",
+        "ground_truth": "That depends on the course and instructor.  Check your syllabus or contact your professor."
+    },
+    {
+        "query": "What is the deadline for completing lessons if I have a specific course deadline?",
+        "ground_truth": "The deadline for completing lessons depends entirely on your specific course and its individual assignment deadlines.  There is no university-wide deadline for lesson completion outside of those set by your instructors within each course.  Check your course syllabus or contact your professor."
+    },
+    {
+        "query": "What format should I use to submit lessons for online courses?",
+        "ground_truth": "Please check your course's learning management system (LMS), likely Canvas or Moodle, for specific submission guidelines.  These instructions will vary depending on the course and instructor."
+    },
+    {
+        "query": "How do I submit my lessons for online courses?",
+        "ground_truth": "Submit your lesson materials through the UND course management system, usually Moodle or Canvas.  Check your department's specific instructions or contact your department's instructional technology support for details."
+    },
+    {
+        "query": "How should I submit lessons for correspondence by mail courses?",
+        "ground_truth": "Please refer to the specific instructions provided in your course syllabus or contact your instructor for submission details.  Methods vary by course and instructor."
+    },
+    {
+        "query": "What should I include on the Lesson Form when mailing my lessons?",
+        "ground_truth": "Your Lesson Form should include your name, course number, section number, date(s) of the lesson(s), and a clear description of the lesson content.  Also, include the number of lessons being submitted and any special instructions or requests."
+    },
+    {
+        "query": "Am I responsible for postage when submitting lessons?",
+        "ground_truth": "No.  The University of North Dakota covers postage for lesson submissions."
+    },
+    {
+        "query": "Can I switch my course format from online to correspondence?",
+        "ground_truth": "No,  UND generally does not offer a course format switch from online to correspondence.  The options available depend on the specific course and instructor. You should contact your instructor and/or the department offering the course."
+    },
+    {
+        "query": "How will I receive my course materials if I switch to correspondence by mail?",
+        "ground_truth": "Course materials for correspondence by mail will be shipped to your registered mailing address on file with the University."
+    },
+    {
+        "query": "How will I receive information if I switch from correspondence to online?",
+        "ground_truth": "You will receive information through the online learning management system (LMS) used by your course(s), typically Canvas or Moodle.  Check your UND email regularly as well for important announcements."
+    },
+    {
+        "query": "What are the participation requirements for the Nutrition & Foodservice Professional Training Program?",
+        "ground_truth": "The Nutrition & Foodservice Professional Training Program participation requirements vary depending on the specific course or certificate.  Please contact the UND Department of [relevant department, e.g.,  Dietetics and Nutrition or Hospitality Management] directly for the most up-to-date and precise information."
+    },
+    {
+        "query": "What are the benefits of becoming a Certified Dietary Manager?",
+        "ground_truth": "Becoming a Certified Dietary Manager (CDM) demonstrates competency, enhances career opportunities and salary potential, and provides credibility within the food service and healthcare industries.  It signifies adherence to professional standards and ethical practices."
+    },
+    {
+        "query": "What strategies does the course on Becoming a Resilient Educator focus on?",
+        "ground_truth": "The Becoming a Resilient Educator course focuses on strategies for stress management, self-care, building supportive relationships, fostering a positive school culture, and developing effective coping mechanisms for challenges inherent in the education profession."
+    },
+    {
+        "query": "How can I learn about cohesive classroom communities?",
+        "ground_truth": "UND offers several avenues to learn about cohesive classroom communities:  education courses focusing on classroom management and social-emotional learning, research papers and articles accessible through the library databases (search keywords like \"classroom community,\" \"collaborative learning,\" and \"positive classroom climate\"), and potentially workshops or seminars offered through the Center for Teaching and Learning."
+    },
+    {
+        "query": "What course addresses anxiety in the classroom?",
+        "ground_truth": "UND doesn't offer a course specifically titled \"Anxiety in the Classroom.\"  However, relevant support services and courses addressing anxiety and stress management are available through Counseling & Disability Services and various psychology courses.  Contact Counseling & Disability Services for information on specific resources."
+    },
+    {
+        "query": "What is the cost of the course on Gamification in the Classroom?",
+        "ground_truth": "I do not have access to real-time information, including pricing for University of North Dakota courses.  To find the cost of the Gamification in the Classroom course, please check the UND website's course catalog or contact the UND registrar's office."
+    },
+    {
+        "query": "How do I change my preceptor?",
+        "ground_truth": "You need to discuss your concerns with your current preceptor and your program coordinator.  They will work with you to determine the best course of action, which may or may not include a preceptor change."
+    },
+    {
+        "query": "What are the course credits and cost for \"Building Community Involvement in your School for Individuals with Developmental and/or Intellectual Disabilities\"?",
+        "ground_truth": "I do not have access to real-time information, including current course catalogs and pricing for the University of North Dakota.  To find the course credits and cost for \"Building Community Involvement in your School for Individuals with Developmental and/or Intellectual Disabilities,\" you should check the UND course catalog online or contact the UND Registrar's office directly."
+    },
+    {
+        "query": "Can you tell me about the \"Career Advisor Training\" course?",
+        "ground_truth": "The University of North Dakota doesn't currently offer a course specifically titled \"Career Advisor Training.\"  We offer various professional development opportunities related to career advising through our Career Services department and potentially through other relevant academic programs, but a dedicated course with that exact name is not in our catalog.  To find relevant training, I recommend contacting UND's Career Services directly."
+    },
+    {
+        "query": "What is the cost of the course \"Cognitive Skills-Understanding Learning Challenges\"?",
+        "ground_truth": "I do not have access to real-time information, including pricing for University of North Dakota courses.  To find the cost of \"Cognitive Skills-Understanding Learning Challenges,\" please check the UND website's course catalog or contact the UND Registrar's Office."
+    },
+    {
+        "query": "Who can enroll in the Medical Simulator Technician Training Program?",
+        "ground_truth": "The Medical Simulator Technician Training Program at UND is open to current UND students, UND alumni, and other qualified individuals who meet the program's prerequisites."
+    },
+    {
+        "query": "Who is the instructor for the program?",
+        "ground_truth": "Please specify the program."
+    },
+    {
+        "query": "What if I lose my certificate of completion?",
+        "ground_truth": "Contact the relevant department or program that issued the certificate.  They will be able to assist you with obtaining a replacement."
+    },
+    {
+        "query": "What will I be able to do upon completing the certification course?",
+        "ground_truth": "Upon completing the certification course, you will possess the skills and knowledge outlined in the course description and be awarded a certificate of completion.  Specific skills vary by course; please refer to the course syllabus for details."
+    },
+    {
+        "query": "What concepts will I understand after completing the Electrical module?",
+        "ground_truth": "Upon completion of the Electrical module, you will understand fundamental electrical principles, including circuit analysis, Ohm's Law, Kirchhoff's Laws, AC/DC circuits, and basic components like resistors, capacitors, and inductors.  The specific concepts covered will vary depending on the module's level and focus."
+    },
+    {
+        "query": "What software will I be able to use after the Computers module?",
+        "ground_truth": "Following the Computers module, you'll have access to the standard UND software suite, including Microsoft Office, Adobe Creative Cloud (depending on your program), and specialized software relevant to your chosen major.  Specific software availability depends on your program and department."
+    }
+]
