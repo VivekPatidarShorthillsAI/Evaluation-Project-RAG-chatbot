@@ -1,0 +1,6 @@
+Overall Precision: 0.3492
+Overall Recall: 0.4058
+Overall F1 Score: 0.3524
+Overall LLM Faithfulness: 0.3425
+Overall Cosine Similarity: 0.7186
+Overall BERT Score: 0.8970

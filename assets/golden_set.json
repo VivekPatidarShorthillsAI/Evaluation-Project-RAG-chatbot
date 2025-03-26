@@ -1,0 +1,2826 @@
+[
+    {
+        "query": "What types of accounting courses are offered?",
+        "golden_set": "The accounting courses offered include topics in accounting fundamentals, accounting software, and personal finance, investments, and taxes."
+    },
+    {
+        "query": "Can you provide details about the 'Certificate in Accounting Studies' course?",
+        "golden_set": "The 'Certificate in Accounting Studies' course costs $2195 and is offered by the JER Group. You can find more details [here](https://und.coursecatalog.com/coursedetail.aspx?courseId=2716)."
+    },
+    {
+        "query": "What is included in the 'Complete Enrolled Agent (EA) Review Program and Exam Prep'?",
+        "golden_set": "The 'Complete Enrolled Agent (EA) Review Program and Exam Prep' costs $1799 and is designed to help participants prepare for the Enrolled Agent exam. More information can be found [here](https://und.coursecatalog.com/coursedetail.aspx?courseId=2826)."
+    },
+    {
+        "query": "Are there any courses focused on accounting software?",
+        "golden_set": "Yes, there is a 'QuickBooks Bundle (2012 to 2019)' course available for $199, which is also offered by the JER Group. Details can be found [here](https://und.coursecatalog.com/coursedetail.aspx?courseId=2761)."
+    },
+    {
+        "query": "What are the costs associated with the accounting courses?",
+        "golden_set": "The costs for the accounting courses vary, with prices ranging from $199 for the QuickBooks Bundle to $2749 for the 'Certificate in Accounting and Bookkeeping Studies (including Voucher)'."
+    },
+    {
+        "query": "Where can I find the Office of Extended Learning?",
+        "golden_set": "The Office of Extended Learning is located in O'Kelly Hall Room 300 at 221 Centennial Dr Stop 9021, Grand Forks, ND 58202-9021. You can contact them at 701.777.0488 or email [UND.courses@UND.edu](mailto:UND.courses@UND.edu)."
+    },
+    {
+        "query": "What is the duration of the accounting courses?",
+        "golden_set": "The duration of the accounting courses may vary depending on the specific course. It is best to check the course details on the respective links for precise duration information."
+    },
+    {
+        "query": "Is there a course that includes a voucher?",
+        "golden_set": "Yes, both the 'Certificate in Accounting Studies (including Voucher)' and the 'Certificate in Accounting and Bookkeeping Studies (including Voucher)' courses include a voucher. The costs are $2349 and $2749, respectively."
+    },
+    {
+        "query": "Who is the partner for these accounting courses?",
+        "golden_set": "All the accounting courses listed are offered by the JER Group."
+    },
+    {
+        "query": "What topics are covered in the 'All Access IRS CE Library' course?",
+        "golden_set": "The 'All Access IRS CE Library' course covers various topics related to IRS continuing education, including tax regulations, compliance, and best practices for tax preparation. It is priced at $499."
+    },
+    {
+        "query": "Are these courses suitable for beginners?",
+        "golden_set": "Yes, many of these accounting courses are designed for individuals at various skill levels, including beginners who want to build a solid foundation in accounting principles."
+    },
+    {
+        "query": "What resources are provided with the courses?",
+        "golden_set": "Resources provided with the courses may include course materials, access to online platforms, and sometimes additional tools or vouchers for related software."
+    },
+    {
+        "query": "How can I enroll in these courses?",
+        "golden_set": "You can enroll in these courses by clicking on the course titles provided in the course listings, which will take you to their respective pages for registration."
+    },
+    {
+        "query": "Is financial aid available for these courses?",
+        "golden_set": "Information regarding financial aid for these courses is not provided. It is recommended to contact the Office of Extended Learning for inquiries about financial assistance options."
+    },
+    {
+        "query": "Do the courses offer any certification upon completion?",
+        "golden_set": "Yes, many of the accounting courses offer certificates upon completion, which can enhance your resume and professional qualifications."
+    },
+    {
+        "query": "What courses are available for event planners on campus?",
+        "golden_set": "Event planners on campus can benefit from resources such as Conference, Camp & Event Services, marketing support, catering services, audiovisual equipment rental, and access to venue space and facilities."
+    },
+    {
+        "query": "Can you list some personal and professional development courses?",
+        "golden_set": "Personal and professional development courses include topics like Effective Emails, Memos, and Letters, Customer Service Learning Bundle, and the Certificate in Business Communications."
+    },
+    {
+        "query": "What certifications can I obtain related to Dietary Managers?",
+        "golden_set": "You can obtain certifications such as Nutrition and Foodservice Professional Training Programs, CDM Exam Success Courses, and Continuing Education Courses for Dietary Managers."
+    },
+    {
+        "query": "Are there any courses focused on creativity and innovation?",
+        "golden_set": "Yes, courses focused on creativity and innovation include the Certificate in Innovation and Critical Thinking, Creativity in Teams and Organizations, and Personal Creativity."
+    },
+    {
+        "query": "What career advancement courses are offered?",
+        "golden_set": "Career advancement courses offered include Medical Scribe Career Training, HVAC Technician Online, and Comprehensive Appliance Repair Certificate."
+    },
+    {
+        "query": "Which courses help with effective communication?",
+        "golden_set": "Courses that help with effective communication include Effective Presentations, Effective Public Speaking, and High Impact Communication."
+    },
+    {
+        "query": "Can you provide information about the courses related to business?",
+        "golden_set": "Non-credit business courses cover topics like management, leadership, sales, marketing, and software. Some examples include The Art of Listening Persuasion and Compromise, and Certificate in Business Communications."
+    },
+    {
+        "query": "Are there any specific certifications for bartending?",
+        "golden_set": "Yes, certifications for bartending include Bartending at Home-Online, and Bartending the Easy Way - Online."
+    },
+    {
+        "query": "What kind of resources are available for Human Resource Certification?",
+        "golden_set": "Resources for Human Resource Certification include comprehensive courses designed to enhance HR knowledge and skills, as well as certification preparation resources."
+    },
+    {
+        "query": "What is the cost of the Certificate in Emerging Technology for Managers?",
+        "golden_set": "The Certificate in Emerging Technology for Managers costs $199 and is offered by Mindedge."
+    },
+    {
+        "query": "Can you tell me about the A Manager's Guide to Artificial Intelligence course?",
+        "golden_set": "The A Manager's Guide to Artificial Intelligence course costs $99 and is provided by Mindedge. It is designed to help managers understand the applications of AI in business."
+    },
+    {
+        "query": "Are there any certificates available for entrepreneurship?",
+        "golden_set": "Yes, the Certificate in Entrepreneurship is available for $599, offered by Mindedge. Additionally, there is the Entrepreneurship (ACE CREDIT\ufffd) certificate, which costs $698."
+    },
+    {
+        "query": "How much does the Introduction to Entrepreneurship course cost?",
+        "golden_set": "The Introduction to Entrepreneurship course costs $129 and is offered by Mindedge."
+    },
+    {
+        "query": "What is the cost of the Being a Business Professional Learning Bundle?",
+        "golden_set": "The Being a Business Professional Learning Bundle costs $269 and is offered by JER Group."
+    },
+    {
+        "query": "Can you provide details on the Technical Reports for Industry, Government, and Business course?",
+        "golden_set": "The Technical Reports for Industry, Government, and Business course costs $975 and is offered by JER Group. It is designed to enhance report-writing skills across multiple sectors."
+    },
+    {
+        "query": "Is there a certification for grant writing?",
+        "golden_set": "Yes, the Introduction to Grant Research and Writing Certificate is available for $1999, offered by JER Group."
+    },
+    {
+        "query": "What is the cost of the Introduction to Grant Writing course?",
+        "golden_set": "The Introduction to Grant Writing course costs $399 and is offered by JER Group."
+    },
+    {
+        "query": "What is the cost of the Front Desk Agent course?",
+        "golden_set": "The Front Desk Agent course costs $369 and is offered by JER Group as an instructor-led program."
+    },
+    {
+        "query": "Is there a certificate program for hotels?",
+        "golden_set": "Yes, the Hotel Certificate Program is offered for $1400 and is instructor-led by JER Group."
+    },
+    {
+        "query": "What training and certification programs are available for HIPAA?",
+        "golden_set": "There are two HIPAA-related training and certification programs available: the HIPAA Privacy Training & Certification Program and the HIPAA Portability Training & Certification Program. Both are offered by JER Group at $449 each."
+    },
+    {
+        "query": "What is the cost of the Onboarding New Employees course?",
+        "golden_set": "The Onboarding New Employees course costs $225 and is offered by JER Group."
+    },
+    {
+        "query": "Is there any exam prep available for international trade certifications?",
+        "golden_set": "Yes, the Certified Global Business Professional (CGBP) Exam Prep is available for $799 and is offered by Mindedge."
+    },
+    {
+        "query": "How much does the Global Supply Chain Management course cost?",
+        "golden_set": "The Global Supply Chain Management course costs $275 and is offered by Mindedge."
+    },
+    {
+        "query": "What is the cost of the AEM\ufffd/CEM\ufffd Prep Course (U.S. Version)?",
+        "golden_set": "The AEM\ufffd/CEM\ufffd Prep Course (U.S. Version) costs $399 and is offered by Mindedge."
+    },
+    {
+        "query": "Which partner provides the Building Management and Maintenance Training Series?",
+        "golden_set": "The Building Management and Maintenance Training Series is provided by JER Group and costs $245."
+    },
+    {
+        "query": "Can you tell me about the Certificate in Managing Change and Resolving Conflict?",
+        "golden_set": "The Certificate in Managing Change and Resolving Conflict costs $630 and is offered by Mindedge."
+    },
+    {
+        "query": "Which course offers training in Supervisory and Managerial Skills?",
+        "golden_set": "The Certificate in Supervisory and Managerial Skills, provided by JER Group, costs $2595."
+    },
+    {
+        "query": "What is the cost of the Emotional Intelligence for Managers course?",
+        "golden_set": "The Emotional Intelligence for Managers course is offered by Mindedge and costs $79."
+    },
+    {
+        "query": "Where can I find training on Negotiation Skills?",
+        "golden_set": "You can find negotiation skills training in the Certificate in Negotiations, offered by Mindedge for $199."
+    },
+    {
+        "query": "Is there a course on Time Management?",
+        "golden_set": "Yes, there is a Time Management course offered by Mindedge for $79."
+    },
+    {
+        "query": "Are there any bartending courses available?",
+        "golden_set": "Yes, there are bartending courses available, such as Bartending for the Masters ($149) and Master Level Bartending Certificate Online ($699), both offered by JER Group."
+    },
+    {
+        "query": "Which partner provides the Agile Certified Practitioner (PMI-ACP)\ufffd Exam Prep?",
+        "golden_set": "The Agile Certified Practitioner (PMI-ACP)\ufffd Exam Prep is provided by Mindedge and costs $499."
+    },
+    {
+        "query": "What is the cost of the Sales Coach Online course?",
+        "golden_set": "The Sales Coach Online course costs $497, and it is offered by JER Group."
+    },
+    {
+        "query": "Can you tell me more about the Social Media Marketing Certificate Series?",
+        "golden_set": "The Social Media Marketing Certificate Series costs $899 and is provided by JER Group. This program offers comprehensive training in social media marketing strategies."
+    },
+    {
+        "query": "How much does the Lean Six Sigma Green Belt Manufacturing Version course cost?",
+        "golden_set": "The Lean Six Sigma Green Belt Course Library for the Manufacturing Version is priced at $249, and it's offered by JER Group."
+    },
+    {
+        "query": "What are some affordable courses for small business owners?",
+        "golden_set": "Affordable courses for small business owners include 'Accounting Fundamentals for Small Businesses' at $99, 'Budgeting and Financial Analysis for Small Business' at $99, and 'Small Business Marketing' at $99. All these courses are provided by Mindedge."
+    },
+    {
+        "query": "What does the Sustainable Management: Leadership Ethics course cover?",
+        "golden_set": "The Sustainable Management: Leadership Ethics course costs $99 and is provided by Mindedge. It focuses on ethical leadership within sustainable management practices."
+    },
+    {
+        "query": "Is there a certification for Search Engine Optimization?",
+        "golden_set": "Yes, the Search Engine Optimization Certification is available for $1,095 and is offered by JER Group."
+    },
+    {
+        "query": "What is included in the Digital Marketing & Social Media Career Advancement Certificate?",
+        "golden_set": "The Digital Marketing & Social Media Career Advancement Certificate costs $2,195, and it's provided by JER Group. This comprehensive program covers various aspects of digital marketing and social media strategies."
+    },
+    {
+        "query": "Do you have a Lean Six Sigma course for transactional environments?",
+        "golden_set": "Yes, the Lean Six Sigma Green Belt Course Library for Transactional Version is available for $249, and it is provided by JER Group."
+    },
+    {
+        "query": "What advanced technical writing courses are available?",
+        "golden_set": "The available advanced technical writing courses include the 'Advanced Certificate in Technical Writing' ($1299), 'Advanced Certificate Course in Structured Writing for Technical Documentation' ($349), and 'Advanced Technical Writing' ($335), all offered by the JER Group."
+    },
+    {
+        "query": "Can you recommend a basic technical writing course?",
+        "golden_set": "A recommended basic course is the 'Basic Certificate in Technical Writing' offered by JER Group. It costs $975 and covers foundational technical writing principles."
+    },
+    {
+        "query": "Are there any certificates for professional technical communication?",
+        "golden_set": "Yes, the 'Certificate in Professional Technical Communication - Portfolio' is available for $1200 from JER Group."
+    },
+    {
+        "query": "What training is available for becoming a certified travel agent?",
+        "golden_set": "The 'Travel Agent Certificate Program - Instructor Led' offered by JER Group costs $3960 and provides comprehensive training for aspiring travel agents."
+    },
+    {
+        "query": "Are there any programs that focus on car rentals?",
+        "golden_set": "Yes, the 'Car Rental Certificate Program - Instructor Led' by JER Group costs $1499 and offers specialized training for car rental services."
+    },
+    {
+        "query": "Do you have courses related to cruise lines?",
+        "golden_set": "Yes, the 'Cruise Line Certificate Program - Instructor Led' is available for $1750 from JER Group."
+    },
+    {
+        "query": "What courses can help me get certified for flying drones?",
+        "golden_set": "For drone certification, you can take the 'UAS Remote Pilot Certificate - Test Prep for FAA Part 107 Exam,' which costs $190 from JER Group."
+    },
+    {
+        "query": "Are there beginner courses for drone flying?",
+        "golden_set": "Yes, the 'Drone Flying 101 - A Beginner's Guide for Drone Enthusiasts' is available for $99 from JER Group."
+    },
+    {
+        "query": "What leadership courses are available for women in business?",
+        "golden_set": "The 'Certificate in Leadership for Women in Business' by Mindedge costs $499, and 'Leadership and Management for Women in Business' is available for $79."
+    },
+    {
+        "query": "Are there any courses focused on work-life balance for women in business?",
+        "golden_set": "Yes, 'Work-Life Balance for Women in Business' is offered for $79 through Mindedge."
+    },
+    {
+        "query": "What kind of courses does the Office of Extended Learning offer?",
+        "golden_set": "The Office of Extended Learning offers a variety of non-credit courses including business courses, professional development programs, insurance prelicensing, dietary management training, real estate courses, and more."
+    },
+    {
+        "query": "Can you list some of the business courses available?",
+        "golden_set": "Some of the business courses available include:"
+    },
+    {
+        "query": "What is the cost of the 'Effective Public Speaking' course?",
+        "golden_set": "The cost of the 'Effective Public Speaking' course is $99."
+    },
+    {
+        "query": "What topics are covered in the business courses?",
+        "golden_set": "Business courses cover various topics such as management, leadership, sales, marketing, software, communication, creativity, and entrepreneurship."
+    },
+    {
+        "query": "Are there any courses related to emerging technologies?",
+        "golden_set": "Yes, there are courses related to emerging technologies, including:"
+    },
+    {
+        "query": "What are the costs for the entrepreneurship courses?",
+        "golden_set": "The costs for entrepreneurship courses vary, for example:"
+    },
+    {
+        "query": "How can I register for the courses offered by the Office of Extended Learning?",
+        "golden_set": "You can register for courses offered by the Office of Extended Learning through their official website. Each course page typically contains registration information and links to sign up."
+    },
+    {
+        "query": "What is the partner organization for the 'Certificate in Communication and Writing Skills with Office 2016' course?",
+        "golden_set": "The partner organization for the 'Certificate in Communication and Writing Skills with Office 2016' course is JER Group."
+    },
+    {
+        "query": "Is there a course that focuses on customer service?",
+        "golden_set": "Yes, there are courses focused on customer service, including 'Customer Service Learning Bundle' and 'Customer Service for Bars and Restaurants-Online.'"
+    },
+    {
+        "query": "What courses are available for learning business professionalism?",
+        "golden_set": "Courses available for learning business professionalism include 'Being a Business Professional (Learning Bundle)' offered by JER Group for $269."
+    },
+    {
+        "query": "How much does the Security Awareness Training course cost?",
+        "golden_set": "The Security Awareness Training course costs $15 and is offered by Mindedge."
+    },
+    {
+        "query": "What courses are available for learning about grant writing?",
+        "golden_set": "Courses available for grant writing include the 'Introduction to Grant Research and Writing Certificate' for $1999 and the 'Introduction to Grant Writing' for $399, both offered by JER Group."
+    },
+    {
+        "query": "Which hotel-related course provides a certification program?",
+        "golden_set": "The 'Hotel Certificate Program - Instructor Led' provides a certification and is offered by JER Group for $1400."
+    },
+    {
+        "query": "What are some courses available in Human Resources?",
+        "golden_set": "Some courses available in Human Resources include '401(k) Training & Certification Program,' 'ADA Training & Certification Program,' and 'COBRA Training & Certification Program,' all offered by JER Group for $449 each."
+    },
+    {
+        "query": "What is the cost of the Certified Global Business Professional (CGBP) Exam Prep course?",
+        "golden_set": "The Certified Global Business Professional (CGBP) Exam Prep course costs $799 and is offered by Mindedge."
+    },
+    {
+        "query": "Are there any leadership development courses available?",
+        "golden_set": "Yes, courses like 'Leadership Development Learning Bundle' for $279 and 'Leadership Best Practices' for $99 are available, both offered by JER Group."
+    },
+    {
+        "query": "What is the most expensive management certificate course available?",
+        "golden_set": "The most expensive management certificate course is the 'Management & Leadership Studies Certificate' offered by JER Group for $2595."
+    },
+    {
+        "query": "Can I learn about managing change and conflict?",
+        "golden_set": "Yes, the 'Certificate in Managing Change and Resolving Conflict' is available for $630 and is offered by Mindedge."
+    },
+    {
+        "query": "What is the cost of the 'Budgeting in a Nonprofit Organization' course?",
+        "golden_set": "The 'Budgeting in a Nonprofit Organization' course costs $79."
+    },
+    {
+        "query": "Who offers the 'Capital Campaigns' course?",
+        "golden_set": "The 'Capital Campaigns' course is offered by Mindedge."
+    },
+    {
+        "query": "How much does the 'Leadership in a Nonprofit Organization' course cost?",
+        "golden_set": "The 'Leadership in a Nonprofit Organization' course costs $99."
+    },
+    {
+        "query": "Which course covers volunteer development for nonprofits?",
+        "golden_set": "The 'Non-profit Board and Volunteer Development' course covers volunteer development for nonprofits."
+    },
+    {
+        "query": "What is the price of the 'Leading the Courtney Museum Simulation' course?",
+        "golden_set": "The 'Leading the Courtney Museum Simulation' course costs $399."
+    },
+    {
+        "query": "What is the cost of the 'Payroll Management Training & Certification Program'?",
+        "golden_set": "The 'Payroll Management Training & Certification Program' costs $449."
+    },
+    {
+        "query": "Who offers the 'Payroll Wage & Hour Training & Certification Program'?",
+        "golden_set": "The 'Payroll Wage & Hour Training & Certification Program' is offered by JER Group."
+    },
+    {
+        "query": "What is the price of the 'Bartending for the Masters' course?",
+        "golden_set": "The 'Bartending for the Masters' course costs $149."
+    },
+    {
+        "query": "Which course covers professional bar management?",
+        "golden_set": "The 'Professional Bar Management' course covers professional bar management."
+    },
+    {
+        "query": "How much does the 'Agile Certified Practitioner (PMI-ACP)\ufffd Exam Prep' course cost?",
+        "golden_set": "The 'Agile Certified Practitioner (PMI-ACP)\ufffd Exam Prep' course costs $499."
+    },
+    {
+        "query": "Who offers the 'Certificate in Agile Project Management'?",
+        "golden_set": "The 'Certificate in Agile Project Management' is offered by Mindedge."
+    },
+    {
+        "query": "What is the cost of the 'Applied Project Management' course?",
+        "golden_set": "The 'Applied Project Management' course costs $799."
+    },
+    {
+        "query": "What is the price of the 'SalesForce: Power User Course'?",
+        "golden_set": "The 'SalesForce: Power User Course' costs $399."
+    },
+    {
+        "query": "Who offers the 'Search Engine Optimization Certification'?",
+        "golden_set": "The 'Search Engine Optimization Certification' is offered by JER Group."
+    },
+    {
+        "query": "What is the cost of the 'Corporate Social Responsibility' course?",
+        "golden_set": "The 'Corporate Social Responsibility' course costs $99."
+    },
+    {
+        "query": "Who offers the 'Certificate in Sustainable Management'?",
+        "golden_set": "The 'Certificate in Sustainable Management' is offered by Mindedge."
+    },
+    {
+        "query": "What is the cost of the Advanced Certificate in Technical Writing?",
+        "golden_set": "The Advanced Certificate in Technical Writing costs $1299 and is offered by JER Group."
+    },
+    {
+        "query": "What is the focus of the DITA for Content Development (easyDITA) course?",
+        "golden_set": "The DITA for Content Development (easyDITA) course focuses on content development using the DITA XML standard and is priced at $699, provided by JER Group."
+    },
+    {
+        "query": "What certificate programs are available for travel agents?",
+        "golden_set": "The Travel Agent Certificate Program - Instructor Led is available for travel agents and costs $3960, offered by JER Group."
+    },
+    {
+        "query": "How much does the Workplace Experience Certificate in Technical Writing cost?",
+        "golden_set": "The Workplace Experience Certificate in Technical Writing costs $649 and is provided by JER Group."
+    },
+    {
+        "query": "Which course helps prepare for the FAA Part 107 Exam?",
+        "golden_set": "The UAS Remote Pilot Certificate - Test Prep for FAA Part 107 Exam course is available for $190, offered by JER Group."
+    },
+    {
+        "query": "What topics are covered in the Certificate in Leadership for Women in Business?",
+        "golden_set": "The Certificate in Leadership for Women in Business covers topics such as communication, negotiation, networking, mentorship, and work-life balance. It is priced at $499 and is offered by Mindedge."
+    },
+    {
+        "query": "Is there a beginner course for drone enthusiasts?",
+        "golden_set": "Yes, the Drone Flying 101-A Beginner's Guide for Drone Enthusiasts course is available for $99, offered by JER Group."
+    },
+    {
+        "query": "What is the cost of the Career Builder Certificate in Technical Writing with Microsoft Word 2016?",
+        "golden_set": "The Comprehensive Career Builder Certificate in Technical Writing with Microsoft Word 2016 (including Voucher) costs $2749 and is offered by JER Group."
+    },
+    {
+        "query": "Which course teaches hotel operations and sales?",
+        "golden_set": "The Hotel Sales and Operations Instructor Led course teaches hotel operations and sales. It is available for $369, provided by JER Group."
+    },
+    {
+        "query": "What types of communication courses are offered?",
+        "golden_set": "The offered communication courses include the 'Certificate in Business Communications', 'Effective Emails, Memos, and Letters', 'Effective Public Speaking', and various writing courses such as 'Writers at Work: A Review for Professionals'."
+    },
+    {
+        "query": "How much does the 'Certificate in Communication and Writing Skills with Office 2016' cost?",
+        "golden_set": "The 'Certificate in Communication and Writing Skills with Office 2016' costs $1999."
+    },
+    {
+        "query": "Are there any courses focused on creativity and innovation?",
+        "golden_set": "Yes, there are several courses on creativity and innovation, including 'Certificate in Innovation and Critical Thinking', 'Creativity in Teams and Organizations', and 'Personal Creativity'."
+    },
+    {
+        "query": "What is the cost of the 'Bartending at Home-Online' course?",
+        "golden_set": "The 'Bartending at Home-Online' course costs $39."
+    },
+    {
+        "query": "Can you tell me about the emerging technologies courses available?",
+        "golden_set": "The emerging technologies courses include 'Certificate in Emerging Technology for Managers', 'A Manager's Guide to Artificial Intelligence', 'A Manager's Guide to Block Chain', and 'A Manager's Guide to Robotics'."
+    },
+    {
+        "query": "What are the requirements for the 'HVAC Technician Online (A Career Builder Course)'?",
+        "golden_set": "The specific requirements for the 'HVAC Technician Online (A Career Builder Course)' are not listed, but it typically requires a high school diploma or equivalent and an interest in pursuing a career in HVAC."
+    },
+    {
+        "query": "Which partner offers the 'Customer Service for Bars and Restaurants-Online' course?",
+        "golden_set": "The 'Customer Service for Bars and Restaurants-Online' course is offered by JER Group."
+    },
+    {
+        "query": "What skills can I learn from the 'Certificate in Business Communications'?",
+        "golden_set": "The 'Certificate in Business Communications' covers skills such as effective writing, persuasive communication, and collaboration in professional settings."
+    },
+    {
+        "query": "What courses are offered under the Entrepreneurship section?",
+        "golden_set": "The courses offered under the Entrepreneurship section include: 1. Certificate in Entrepreneurship 2. Entrepreneurship (ACE CREDIT\ufffd) 3. Accounting and Finance for Entrepreneurs 4. Business Law for Entrepreneurs 5. Introduction to Entrepreneurship 6. Leadership and Management for Entrepreneurship 7. Strategic Marketing for Entrepreneurs."
+    },
+    {
+        "query": "How much does the Introduction to Entrepreneurship course cost?",
+        "golden_set": "The Introduction to Entrepreneurship course costs $129."
+    },
+    {
+        "query": "What are the key topics covered in the General Business Skills courses?",
+        "golden_set": "Key topics covered in the General Business Skills courses include business professionalism, customer service, business organizations and the law, and technical report writing."
+    },
+    {
+        "query": "Can you list the courses available in Grant Writing?",
+        "golden_set": "The courses available in Grant Writing are: 1. Introduction to Grant Research and Writing Certificate 2. Introduction to Grant Writing."
+    },
+    {
+        "query": "What is the cost of the Hotel Certificate Program?",
+        "golden_set": "The Hotel Certificate Program costs $1400."
+    },
+    {
+        "query": "What training is available for Human Resources?",
+        "golden_set": "Training available for Human Resources includes: 1. 401(k) Training & Certification Program 2. ADA Training & Certification Program 3. COBRA Training & Certification Program 4. Cafeteria Plan Training & Certification Program 5. Compensation Training & Certification Program 6. HIPAA Privacy Training & Certification Program 7. Payroll Management Training & Certification Program, among others."
+    },
+    {
+        "query": "Which course in International Trade has the highest cost?",
+        "golden_set": "The course in International Trade with the highest cost is the Certified Global Business Professional (CGBP) Exam Prep, which costs $799."
+    },
+    {
+        "query": "Are there any courses on global marketing?",
+        "golden_set": "Yes, there is a course on Global Marketing available, which costs $275."
+    },
+    {
+        "query": "What are the main subjects of the Accounting and Finance for Entrepreneurs course?",
+        "golden_set": "The Accounting and Finance for Entrepreneurs course covers fundamental financial principles, financial statement analysis, budgeting, and financial planning specifically tailored for entrepreneurs."
+    },
+    {
+        "query": "What courses are available in International Trade?",
+        "golden_set": "The available courses in International Trade include:"
+    },
+    {
+        "query": "Can you tell me about the costs associated with the Nonprofit courses?",
+        "golden_set": "The costs for Nonprofit courses are as follows:"
+    },
+    {
+        "query": "What is the cost of the Professional Bartending Courses?",
+        "golden_set": "The costs for Professional Bartending Courses are:"
+    },
+    {
+        "query": "Are there any Project Management courses I can take?",
+        "golden_set": "Yes, the Project Management courses available include:"
+    },
+    {
+        "query": "What are the costs for the courses in the Sales & Marketing section?",
+        "golden_set": "The costs for the courses in the Sales & Marketing section are as follows: 1. Certificate Course in Writing for a Global Market - $499, 2. Marketing Tools and Tips for Success - $199, 3. Marketing Training Bundle - $349, 4. Sales Coach Online - $497, 5. Sales Training Bundle - $349, 6. SalesForce: Power User Course - $399, 7. Search Engine Optimization Certification - $1095."
+    },
+    {
+        "query": "Can you list the courses offered in the Social Media Marketing section?",
+        "golden_set": "The courses offered in the Social Media Marketing section include: 1. Certificate Course in Writing for a Global Market, 2. Digital Marketing & Social Media Career Advancement Certificate, 3. Digital Marketing & Social Media Career Advancement Certificate (including Voucher), 4. Digital Marketing Certification, 5. Facebook Level 1 and Level 2, 6. Launch Yourself! Personal Branding Using Social Media, 7. Marketing Tools and Tips for Success, 8. Marketing with Google and YouTube, 9. Marketing with LinkedIn, 10. Marketing with Pinterest, 11. Marketing with Reddit, 12. Marketing with Tumblr, 13. Marketing with Twitter, 14. Search Engine Optimization Certification, 15. Search Engine Optimization Certification (including Voucher), 16. Social Media & Digital Marketing 101, 17. Social Media Certification, 18. Social Media Marketing Certificate Series, 19. YouTube 101 For Creators, Starting Your Own YouTube Channel."
+    },
+    {
+        "query": "What is the price of the Lean Six Sigma Green Belt Course Library?",
+        "golden_set": "The Lean Six Sigma Green Belt Course Library is offered at a cost of $249."
+    },
+    {
+        "query": "Are there any courses for starting a business in the Start Your Own Business section?",
+        "golden_set": "Yes, the courses for starting a business in the Start Your Own Business section include: 1. Accounting Fundamentals for Small Businesses - $99, 2. Budgeting and Financial Analysis for Small Business - $99, 3. Small Business Marketing - $99."
+    },
+    {
+        "query": "What courses are included in the Sustainable Management section?",
+        "golden_set": "The courses included in the Sustainable Management section are: 1. An Overview of Sustainable Management - $79, 2. Certificate in Sustainable Management - $459, 3. Corporate Social Responsibility - $99, 4. Measuring Sustainable Management Performance - $99, 5. Sustainable Management: Leadership Ethics - $99, 6. Taking the Helm at Coastal Industries Simulation - $399, 7. Triple Bottom Line Accounting - $99."
+    },
+    {
+        "query": "Can you provide details about the Technical Writing courses available?",
+        "golden_set": "The Technical Writing section includes the following courses: 1. Advanced Certificate Course in Structured Writing for Technical Documentation - $349, 2. Advanced Certificate in Technical Writing - $1299, 3. Advanced Technical Writing - $335, 4. Basic Certificate in Technical Writing - $975, 5. Career Advancement Certificate: Comprehensive Career Builder Certificate in Technical Writing - $2399, 6. Certificate Course in Technical Business Writing for Engineers - $349, 7. Certificate in Professional Technical Communication - Portfolio - $1200, 8. Technical Reports for Industry, Government, and Business (A Career Builder Course) - $975, 9. Writers at Work Technical Certificate Program - $645."
+    },
+    {
+        "query": "What courses are available for those interested in travel agent training?",
+        "golden_set": "The available courses for travel agent training include the Travel Agent Certificate Program, Airline Certificate Program, and Tour Operator Certificate. Each course is designed to provide the necessary skills and knowledge for a career in the travel industry."
+    },
+    {
+        "query": "How much does the Hotel Certificate Program cost?",
+        "golden_set": "The Hotel Certificate Program costs $1400."
+    },
+    {
+        "query": "Who is the partner for the Cruise Line Certificate Program?",
+        "golden_set": "The partner for the Cruise Line Certificate Program is JER Group."
+    },
+    {
+        "query": "What is the cost of the Drone Flying 101 course?",
+        "golden_set": "The cost of the Drone Flying 101 course is $99."
+    },
+    {
+        "query": "Is there a course available for preparing for the FAA Part 107 exam?",
+        "golden_set": "Yes, there is a course titled 'UAS Remote Pilot Certificate - Test Prep for FAA Part 107 Exam' available for $190."
+    },
+    {
+        "query": "What is the cost of the Certificate in Leadership for Women in Business?",
+        "golden_set": "The cost of the Certificate in Leadership for Women in Business is $499."
+    },
+    {
+        "query": "What topics are covered in the 'Negotiation for Women in Business' course?",
+        "golden_set": "The 'Negotiation for Women in Business' course covers various negotiation techniques, strategies, and practical skills specifically tailored for women in business."
+    },
+    {
+        "query": "What types of courses are available in the Adobe Software section?",
+        "golden_set": "The Adobe Software section offers a variety of courses including Adobe Audition Essentials, Adobe CC Design Masterclass Bundle, Adobe Illustrator Advanced, Adobe Photoshop CC, and many others focused on different Adobe applications."
+    },
+    {
+        "query": "How much does the Adobe Certified Professional course cost?",
+        "golden_set": "The Adobe Certified Professional course costs $2,795, which includes vouchers for certification."
+    },
+    {
+        "query": "What is the cost of the CompTIA A+ Certification Training?",
+        "golden_set": "The CompTIA A+ Certification Training costs $1,695."
+    },
+    {
+        "query": "Are there any bundle courses available for Adobe software?",
+        "golden_set": "Yes, there are bundle courses available, such as the Adobe CC Design Masterclass Bundle for $299 and the Adobe CC Training Bundle for $199."
+    },
+    {
+        "query": "Can I find courses for CompTIA certifications?",
+        "golden_set": "Yes, there are several CompTIA certification training courses available, including Network+, Security+, and Cloud+, with various pricing options."
+    },
+    {
+        "query": "What is the link for the Adobe Dreamweaver CC course?",
+        "golden_set": "You can find the Adobe Dreamweaver CC course at this link: [Adobe Dreamweaver CC](https://und.coursecatalog.com/coursedetail.aspx?courseId=2540)."
+    },
+    {
+        "query": "Are there any intermediate Photoshop courses available?",
+        "golden_set": "Yes, there are intermediate Photoshop courses available, such as Intermediate Photoshop CS5 and Intermediate Photoshop CS6, each costing $115."
+    },
+    {
+        "query": "What is included in the Complete IT Training Series?",
+        "golden_set": "The Complete IT Training Series includes courses for CompTIA, Cisco, and Microsoft certifications, along with live labs for practical experience, and costs $1,995."
+    },
+    {
+        "query": "What are some online courses available for learning programming?",
+        "golden_set": "Some online courses available for learning programming include: C# Programming for the Absolute Beginner, C++ for the Absolute Beginner, Introduction to Python 3 Programming, and Introduction to Java Programming. These courses are offered by Ed2Go and cost between $115 and $129."
+    },
+    {
+        "query": "Can you provide details about the course 'Creating Mobile Apps with HTML5'?",
+        "golden_set": "'Creating Mobile Apps with HTML5' is an online course offered by Ed2Go that costs $129. It focuses on teaching the skills needed to build mobile applications using HTML5."
+    },
+    {
+        "query": "What database management courses can I take to improve my skills?",
+        "golden_set": "You can take courses such as 'Intermediate SQL', 'Introduction to Data Analysis', and 'Certificate in Data Analytics'. These courses range from $79 to $549 and are offered through Ed2Go and Mindedge."
+    },
+    {
+        "query": "Are there any courses related to web design?",
+        "golden_set": "Yes, there are several courses related to web design, including 'Advanced CSS3 and HTML5', 'Creating Web Pages', and 'Creating WordPress Websites'. These courses are offered by Ed2Go and typically cost around $129."
+    },
+    {
+        "query": "What is the cost of the 'Digital Game Artist Certificate' course?",
+        "golden_set": "The 'Digital Game Artist Certificate' course is offered by Ed2Go and costs $2,595."
+    },
+    {
+        "query": "Can you list some intermediate programming courses?",
+        "golden_set": "Some intermediate programming courses include 'Intermediate C# Programming', 'Intermediate Java Programming', 'Intermediate PHP and MySQL', and 'Intermediate CSS3 and HTML5'. These courses are typically priced at $129."
+    },
+    {
+        "query": "What are the prerequisites for the 'Management for IT Professionals' course?",
+        "golden_set": "'Management for IT Professionals' is a comprehensive course offered by Ed2Go for $2,295. While specific prerequisites may not be listed, a background in IT or related fields is likely beneficial for understanding the course material."
+    },
+    {
+        "query": "What courses are available in Digital Marketing?",
+        "golden_set": "The available courses in Digital Marketing include OMCP\ufffd Digital Analytics and Conversion Professional, OMCP\ufffd Paid Search Professional, Search Engine Marketing, OMCP\ufffd Search Marketing Professional, and OMCPA\ufffd Social and Mobile Marketing Professional."
+    },
+    {
+        "query": "What is the cost of the Search Engine Marketing course?",
+        "golden_set": "The cost of the Search Engine Marketing course is $1895."
+    },
+    {
+        "query": "Are there any Digital Photography courses offered?",
+        "golden_set": "Yes, the Digital Photography courses offered include Discover Digital Photography, Mastering Digital Photography: Photographing People, Mastering Your Digital SLR Camera, Photographing Nature with Your Digital Camera, Secrets of Better Photography, and Travel Photography for the Digital Photographer."
+    },
+    {
+        "query": "What is the price for the Mastering Your Digital SLR Camera course?",
+        "golden_set": "The price for the Mastering Your Digital SLR Camera course is $115."
+    },
+    {
+        "query": "Can you tell me about the Security courses available?",
+        "golden_set": "The Security courses available include Access Control and Identity Management Scenarios, Application, Data, and Host Security Scenarios, Asset Security, Certificate in Cybersecurity, Cloud Data Security, Cloud Infrastructure and Platform Security, and many others, with costs ranging from $79 to $1595."
+    },
+    {
+        "query": "What course is included in the AWS & Docker Essentials Bundle?",
+        "golden_set": "The AWS & Docker Essentials Bundle includes comprehensive training on AWS and Docker concepts, aimed at equipping learners with essential cloud and container management skills. The cost of the bundle is $649."
+    },
+    {
+        "query": "Is there a course for beginners in Networking?",
+        "golden_set": "Yes, there are several courses for beginners in Networking, including Introduction to Networking and Intermediate Networking, both priced at $129."
+    },
+    {
+        "query": "What is the cost of the Adobe Certified Web Master Package?",
+        "golden_set": "The Adobe Certified Web Master Package costs $219."
+    },
+    {
+        "query": "Are there any courses for learning Microsoft Excel?",
+        "golden_set": "Yes, there are multiple courses for learning Microsoft Excel, including Introduction to Microsoft Excel 2019/Office 365, Microsoft Excel 2019/Office 365 Series, and Advanced Microsoft Excel 2019/Office 365 Series, with costs ranging from $147 to $324."
+    },
+    {
+        "query": "What types of courses are offered under 'Children, Parents and Family'?",
+        "golden_set": "Courses offered under 'Children, Parents and Family' include Assisting Aging Parents, Child Development Associate Training, Genealogy Basics, and Marriage and Relationships: Keys to Success."
+    },
+    {
+        "query": "How much does the Child Development Associate Training cost?",
+        "golden_set": "The Child Development Associate Training costs $850."
+    },
+    {
+        "query": "Are there any health and wellness courses available?",
+        "golden_set": "Yes, there are several health and wellness courses available, including Back and Safety Ergonomics, Health & Wellness Training Series, and Happy and Healthy Pregnancy."
+    },
+    {
+        "query": "What is the cost of the Personal Fitness Trainer course?",
+        "golden_set": "The Personal Fitness Trainer course costs $2,995."
+    },
+    {
+        "query": "Can you list some job search courses?",
+        "golden_set": "Some job search courses include 12 Steps to a Successful Job Search, Resume Writing Workshop, and Ultimate Resume Building."
+    },
+    {
+        "query": "How much does the Resume Writing Workshop cost?",
+        "golden_set": "The Resume Writing Workshop costs $135."
+    },
+    {
+        "query": "Is there a course on nutrition?",
+        "golden_set": "Yes, there is a course called 'Nutrition and Fitness Coach Certificate' which costs $1,895."
+    },
+    {
+        "query": "What partner offers the course 'Homeschool With Success'?",
+        "golden_set": "The course 'Homeschool With Success' is offered by Ed2Go."
+    },
+    {
+        "query": "What personal enrichment courses are available for individuals interested in photography?",
+        "golden_set": "Available personal enrichment courses for photography include 'Discover Digital Photography' for $115, 'Digital Photography Basics' for $299, 'Mastering Digital Photography: Photographing People' for $115, and a comprehensive 'Photography Suite' for $299."
+    },
+    {
+        "query": "What health and wellness courses can I take to become a certified health coach?",
+        "golden_set": "To become a certified health coach, you can take the 'Health & Wellness Coach Certificate' course for $2795, which is designed to provide you with the necessary skills and knowledge."
+    },
+    {
+        "query": "Are there any job search courses that can help me improve my resume?",
+        "golden_set": "Yes, you can take the 'Resume Writing Workshop' for $135 or the 'Ultimate Resume Building' course for $99 to enhance your resume writing skills."
+    },
+    {
+        "query": "What are the costs associated with Kaplan test preparation courses?",
+        "golden_set": "Kaplan test preparation courses vary in cost: the 'DAT Limitless Prep Program' and 'GMAT Prep Program - Complete Live Online' are both $899, while the 'GRE Prep Program - Live Online' costs $799, and the 'MCAT Prep Program - Live Online' is $1699."
+    },
+    {
+        "query": "What courses are offered for personal development related to home improvement?",
+        "golden_set": "For personal development in home improvement, you can take the 'DIY Home Improvement Basics' course for $299, which covers essential skills and techniques."
+    },
+    {
+        "query": "Is there a course on leadership development available?",
+        "golden_set": "Yes, there are several courses on leadership development, including 'Leadership Best Practices' for $99 and the 'Leadership Development Learning Bundle' for $279."
+    },
+    {
+        "query": "What types of Continuing Education courses are offered at UND?",
+        "golden_set": "UND offers a variety of Continuing Education (CE) courses including Practitioner Certification courses in Nutrition Care and Sanitation, as well as general CE courses on topics like budgeting, nutrition, effective communication, and team building."
+    },
+    {
+        "query": "How many hours of continuing education can I earn from the Practitioner Certification courses?",
+        "golden_set": "Each Practitioner Certification course provides a total of 45 hours of continuing education, which includes 1 hour of ethics, 9 hours of sanitation, and 35 hours of general continuing education."
+    },
+    {
+        "query": "Are the CE courses offered online?",
+        "golden_set": "Yes, all CE courses listed are offered online, allowing for flexible learning."
+    },
+    {
+        "query": "What are some specific topics covered in the general CE courses?",
+        "golden_set": "Specific topics in the general CE courses include Budgeting 101, Nutrition at Every Bite, Dementia and Nutrition, Effective Communication in Foodservice, and Hypertension: Nutrition & Lifestyle."
+    },
+    {
+        "query": "Is there a course that focuses on emotional intelligence in the workplace?",
+        "golden_set": "Yes, there is a course titled 'Emotional Intelligence' that addresses its importance and application in the workplace."
+    },
+    {
+        "query": "What is the duration of the 'Nutrition Screening' course?",
+        "golden_set": "The 'Nutrition Screening' course has a duration of 10 hours."
+    },
+    {
+        "query": "How can I select courses to meet my training requirements?",
+        "golden_set": "You can select courses from the dropdown menus provided on the CE course page to achieve your required training."
+    },
+    {
+        "query": "Can I find courses related to managing foodservice budgets?",
+        "golden_set": "Yes, there are several courses related to managing foodservice budgets, including 'Budgeting 101: Managing the Foodservice Budget' and 'Budgeting 101: Skills for Effective Foodservice Budgeting.'"
+    },
+    {
+        "query": "What is the focus of the course 'Creating a Personalized Nutrition Care Plan'?",
+        "golden_set": "The course 'Creating a Personalized Nutrition Care Plan' focuses on utilizing the RAI & MDS process to develop tailored nutrition care plans for individuals."
+    },
+    {
+        "query": "What are the available sanitation CE courses?",
+        "golden_set": "The available sanitation CE courses include Cross Contamination, Handwashing: The Power of Soap & Water, Making it Safe: Creating a Food Safe Culture, Top 10 Foodborne Illness Outbreaks: Be Prepared, and Total Recall: Responding to a Food Recall."
+    },
+    {
+        "query": "What is required to maintain the CDM, CFPP credential?",
+        "golden_set": "To maintain the CDM, CFPP credential, you must complete 45 hours of approved Continuing Education (CE) every three years, including a minimum of 9 hours in approved sanitation CE. You also need to report 1 hour focusing on professional ethics, starting from June 1, 2019."
+    },
+    {
+        "query": "When do CE credits need to be reported?",
+        "golden_set": "All required CE credits must be obtained no later than May 31 of your three-year qualifying period."
+    },
+    {
+        "query": "How can CDM, CFPP credential holders report their CE hours?",
+        "golden_set": "CDM, CFPP credential holders can report their CE hours by logging into their online profile at www.CBDMonline.org, selecting 'My Certification' in the menu, and entering their CE activity."
+    },
+    {
+        "query": "What happens if insufficient CE hours are reported?",
+        "golden_set": "If insufficient CE hours are reported, credential holders may be subject to random audits. It is important for each CDM, CFPP to keep accurate records of their CE hours in case of an audit."
+    },
+    {
+        "query": "What is the purpose of the Ethics as a Daily Practice course?",
+        "golden_set": "The 'Ethics as a Daily Practice' course is designed to help participants understand and integrate ethical practices into their daily professional activities."
+    },
+    {
+        "query": "What is the duration and focus of the Nutrition Screening course?",
+        "golden_set": "The Nutrition Screening course is a 10-hour CE course that provides a comprehensive introduction to the Nutrition Screening process, focusing on anthropometrics, biochemical data collection, and ethics related to nutrition screening."
+    },
+    {
+        "query": "How can I register for the Nutrition Screening course?",
+        "golden_set": "You can register for the Nutrition Screening course by clicking the 'REGISTER NOW' link provided on the course page."
+    },
+    {
+        "query": "What is included in the course cost?",
+        "golden_set": "The course cost is $100, which includes tuition and online learning materials."
+    },
+    {
+        "query": "How long do I have access to the course after enrolling?",
+        "golden_set": "You will have access to the course for up to six months from your enrollment date."
+    },
+    {
+        "query": "What materials and activities are included in the course?",
+        "golden_set": "The course includes reading and completing textbook learning exercises, quizzes at the end of each of the five lessons, and the ability to print a certificate of completion for your records."
+    },
+    {
+        "query": "What CE hours will I receive upon completing the course?",
+        "golden_set": "Upon completion of the course, you will receive a certificate for 10 hours of CE, which includes 9 General CEs and 1 Ethics CE."
+    },
+    {
+        "query": "Are there any refunds or extensions available for this course?",
+        "golden_set": "No, there are no refunds and no extensions offered for this course."
+    },
+    {
+        "query": "Are there any refunds available for the Terminology & Diseases course?",
+        "golden_set": "No, there are no refunds available for this course."
+    },
+    {
+        "query": "What is the minimum age requirement to take this course?",
+        "golden_set": "Individuals must be at least 18 years of age to take this course."
+    },
+    {
+        "query": "What is expected of professionals involved in death scene investigations regarding confidentiality?",
+        "golden_set": "Course enrollees are expected to respect the confidential nature of the material presented and must not download or share the materials in any manner."
+    },
+    {
+        "query": "What should participants be aware of regarding the content of the course?",
+        "golden_set": "Participants should be aware that the course may contain graphic material due to the nature of medicolegal death investigation."
+    },
+    {
+        "query": "When do courses begin after registration?",
+        "golden_set": "All courses begin at the time of registration."
+    },
+    {
+        "query": "What should I do if I enroll in more than one course?",
+        "golden_set": "If you enroll in more than one course at the same time, they will all start at the same time."
+    },
+    {
+        "query": "How do I select a certificate during the registration process?",
+        "golden_set": "You will be prompted to select a certificate during the registration process. Only select the certificate that applies to you and your discipline. If your specific discipline is not listed, please choose 'certificate of completion.'"
+    },
+    {
+        "query": "How will I receive my username and password for the online course?",
+        "golden_set": "You will be emailed a username and password within 2 to 3 days after your registration is processed to access your online course in Blackboard."
+    },
+    {
+        "query": "What should I do if I don't receive my username and password email?",
+        "golden_set": "If you do not receive the email, contact our office to verify your email address."
+    },
+    {
+        "query": "How long does it take to receive materials for a correspondence by mail course?",
+        "golden_set": "After enrolling in a correspondence by mail course, you'll receive a package containing your course materials within approximately 2 weeks."
+    },
+    {
+        "query": "Can I switch between online and correspondence by mail course formats?",
+        "golden_set": "Yes, you may switch formats for a $100 fee. If you switch from online to correspondence by mail, your online passwords will be revoked. If you switch to online, you will receive new passwords."
+    },
+    {
+        "query": "How long do I have to complete my course?",
+        "golden_set": "You have 12 months to complete your course, starting 2 weeks after your application is processed."
+    },
+    {
+        "query": "What happens if I need more time to complete the course?",
+        "golden_set": "If you need more time, you may purchase an extension. However, if you do not purchase an extension before your 12-month completion date, your course will be canceled."
+    },
+    {
+        "query": "When does my 12-month timeline start?",
+        "golden_set": "Your 12-month timeline starts 2 weeks after your application is processed, but you can begin as soon as your materials or login information arrive."
+    },
+    {
+        "query": "What certifications can I earn through UND's Dietary Manager Program?",
+        "golden_set": "Through UND's Dietary Manager Program, you can earn the Certified Dietary Manager (CDM) and Certified Food Protection Professional (CFPP) certifications."
+    },
+    {
+        "query": "What makes UND's dietary manager training program stand out?",
+        "golden_set": "UND's dietary manager training program consistently exceeds national standards for certification exam pass rates and is competitively priced compared to other programs."
+    },
+    {
+        "query": "Are the training programs approved by any organizations?",
+        "golden_set": "Yes, the training programs are approved and accepted by the Association of Nutrition & Foodservice Professionals (ANFP)."
+    },
+    {
+        "query": "Can I enroll in the program at any time?",
+        "golden_set": "Yes, you can enroll at any time of the year, and the courses are flexible and self-paced to fit your schedule."
+    },
+    {
+        "query": "What are the Pathway options for obtaining the CDM, CFPP Credential?",
+        "golden_set": "The Pathway options include: Pathway I (no degree, no experience), Pathway II (related degree, missing courses), Pathway III(b) (no degree, 2 years of experience), Pathway III(b) Accelerated Track (complete in 2 months), and Pathway V (degree and 5 years of experience)."
+    },
+    {
+        "query": "What additional courses are available besides the main training program?",
+        "golden_set": "Additional courses include the Dietary Manager Exam Review Course, which can be completed in two weeks to six months, and various Continuing Education (CE) courses to meet CBDM CE requirements."
+    },
+    {
+        "query": "How long do I have to complete the Dietary Manager Program?",
+        "golden_set": "The duration for completing the program varies by pathway, with some pathways allowing completion within a year or as short as two months for the accelerated track."
+    },
+    {
+        "query": "Is there support available from faculty during the program?",
+        "golden_set": "Yes, UND's expert faculty are available via email to answer questions and facilitate learning."
+    },
+    {
+        "query": "What is the role of a proctor in examinations?",
+        "golden_set": "A proctor supervises examinations, ensuring fairness and academic integrity during testing situations."
+    },
+    {
+        "query": "What steps do I need to follow to take my exam?",
+        "golden_set": "To take your exam, you need to: 1) Read the Proctor Policy, 2) Designate your proctor and request your exam, and 3) Complete your exam."
+    },
+    {
+        "query": "How far in advance do I need to request an exam?",
+        "golden_set": "You must complete the Request for Exam Form at least 3-5 business days prior to your online exam."
+    },
+    {
+        "query": "Who can serve as an approved proctor?",
+        "golden_set": "Approved proctors can include a Proctor U representative, Directors of Nursing, Human Resources Managers, Teachers/Professors, and various educational administrators."
+    },
+    {
+        "query": "Are there any individuals who cannot be proctors?",
+        "golden_set": "Yes, individuals who cannot be proctors include registered dietitians, students, friends, relatives, spouses, direct supervisors, and colleagues at the same level."
+    },
+    {
+        "query": "What should proctors verify before the exam begins?",
+        "golden_set": "Proctors must verify the identity of the student with a photo ID and read all exam instructions to the student before they begin the exam."
+    },
+    {
+        "query": "What are some rules that proctors must follow during the exam?",
+        "golden_set": "Proctors must administer the exam within 2 weeks at their school or place of business, ensure the student does not leave the room, monitor the exam closely, and not allow any books or notes unless specified."
+    },
+    {
+        "query": "What should I do if my designated proctor is unable to administer the exam?",
+        "golden_set": "If your proctor is unable to administer the exam, contact UND at 701.777.0488 for assistance."
+    },
+    {
+        "query": "What should a proctor do if they suspect a student of cheating?",
+        "golden_set": "If a proctor suspects a student of cheating, they should contact UND as soon as possible at 701.777.0488."
+    },
+    {
+        "query": "What steps do I need to follow to request an exam?",
+        "golden_set": "To request an exam, first receive permission from your designated proctor and agree on a date, time, and location. Then, enter your proctor and exam information into the Request for Exam Form. After submission, your proctor will be verified, and upon approval, your proctor will receive your exam information."
+    },
+    {
+        "query": "What identification do I need to present on exam day?",
+        "golden_set": "You need to present a government-issued photo ID, such as a driver\ufffds license or passport, to your proctor before taking the exam."
+    },
+    {
+        "query": "Can I use books or notes during my exam?",
+        "golden_set": "No, students are not allowed to use books, notes, or any reference aids during the exam unless specified in the exam instructions."
+    },
+    {
+        "query": "What should I do if I cannot take the exam within two weeks?",
+        "golden_set": "If you cannot take the exam within two weeks, your proctor will notify the office. It's important to reschedule or make arrangements as needed."
+    },
+    {
+        "query": "What should I expect during my ProctorU Live+ exam?",
+        "golden_set": "During your ProctorU Live+ exam, you will be required to show a valid photo ID, complete a camera pan of your testing area, and ensure that you are in a private, well-lit room. The proctor will also enter the exam password for you."
+    },
+    {
+        "query": "What if I experience technical issues during the exam?",
+        "golden_set": "ProctorU will troubleshoot any technical problems that arise during your session, so you can focus on completing your exam."
+    },
+    {
+        "query": "What should I do if I have technical issues during my ProctorU exam?",
+        "golden_set": "If you experience technical issues during your ProctorU exam, the proctor can assist you. If the exam is not submitted, they can help you re-enter the exam. For submission errors, contact your course instructor or the Office of Extended Learning at 701.777.0488."
+    },
+    {
+        "query": "What are the technical requirements for proctored exams?",
+        "golden_set": "You need a computer with Internet access to take your exam. It should not be taken on smartphones or tablets. Ensure that you are in a private, well-lit environment and avoid using wireless Internet connections. Check the Technical Requirements page for specific browser and operating system requirements."
+    },
+    {
+        "query": "When can I schedule my exam with ProctorU?",
+        "golden_set": "You can schedule your exam with ProctorU Live anytime\ufffd24/7. If you're taking the exam with an in-person proctor, coordinate with them to find a mutually convenient time within two weeks of them receiving the exam password."
+    },
+    {
+        "query": "Can I retake my exam if I score below 70%?",
+        "golden_set": "Yes, you are allowed one retake per exam if you score below 70%. You can retake the exam for a fee of $25. Keep in mind that all scores will be averaged to determine your final score."
+    },
+    {
+        "query": "What do I need to prepare for my ProctorU exam?",
+        "golden_set": "To prepare for your ProctorU exam, ensure you have a working computer with a reliable internet connection. Download the required browser (Chrome or Firefox) and the ProctorU extension. Review the ProctorU Exam Readiness Guide for detailed preparation steps."
+    },
+    {
+        "query": "How can I contact ProctorU for help?",
+        "golden_set": "You can contact ProctorU at 1.855.772.8678 or visit the ProctorU Help Center for more resources and assistance."
+    },
+    {
+        "query": "What is the format of the ANFP Pathway I program?",
+        "golden_set": "The ANFP Pathway I program can be completed online or through correspondence by mail."
+    },
+    {
+        "query": "How long do I have to complete the Nutrition & Foodservice Professional Training Program?",
+        "golden_set": "You have one year to complete the Nutrition & Foodservice Professional Training Program, which requires 270 hours of study."
+    },
+    {
+        "query": "What is the cost of the ANFP Pathway I program?",
+        "golden_set": "The course cost is $575 for the online format and $625 for correspondence by mail."
+    },
+    {
+        "query": "What credential can I earn upon completing this program?",
+        "golden_set": "Upon completing the program, you are eligible to take the CDM Credentialing Exam to earn the CDM, CFPP credential, which qualifies you to become a Dietary Manager."
+    },
+    {
+        "query": "Is the Nutrition & Foodservice Professional Training Program approved?",
+        "golden_set": "Yes, the program is ANFP approved."
+    },
+    {
+        "query": "What do I need to do to prepare for the CDM Credentialing Exam?",
+        "golden_set": "To prepare for the CDM Credentialing Exam, you will complete self-paced lessons in the Nutrition & Foodservice Professional Training Program. Once you finish the program, you can register for the exam, which is offered year-round through computer-based testing."
+    },
+    {
+        "query": "How can I register for the Nutrition & Foodservice Professional Training Program?",
+        "golden_set": "You can register for the program by visiting the registration page [here](https://www.cbdmonline.org/)."
+    },
+    {
+        "query": "What support is available for students in the program?",
+        "golden_set": "Students can access resources such as self-paced lessons designed to fit their schedules, guidance from instructors, and information about the certification process."
+    },
+    {
+        "query": "Who should enroll in the Nutrition & Foodservice Professional Training Program?",
+        "golden_set": "The program is ideal for individuals looking to advance their careers in foodservice management and dietary management, including those currently working in related fields or seeking to enter the profession."
+    },
+    {
+        "query": "What should I do if my corrected lessons are delayed with grading?",
+        "golden_set": "If your corrected lessons are delayed with grading, you should continue to submit your lessons rather than delay your course completion."
+    },
+    {
+        "query": "Do I need to complete all lessons to receive a grade?",
+        "golden_set": "Yes, all lessons must be completed in order to receive a grade."
+    },
+    {
+        "query": "What is the deadline for completing lessons if I have a specific course deadline?",
+        "golden_set": "If you have a specific course deadline, all lessons and exams must be completed and submitted three weeks before that deadline to ensure your course grade is recorded in time."
+    },
+    {
+        "query": "What format should I use to submit lessons for online courses?",
+        "golden_set": "For online courses, all lessons must be submitted as Microsoft Word documents."
+    },
+    {
+        "query": "How do I submit my lessons for online courses?",
+        "golden_set": "Lessons for online courses are submitted using the course management system, Blackboard. Specific instructions are provided in Blackboard and in the course syllabus."
+    },
+    {
+        "query": "How should I submit lessons for correspondence by mail courses?",
+        "golden_set": "Lessons for correspondence by mail courses should be mailed directly to your instructor at the address provided in your course syllabus."
+    },
+    {
+        "query": "What should I include on the Lesson Form when mailing my lessons?",
+        "golden_set": "The address you list on the Lesson Form will be used for returning graded lessons, so please print it clearly."
+    },
+    {
+        "query": "Am I responsible for postage when submitting lessons?",
+        "golden_set": "Yes, you are responsible for postage expenses when submitting lessons and exam requests. Ensure you use the correct amount of postage to avoid issues."
+    },
+    {
+        "query": "What should I do if my lesson gets lost in the mail?",
+        "golden_set": "If your lesson gets lost in the mail, neither UND nor your instructor is responsible for it. It is recommended to make duplicate copies of all submitted lessons."
+    },
+    {
+        "query": "What is required for me to enroll as a student in the NFP Training Program?",
+        "golden_set": "To enroll as a student, you must be currently employed as a food service employee, or arrange for 150 hours of field experience in a food service department, with a minimum of 50 hours in a healthcare facility."
+    },
+    {
+        "query": "Do I need to have a high school diploma to enroll in the program?",
+        "golden_set": "Yes, you need to be a high school graduate, have a GED certificate, or provide a letter of endorsement from your supervisor and administrator."
+    },
+    {
+        "query": "What is required from my facility's administrator for my enrollment?",
+        "golden_set": "The facility's administrator must allow and financially support a registered dietitian to act as a preceptor for a minimum of 50 hours of supervision for each student."
+    },
+    {
+        "query": "What are the technical requirements for taking the course online?",
+        "golden_set": "Both you and your preceptor must feel comfortable with online learning and computers and meet the technical requirements specified by the University of North Dakota."
+    },
+    {
+        "query": "What constitutes scholastic dishonesty in this program?",
+        "golden_set": "Scholastic dishonesty includes not completing your own work with honesty and integrity, such as copying another student's work, and may result in dismissal from the course."
+    },
+    {
+        "query": "Who can act as a registered dietitian preceptor?",
+        "golden_set": "A registered dietitian with at least 1 year of full-time experience post-registration can act as a preceptor, with at least 6 months related to the course subject matter."
+    },
+    {
+        "query": "How many field experience hours are required for the program?",
+        "golden_set": "You are required to complete 150 field experience hours, with a minimum of 50 hours under direct supervision of a registered dietitian."
+    },
+    {
+        "query": "What is the role of the CDM, CFPP, or DTR preceptor?",
+        "golden_set": "The CDM, CFPP, or DTR preceptor, who is optional, has at least 1 year of post-certification employment and can report on the student learning experiences by reviewing and signing non-nutrition-related lessons."
+    },
+    {
+        "query": "Can I complete the required hours in any food service department?",
+        "golden_set": "Yes, but you must ensure that at least 50 of the 150 hours are completed in a healthcare facility."
+    },
+    {
+        "query": "What is a preceptor in the NFP Training Program?",
+        "golden_set": "A preceptor is a registered dietitian (RD) who coordinates your 150 hours of field experiences and directly supervises you for 50 hours of those experiences, providing mentorship and guidance."
+    },
+    {
+        "query": "What are the qualifications for an RD preceptor?",
+        "golden_set": "An RD preceptor must have at least 1 year of full-time experience post-registration, with a minimum of 6 months related to the course subject matter."
+    },
+    {
+        "query": "How are the 50 supervision hours divided if I have a CDM, CFPP, or DTR preceptor?",
+        "golden_set": "The 50 hours may be divided as follows: an RD must supervise at least 25 hours of nutrition-related content, while a CDM, CFPP, or DTR can supervise up to 25 hours of non-nutrition-related material."
+    },
+    {
+        "query": "What if I don't have a preceptor at my facility?",
+        "golden_set": "You can use the services of an RD preceptor from the University of North Dakota for an online format, with a non-refundable service fee of $350."
+    },
+    {
+        "query": "How much time does my RD preceptor need to spend with me?",
+        "golden_set": "Your RD preceptor needs to spend a total of 50 hours directly supervising you, which is approximately 1 hour per week for a year."
+    },
+    {
+        "query": "What activities can count towards the 50-hour preceptor requirement?",
+        "golden_set": "Activities that can count towards the 50-hour requirement include designing projects for you to complete, directly supervising your field experiences, and reviewing lessons before submission to the instructor."
+    },
+    {
+        "query": "What should I do if my RD preceptor leaves my facility?",
+        "golden_set": "If your RD preceptor leaves, you can ask the person who replaces them to be your new preceptor, and your administrator can assist with this process."
+    },
+    {
+        "query": "What do I need to do to change my preceptor?",
+        "golden_set": "To change your preceptor, your new RD preceptor must submit a Preceptor Application along with their CDR Registration number to UND at [UND.courses@UND.edu](mailto:UND.courses@UND.edu)."
+    },
+    {
+        "query": "Can a CDM, CFPP, or DTR preceptor supervise any nutrition-related material?",
+        "golden_set": "No, a CDM, CFPP, or DTR preceptor can only supervise non-nutrition-related material. An RD must supervise all nutrition-related content."
+    },
+    {
+        "query": "What is a preceptor?",
+        "golden_set": "ANFP requires each student to have a registered dietitian (RD) preceptor who coordinates 150 hours of field experiences and directly supervises 50 hours. The RD preceptor must have at least 1 year of full-time post-registration experience, with at least 6 months related to the course subject matter. The preceptor helps plan experiences, supervises the student, and reports to the UND instructor."
+    },
+    {
+        "query": "What if I don't have a preceptor?",
+        "golden_set": "You may use the services of an RD preceptor from the University of North Dakota for a non-refundable fee of $350. This service is available online only. Once registered, refunds for the RD preceptor service are not available."
+    },
+    {
+        "query": "How much time does my RD preceptor need to spend with me?",
+        "golden_set": "The Certifying Board for Dietary Managers requires that an RD preceptor spends a total of 50 hours directly supervising the student. This supervision usually occurs over the course of a year (approximately 1 hour per week). Some lessons may require more or less time."
+    },
+    {
+        "query": "Can a CDM, CFPP, or DTR preceptor supervise an intern?",
+        "golden_set": "Yes, but only for non-nutrition-related material. An RD must supervise a minimum of 25 hours of nutrition-related content, while a CDM, CFPP, or DTR can supervise up to 25 hours of non-nutrition-related material."
+    },
+    {
+        "query": "What activities count toward the 50-hour requirement?",
+        "golden_set": "Activities that count toward the 50-hour preceptor requirement include designing projects, direct supervision of field experiences, reviewing lessons, and submitting evaluation forms."
+    },
+    {
+        "query": "What happens if my RD preceptor leaves my facility?",
+        "golden_set": "You will need to find a replacement RD preceptor to continue the course. Your administrator can help you in this process. The new preceptor must submit a Preceptor Application and their CDR Registration number."
+    },
+    {
+        "query": "How do I change my preceptor?",
+        "golden_set": "To change your preceptor, the new RD preceptor must submit a Preceptor Application along with their CDR Registration number to UND."
+    },
+    {
+        "query": "Why is it important for each student to personally register for their own course?",
+        "golden_set": "It is important for each student to personally register to ensure that UND obtains the correct contact information and email. UND is not responsible for undelivered information due to incorrect email addresses."
+    },
+    {
+        "query": "What should students do after registering for the course?",
+        "golden_set": "Students must order textbooks immediately after registering. For more information, they can visit the textbook information page."
+    },
+    {
+        "query": "What agreement must all parties (Student, Administrator, and Preceptor) abide by before enrollment?",
+        "golden_set": "All parties must agree to abide by the University of North Dakota's Participation Agreement policies before enrolling in the course."
+    },
+    {
+        "query": "Where are quizzes and exams completed?",
+        "golden_set": "All quizzes and exams are offered and completed online. Additionally, the RD Preceptor receives the Preceptor's Manual and course materials in an online format."
+    },
+    {
+        "query": "What is required for field experience during the course?",
+        "golden_set": "Students must be currently employed (at least part-time) as a foodservice employee in an institutional foodservice facility or personally arrange for 150 hours of field experience. UND does not arrange for field experience sites."
+    },
+    {
+        "query": "What is scholastic dishonesty, and what are the consequences?",
+        "golden_set": "Scholastic dishonesty is defined as copying another student's work or failing to complete work with honesty and integrity. This may result in dismissal from the course."
+    },
+    {
+        "query": "Are there any refunds allowed after registering for the course?",
+        "golden_set": "No, there are no refunds allowed once registered for the course."
+    },
+    {
+        "query": "Can I transfer my enrollment to another student?",
+        "golden_set": "Yes, you may transfer the Nutrition & Foodservice Professional Training Program to someone else in your facility within the first 6 months of enrollment. The new student will start at the beginning of the course and use your textbooks and materials. The transfer fee is $100."
+    },
+    {
+        "query": "What is the fee for transferring the course to another student?",
+        "golden_set": "The transfer fee is $100, and it must be done within the first 6 months of your enrollment."
+    },
+    {
+        "query": "How many times can I transfer the course to another student?",
+        "golden_set": "You can transfer the course only once within the first 6 months of your enrollment."
+    },
+    {
+        "query": "How do I request a transfer to another student?",
+        "golden_set": "To request a transfer, you need to contact the Office of Extended Learning at 701.777.0488."
+    },
+    {
+        "query": "Can I switch between course formats (online and correspondence)?",
+        "golden_set": "Yes, you can switch from online to correspondence by mail or vice versa for a $100 fee."
+    },
+    {
+        "query": "What happens when I switch from online to correspondence?",
+        "golden_set": "If you switch from online to correspondence by mail, your materials will be mailed to the last known address on file. Delivery of course materials takes 10-14 business days."
+    },
+    {
+        "query": "What happens when I switch from correspondence to online?",
+        "golden_set": "If you switch from correspondence by mail to online, you will receive emailed information about how to access your online course."
+    },
+    {
+        "query": "How do I request a format transfer?",
+        "golden_set": "To request a format transfer, visit the [Format Transfer page](https://www.enrole.com/und/jsp/session.jsp?sessionId=DM10.FORM.TRANS&courseId=DM10.FTRANS&categoryId=BFC5B6B0)."
+    },
+    {
+        "query": "How do I transfer my course to another student?",
+        "golden_set": "You can transfer your course to someone else in your facility within the first 6 months of enrollment for a transfer fee of $100. The new student will start at the beginning of the course and will use your textbooks and materials."
+    },
+    {
+        "query": "What is the fee for transferring my course?",
+        "golden_set": "The transfer fee is $100."
+    },
+    {
+        "query": "How do I request a transfer?",
+        "golden_set": "To request a transfer, contact the Office of Extended Learning at 701.777.0488."
+    },
+    {
+        "query": "Can I switch my course format from online to correspondence?",
+        "golden_set": "Yes, you can switch from online to correspondence by mail or vice versa for a $100.00 fee."
+    },
+    {
+        "query": "How will I receive my course materials if I switch to correspondence by mail?",
+        "golden_set": "If you switch to correspondence by mail, your materials will be mailed to the last known address on file, and you should allow 10-14 business days for delivery."
+    },
+    {
+        "query": "How will I receive information if I switch from correspondence to online?",
+        "golden_set": "If you switch from correspondence by mail to online, you will receive emailed information regarding how to access your online course."
+    },
+    {
+        "query": "What are the participation requirements for the Nutrition & Foodservice Professional Training Program?",
+        "golden_set": "To enroll, you must be currently employed as a food service employee in an institutional foodservice facility or arrange for 150 hours of field experience, be a high school graduate or have a GED certificate, be endorsed by your facility's administrator and registered dietitian preceptor, and have regular access to email."
+    },
+    {
+        "query": "What are the benefits of becoming a Certified Dietary Manager?",
+        "golden_set": "Earning the CDM, CFPP credential is beneficial because those certified are in high demand due to regulatory requirements and typically earn more than non-certified dietary managers."
+    },
+    {
+        "query": "Where can I find more information about becoming certified?",
+        "golden_set": "You can find more information about becoming certified on the CBDM website."
+    },
+    {
+        "query": "What must the proposer (IOR) do before the school year starts?",
+        "golden_set": "The proposer, or Instructor of Record (IOR), submits their list of training opportunities to the University of North Dakota for review and credit approval prior to the start of the school year."
+    },
+    {
+        "query": "How can educators choose training opportunities?",
+        "golden_set": "Once approved, educators can choose from a number of short-term trainings or learning events included in the staff development plan for the year."
+    },
+    {
+        "query": "How do educators track their training hours?",
+        "golden_set": "Educators track or bank their hours, keeping a record of the training they have attended throughout the year."
+    },
+    {
+        "query": "What happens at the end of the year regarding training hours?",
+        "golden_set": "At the conclusion of the year, teachers will have their hours verified by the IOR and can then register for graduate professional development credit."
+    },
+    {
+        "query": "What are the benefits of working with the University of North Dakota for the Cumulative Credit/Cafeteria Plan?",
+        "golden_set": "Benefits include meeting immediate staff development needs, participating in meaningful short-term learning experiences, earning up to five credits throughout the school year, and having affordable online registration options."
+    },
+    {
+        "query": "What is the instructor of record (IOR) requirement?",
+        "golden_set": "The IOR must hold a master\u2019s degree or higher."
+    },
+    {
+        "query": "What is the application submission timeline?",
+        "golden_set": "Applications must be submitted 20 business days prior to the event."
+    },
+    {
+        "query": "How will I know if my credit request is approved?",
+        "golden_set": "You will receive notification of your credit approval, need for editing, or disapproval within two weeks of submission."
+    },
+    {
+        "query": "How do I access the credit approval request application?",
+        "golden_set": "Go to the Registration dashboard and follow the steps to log in and access the application."
+    },
+    {
+        "query": "What is required for the instructor of record's role?",
+        "golden_set": "The instructor of record must submit the proposal form, provide an assessment tool, and ensure attendance is kept according to the evaluation plan criteria."
+    },
+    {
+        "query": "What are the requirements for multispeaker events?",
+        "golden_set": "At least seventy-five percent of the total instructional time must be provided by individuals with a master's degree or higher."
+    },
+    {
+        "query": "What must the proposal form include?",
+        "golden_set": "The proposal form must include course description, objectives, topical outline, requirements for earning credit, and evaluation plan of learner outcomes."
+    },
+    {
+        "query": "What are the credit requirements for participants?",
+        "golden_set": "Participants must hold at least a bachelor's degree, attend a minimum of fifteen hours per credit hour, complete all credit requirements, and submit an application of learning."
+    },
+    {
+        "query": "How do I change my preceptor?",
+        "golden_set": "To change your preceptor, the new RD preceptor must submit a Preceptor Application along with their CDR Registration number to UND."
+    },
+    {
+        "query": "What is the process to apply for a new program?",
+        "golden_set": "To apply for a new program, you must complete the online application form and submit the required documents by the specified deadline."
+    },
+    {
+        "query": "Where can I find my course schedule?",
+        "golden_set": "Your course schedule can be found on the student portal under the \"My Courses\" section."
+    },
+    {
+        "query": "How do I access academic advising?",
+        "golden_set": "You can access academic advising by scheduling an appointment through the advising office's website or by calling their office directly."
+    },
+    {
+        "query": "What resources are available for student support?",
+        "golden_set": "Students have access to a variety of support resources including counseling services, tutoring, and academic workshops."
+    },
+    {
+        "query": "How do I enroll in the course \"Attitudes are Contagious: Maintaining Optimism During Challenging Times\"?",
+        "golden_set": "To enroll in this course, visit the course page here and follow the registration instructions."
+    },
+    {
+        "query": "What are the credits and cost for the course \"Becoming a Resilient Educator: Self-Care Strategies and Tactics to Avoid Teacher Burnout\"?",
+        "golden_set": "This course offers 3 GPD credits and costs $429."
+    },
+    {
+        "query": "Is there a course that covers bullying prevention?",
+        "golden_set": "Yes, the course titled \"Bullying Prevention\" provides 2 GPD credits and costs $325. You can find more information here."
+    },
+    {
+        "query": "What is the cost of the \"Career Advisor Training\" course?",
+        "golden_set": "The cost for the \"Career Advisor Training\" course varies depending on the number of credits, ranging from $50 to $200 for 1 to 4 GPD credits. More details can be found here."
+    },
+    {
+        "query": "How many credits does the \"Mindfulness to Improve Teaching and Learning\" course provide?",
+        "golden_set": "The \"Mindfulness to Improve Teaching and Learning\" course provides 3 GPD credits and costs $429."
+    },
+    {
+        "query": "Where can I find information on the course \"Understanding Aggression: Coping with Aggressive Behavior in the Classroom\"?",
+        "golden_set": "You can find information about this course here, which offers 3 GPD credits at a cost of $340."
+    },
+    {
+        "query": "What is the course cost for \"Youth Mental Health\"?",
+        "golden_set": "The \"Youth Mental Health\" course costs $199 and provides 1 GPD credit. More information can be found here."
+    },
+    {
+        "query": "What is the course title for understanding poverty in an educational context?",
+        "golden_set": "The course title is \"A Framework for Understanding Poverty, A Cognitive Approach for Educators, Policymakers, Employers and Service Providers,\" which offers 1 GPD for $175."
+    },
+    {
+        "query": "How many credits and what is the cost for the course on Academic Interventions?",
+        "golden_set": "The course \"Academic Interventions\" is worth 1 GPD and costs $195."
+    },
+    {
+        "query": "What strategies does the course on Becoming a Resilient Educator focus on?",
+        "golden_set": "The course \"Becoming a Resilient Educator: Self-Care Strategies and Tactics to Avoid Teacher Burnout\" focuses on self-care strategies to avoid burnout and offers 3 GPD for $429."
+    },
+    {
+        "query": "What course can help with phonemic awareness in beginning reading?",
+        "golden_set": "The course \"Beginning Reading - Phonemic Awareness\" is designed to help with this skill, offering 1 GPD for $150."
+    },
+    {
+        "query": "How many credits and what is the cost of the course on Best Practices for Social Emotional Learning in Response to Crisis?",
+        "golden_set": "The course \"Best Practices for Social Emotional Learning in Response to Crisis\" is worth 3 GPD and costs $429."
+    },
+    {
+        "query": "What is the focus of the course on Building Classroom Culture?",
+        "golden_set": "The course \"Building Classroom Culture\" focuses on creating a positive classroom environment and provides 3 GPD for $475."
+    },
+    {
+        "query": "What is the cost of the course on Closing Gaps with Flipped Learning?",
+        "golden_set": "The course \"Closing Gaps with Flipped Learning\" offers 3 GPD and costs $429."
+    },
+    {
+        "query": "How can I learn about cohesive classroom communities?",
+        "golden_set": "You can enroll in the course \"Cohesive Classroom Communities,\" which is worth 1 GPD and costs $195."
+    },
+    {
+        "query": "What course addresses anxiety in the classroom?",
+        "golden_set": "The course \"Creating an Anxiety-Aware Classroom\" addresses this issue, offering 3 GPD for $429."
+    },
+    {
+        "query": "What is the cost of the course on Gamification in the Classroom?",
+        "golden_set": "The course \"Gamification in the Classroom\" costs $475 and provides 3 GPD."
+    },
+    {
+        "query": "How do I change my preceptor?",
+        "golden_set": "To change your preceptor, the new RD preceptor must submit a Preceptor Application along with their CDR Registration number to UND."
+    },
+    {
+        "query": "What is the process to register for classes?",
+        "golden_set": "To register for classes, log into your student portal and navigate to the registration section. Follow the prompts to select and confirm your courses."
+    },
+    {
+        "query": "How can I request a transcript?",
+        "golden_set": "You can request a transcript through the student portal by navigating to the transcript request section and filling out the required information."
+    },
+    {
+        "query": "What resources are available for academic support?",
+        "golden_set": "Academic support resources include tutoring services, writing centers, and access to academic advisors. Check the university\u2019s website for more information."
+    },
+    {
+        "query": "How do I apply for financial aid?",
+        "golden_set": "To apply for financial aid, complete the Free Application for Federal Student Aid (FAFSA) online and submit it by the specified deadline."
+    },
+    {
+        "query": "What is the policy on late assignments?",
+        "golden_set": "The policy on late assignments varies by course. Check your syllabus for specific details or contact your instructor for clarification."
+    },
+    {
+        "query": "How can I change my major?",
+        "golden_set": "To change your major, meet with an academic advisor to discuss your options and complete the necessary paperwork."
+    },
+    {
+        "query": "What should I do if I have a scheduling conflict?",
+        "golden_set": "If you have a scheduling conflict, contact your academic advisor to discuss alternative course options or potential solutions."
+    },
+    {
+        "query": "Where can I find the academic calendar?",
+        "golden_set": "The academic calendar can be found on the university's official website under the academic resources section."
+    },
+    {
+        "query": "How do I access student health services?",
+        "golden_set": "To access student health services, visit the campus health center or schedule an appointment through the student portal."
+    },
+    {
+        "query": "What is the course title for learning about working with abused and neglected children?",
+        "golden_set": "The course title is Child Abuse: Working with Abused & Neglected Children."
+    },
+    {
+        "query": "How many credits can I earn from the course on the Neurosequential Model of Therapeutics for Trauma?",
+        "golden_set": "You can earn 3 GPD credits from the course Neurosequential Model of Therapeutics for Trauma."
+    },
+    {
+        "query": "What is the cost of the course titled \"The Trauma Sensitive Classroom: Building Resilience with Compassionate Teaching\"?",
+        "golden_set": "The cost of the course is $475."
+    },
+    {
+        "query": "How many credits does the course \"Traumatized Child: The Effects of Stress, Trauma & Violence on Student Learning\" offer?",
+        "golden_set": "The course offers 2 GPD credits."
+    },
+    {
+        "query": "What are the credits and cost for the course \"Best Practices in Writing Instruction\"?",
+        "golden_set": "The course offers 2 GPD credits and costs $325."
+    },
+    {
+        "query": "Where can I find the course \"Beginning Reading - Phonemic Awareness\"?",
+        "golden_set": "You can find it here."
+    },
+    {
+        "query": "How much does the course \"Building Academic Language, Grades 7-12\" cost?",
+        "golden_set": "The course costs $355."
+    },
+    {
+        "query": "What is the focus of the course \"Enhancing Early Literacy Instruction with EdTech Tools\"?",
+        "golden_set": "The focus of the course is on utilizing educational technology tools to enhance early literacy instruction, and it offers 3 GPD credits for $429."
+    },
+    {
+        "query": "What is the course title for understanding poverty from a cognitive perspective?",
+        "golden_set": "The course title is A Framework for Understanding Poverty, A Cognitive Approach for Educators, Policymakers, Employers and Service Providers."
+    },
+    {
+        "query": "How many credits can I earn from the course \"Becoming a Resilient Educator: Self-Care Strategies and Tactics to Avoid Teacher Burnout\"?",
+        "golden_set": "You can earn 3 GPD credits from the course."
+    },
+    {
+        "query": "What is the cost of the course \"Bullying Prevention\"?",
+        "golden_set": "The course costs $325."
+    },
+    {
+        "query": "What is the cost of the course Child Abuse Prevention and how many GPD credits does it offer?",
+        "golden_set": "The course costs $195 and offers 1 GPD credit."
+    },
+    {
+        "query": "What is the title of the course focused on creating an anxiety-aware classroom?",
+        "golden_set": "The course is titled Creating an Anxiety-Aware Classroom and it offers 3 GPD credits for $429."
+    },
+    {
+        "query": "How many GPD credits can be earned from the course Traumatized Child: The Effects of Stress, Trauma & Violence on Student Learning?",
+        "golden_set": "You can earn 2 GPD credits from this course, which costs $270."
+    },
+    {
+        "query": "What is the focus of the course Understanding Aggression: Coping with Aggressive Behavior in the Classroom?",
+        "golden_set": "The course focuses on understanding and coping with aggressive behavior in the classroom and offers 3 GPD credits for $340."
+    },
+    {
+        "query": "How much does the course Social Emotional Learning Strategies for the Modern Classroom cost and how many GPD credits does it provide?",
+        "golden_set": "The course costs $429 and provides 3 GPD credits."
+    },
+    {
+        "query": "What is the title of the course that addresses building community connections using EdTech?",
+        "golden_set": "The course is titled It Takes a Village: Building Community Connections with EdTech and offers 3 GPD credits for $429."
+    },
+    {
+        "query": "How many GPD credits can be earned from the course Mindset: The New Psychology of Success?",
+        "golden_set": "You can earn 1 GPD credit from this course, which costs $175."
+    },
+    {
+        "query": "What is the cost of the course Nutrition Education for the School Aged Child and how many GPD credits does it offer?",
+        "golden_set": "The course costs $250 and offers 2 GPD credits."
+    },
+    {
+        "query": "What is the course titled Strengthening Resilience: Promoting Positive Mental Health Among Indigenous Youth focused on?",
+        "golden_set": "The course focuses on promoting positive mental health among Indigenous youth and costs $50 for 1 GPD credit."
+    },
+    {
+        "query": "What are the GPD credits and cost for the course Teaching Digital Citizenship Using Social Media?",
+        "golden_set": "The course offers 3 GPD credits and costs $480."
+    },
+    {
+        "query": "How much does the Technology for Today's Classroom course cost?",
+        "golden_set": "This course costs $195 and offers 1 GPD credit."
+    },
+    {
+        "query": "What is the title of the course that discusses Food and Culture and how many credits does it offer?",
+        "golden_set": "There are three courses titled Food and Culture offering different credits:"
+    },
+    {
+        "query": "What is the cost for the Child Abuse Prevention course?",
+        "golden_set": "The cost for the Child Abuse Prevention course is $195."
+    },
+    {
+        "query": "How many graduate professional development (GPD) credits is the course 'Community Involvement for Individuals with Developmental Disabilities' worth?",
+        "golden_set": "The 'Community Involvement for Individuals with Developmental Disabilities' course is worth 3 GPD credits."
+    },
+    {
+        "query": "How much does it cost to take the 'Connected Educators: Harnessing the Power of Social Media for Professional Development' course?",
+        "golden_set": "The cost for the 'Connected Educators: Harnessing the Power of Social Media for Professional Development' course is $430."
+    },
+    {
+        "query": "What is the number of credits for 'Creating an Anxiety-Aware Classroom'?",
+        "golden_set": "The 'Creating an Anxiety-Aware Classroom' course offers 3 GPD credits."
+    },
+    {
+        "query": "What is the price of the 'Drugs & Alcohol in Schools: Understanding Substance Use and Abuse' course?",
+        "golden_set": "The price of the 'Drugs & Alcohol in Schools: Understanding Substance Use and Abuse' course is $270"
+    },
+    {
+        "query": "How many graduate professional development (GPD) credits do I earn for completing the 'Academic Interventions' course?",
+        "golden_set": "You will earn 1 GPD credit for completing the 'Academic Interventions' course."
+    },
+    {
+        "query": "What is the cost of the course 'Implementing STEAM Skills Across Content Areas'?",
+        "golden_set": "The cost of the 'Implementing STEAM Skills Across Content Areas' course is $429."
+    },
+    {
+        "query": "Can you provide details about the 'Molecular Biology Bootcamp for Teachers' course?",
+        "golden_set": "The 'Molecular Biology Bootcamp for Teachers' course offers 2 GPD credits and costs $100."
+    },
+    {
+        "query": "How much does it cost to enroll in the 'Motivating Girls To \"Lean In\" To Pursue Passion-Driven Careers in STEM' course?",
+        "golden_set": "The enrollment cost for the 'Motivating Girls To \"Lean In\" To Pursue Passion-Driven Careers in STEM' course is $430."
+    },
+    {
+        "query": "What are the GPD credits for the 'NASA in the Classroom Educator PD Workshop'?",
+        "golden_set": "The 'NASA in the Classroom Educator PD Workshop' provides 2 GPD credits."
+    },
+    {
+        "query": "What is the price for the 'Pollinators in the Class' course?",
+        "golden_set": "The price for the 'Pollinators in the Class' course is $50."
+    },
+    {
+        "query": "How many GPD credits do you receive for 'Teaching Elementary Math Conceptually: A New Paradigm'?",
+        "golden_set": "You receive 2 GPD credits for the course 'Teaching Elementary Math Conceptually: A New Paradigm'."
+    },
+    {
+        "query": "What is the cost of the 'Teaching Math: Grades 4-6' course?",
+        "golden_set": "The 'Teaching Math: Grades 4-6' course costs $135."
+    },
+    {
+        "query": "How many graduate professional development (GPD) credits can I earn from the 'Ants, Plants, and Puppy Dog Toes' course?",
+        "golden_set": "You can earn 1, 2, or 3 GPD credits from the 'Ants, Plants, and Puppy Dog Toes' course, depending on the level of the course you choose."
+    },
+    {
+        "query": "What is the cost for the 2 GPD option of the 'Because Newton Says So' course?",
+        "golden_set": "The cost for the 2 GPD option of the 'Because Newton Says So' course is $325."
+    },
+    {
+        "query": "What are the details of the 'Body Shop' course in terms of credits and cost?",
+        "golden_set": "The 'Body Shop' course offers 1, 2, or 3 GPD credits with corresponding costs of $175, $325, and $475, respectively."
+    },
+    {
+        "query": "How much does the 'Earth and Sky Secrets for Young Minds' course cost for 3 GPD credits?",
+        "golden_set": "The cost for 3 GPD credits in the 'Earth and Sky Secrets for Young Minds' course is $475."
+    },
+    {
+        "query": "Can you provide the credit and cost structure for the 'Everyday Science Stuff Around Us' course?",
+        "golden_set": "The 'Everyday Science Stuff Around Us' course offers 1, 2, or 3 GPD credits, costing $175, $325, or $475, respectively."
+    },
+    {
+        "query": "What is the cost of the 'How Does Life Science Affect Me?' course for 1 GPD credit?",
+        "golden_set": "The cost for the 'How Does Life Science Affect Me?' course for 1 GPD credit is $175."
+    },
+    {
+        "query": "What GPD credits and costs are associated with the 'NASA in the Classroom Educator PD Workshop'?",
+        "golden_set": "The 'NASA in the Classroom Educator PD Workshop' provides 2 GPD credits and costs $100."
+    },
+    {
+        "query": "How many credits do you earn for the 'Teaching Science: Grades 4-6' course and what is the cost?",
+        "golden_set": "The 'Teaching Science: Grades 4-6' course provides 1 GPD credit and costs $135."
+    },
+    {
+        "query": "What is the price for the 3 GPD option in the 'Transformative Teaching for Science' course?",
+        "golden_set": "The price for the 3 GPD option in the 'Transformative Teaching for Science' course is $375."
+    },
+    {
+        "query": "What is the cost for the course \"ADHD Classroom and Teaching Strategies\"?",
+        "golden_set": "The cost for the course \"ADHD Classroom and Teaching Strategies\" is $480."
+    },
+    {
+        "query": "How many course credits do I earn for completing \"Assisting Special Needs Learners with Instructional Technology\"?",
+        "golden_set": "You earn 3 GPD (Graduate Professional Development) credits for completing \"Assisting Special Needs Learners with Instructional Technology\"."
+    },
+    {
+        "query": "What is the course title for the class that provides information and interventions for effective teaching related to Attention Deficit Disorder?",
+        "golden_set": "The course title is \"Attention Deficit Disorder: Information & Interventions for Effective Teaching\"."
+    },
+    {
+        "query": "Where can I find the course \"Autism & Asperger's Disorder: Information & Effective Intervention Strategies\"?",
+        "golden_set": "You can find the course \"Autism & Asperger's Disorder: Information & Effective Intervention Strategies\" here."
+    },
+    {
+        "query": "How much does the \"Autism iPad Techniques to Bridge Learning Gaps\" course cost?",
+        "golden_set": "The \"Autism iPad Techniques to Bridge Learning Gaps\" course costs $155."
+    },
+    {
+        "query": "What are the course credits and cost for \"Building Community Involvement in your School for Individuals with Developmental and/or Intellectual Disabilities\"?",
+        "golden_set": "This course offers 3 GPD credits and costs $475."
+    },
+    {
+        "query": "Can you tell me about the \"Career Advisor Training\" course?",
+        "golden_set": "The \"Career Advisor Training\" course offers 1, 2, 3, or 4 GPD credits, with costs ranging from $50 to $200 depending on the number of credits."
+    },
+    {
+        "query": "What is the cost of the course \"Cognitive Skills-Understanding Learning Challenges\"?",
+        "golden_set": "The course \"Cognitive Skills-Understanding Learning Challenges\" costs $195 and offers 1 GPD credit."
+    },
+    {
+        "query": "What is the focus of the course \"How to Improve Executive Functioning in the Classroom\"?",
+        "golden_set": "The course \"How to Improve Executive Functioning in the Classroom\" focuses on strategies to enhance executive functioning skills among students. It offers 3 GPD credits and costs $375."
+    },
+    {
+        "query": "What type of course is \"Understanding and Implementing IEPs with Digital Tools\"?",
+        "golden_set": "\"Understanding and Implementing IEPs with Digital Tools\" is a course that focuses on effective strategies for implementing Individualized Education Programs (IEPs) using digital tools, offering 3 GPD credits at a cost of $429."
+    },
+    {
+        "query": "What are the credits and cost for \"A History of Human Enslavement - Modern-Day Slavery Around the Globe\"?",
+        "golden_set": "This course offers 2 GPD (Graduate Professional Development) credits and costs $100."
+    },
+    {
+        "query": "How many credits does the \"African American Maritime History Online Certificate Course\" provide, and what is its cost?",
+        "golden_set": "This course provides 3 GPD credits and costs $150."
+    },
+    {
+        "query": "Is there a one-credit version of the \"Food and Culture\" course?",
+        "golden_set": "Yes, there is a one-credit version of the \"Food and Culture\" course that costs $199."
+    },
+    {
+        "query": "What is the cost for the 2-credit \"Food and Culture\" course?",
+        "golden_set": "The 2-credit \"Food and Culture\" course costs $250."
+    },
+    {
+        "query": "How much does the 3-credit \"Food and Culture\" course cost?",
+        "golden_set": "The 3-credit \"Food and Culture\" course costs $375."
+    },
+    {
+        "query": "What are the credits and cost for the \"Survey of the Culture of Rice in the Lowcountry\" course?",
+        "golden_set": "This course offers 3 GPD credits and costs $150."
+    },
+    {
+        "query": "What is the credit value and cost for the \"Trade and Transportation in North Dakota History\" course?",
+        "golden_set": "This course provides 1 GPD credit and costs $50."
+    },
+    {
+        "query": "How many credits can I earn from \"Unlocking History: Inquiry-Based Strategies for Primary Source Learning Experiences,\" and what is the price?",
+        "golden_set": "This course offers 3 GPD credits and costs $429."
+    },
+    {
+        "query": "What is the cost for the \"A.I. Exploration for Teaching and Learning\" course?",
+        "golden_set": "This course costs $429 and offers 3 GPD credits."
+    },
+    {
+        "query": "How many credits does the course \"Artificial Intelligence, The Metaverse, and Chatbots in Education\" provide, and what is the cost?",
+        "golden_set": "This course provides 3 GPD credits and costs $429."
+    },
+    {
+        "query": "What is the cost and credit for the \"Assisting Special Needs Learners with Instructional Technology\" course?",
+        "golden_set": "This course offers 3 GPD credits and costs $430."
+    },
+    {
+        "query": "How much does the \"Autism iPad Techniques to Bridge Learning Gaps\" course cost, and how many credits does it offer?",
+        "golden_set": "This course costs $155 and offers 1 GPD credit."
+    },
+    {
+        "query": "What is the credit value and cost for the \"Blogging and Podcasting for Beginners\" course?",
+        "golden_set": "This course provides 1 GPD credit and costs $135."
+    },
+    {
+        "query": "What is the cost for the \"Closing Gaps with Flipped Learning\" course?",
+        "golden_set": "The cost for this course is $429, and it offers 3 GPD credits."
+    },
+    {
+        "query": "What credits and cost are associated with the \"Connected Educators: Harnessing the Power of Social Media for Professional Development\" course?",
+        "golden_set": "This course offers 3 GPD credits and costs $430."
+    },
+    {
+        "query": "How much does it cost to create a classroom website through the \"Creating a Classroom Website\" course?",
+        "golden_set": "This course costs $135 and provides 1 GPD credit."
+    },
+    {
+        "query": "What are the credits and cost for the \"Cybersecurity Foundation\" course?",
+        "golden_set": "This course provides 3 GPD credits and costs $150."
+    },
+    {
+        "query": "How much does the \"Designing an Online Classroom\" course cost, and how many credits does it offer?",
+        "golden_set": "The course costs $475 and offers 3 GPD credits."
+    },
+    {
+        "query": "What is the credit value and cost for the \"EdTech Applications for K-6\" course?",
+        "golden_set": "This course provides 3 GPD credits and costs $430."
+    },
+    {
+        "query": "How many credits does the \"Elevating Classroom Engagement with Free EdTech Tools\" course provide, and what is its cost?",
+        "golden_set": "This course provides 2 GPD credits and costs $250."
+    },
+    {
+        "query": "What are the credits and cost for \"Enhancing Early Literacy Instruction with EdTech Tools\"?",
+        "golden_set": "This course offers 3 GPD credits and costs $429."
+    },
+    {
+        "query": "How much does the course \"Exploring the World Around Us Through Virtual Field Trips\" cost?",
+        "golden_set": "This course costs $430 and provides 3 GPD credits."
+    },
+    {
+        "query": "What is the credit value and cost for the \"Getting Started with Google in Education\" course?",
+        "golden_set": "This course offers 3 GPD credits and costs $429."
+    },
+    {
+        "query": "How many credits does the \"Google Certified Educator\" course provide, and what is its cost?",
+        "golden_set": "This course provides 3 GPD credits and costs $419."
+    },
+    {
+        "query": "What is the focus of the course \"iPad Strategies to Engage Students Who Have Autism\"?",
+        "golden_set": "This course focuses on effective strategies and techniques for using iPads to engage students with autism, enhancing their learning experience through digital tools."
+    },
+    {
+        "query": "How many Graduate Professional Development (GPD) credits can I earn from the \"iPads in Education\" course?",
+        "golden_set": "You can earn 3 GPD credits by completing the \"iPads in Education\" course."
+    },
+    {
+        "query": "What is the cost of the course \"Teaching Digital Citizenship Using Social Media\"?",
+        "golden_set": "The cost of the \"Teaching Digital Citizenship Using Social Media\" course is $480."
+    },
+    {
+        "query": "Are there any courses specifically targeting social emotional learning strategies?",
+        "golden_set": "Yes, the course \"Social Emotional Learning Strategies for the Modern Classroom\" focuses on implementing social emotional learning strategies in contemporary classrooms."
+    },
+    {
+        "query": "What is the GPD credit value for the course \"Motivating Girls To 'Lean In' To Pursue Passion-Driven Careers in STEM\"?",
+        "golden_set": "The course offers 3 GPD credits upon completion."
+    },
+    {
+        "query": "Is there a course that provides methodologies for teaching English to speakers of other languages?",
+        "golden_set": "Yes, the \"Methodologies and Best Practices for Teaching English to Speakers of Other Languages\" course offers insights and strategies for effectively teaching English language learners."
+    },
+    {
+        "query": "What type of course is \"Mastering Your Mac Computer for Beginners\"?",
+        "golden_set": "\"Mastering Your Mac Computer for Beginners\" is an introductory course designed to help participants become proficient in using Mac computers."
+    },
+    {
+        "query": "Can I find a course on network security fundamentals?",
+        "golden_set": "Yes, the course \"Network Security Fundamentals\" covers essential concepts and practices related to network security."
+    },
+    {
+        "query": "What are the GPD credits awarded for the \"Turn Your iPad into an Augmentative Communication Device\" course?",
+        "golden_set": "This course awards 1 GPD credit upon completion."
+    },
+    {
+        "query": "What is the main goal of the course \"Understanding and Implementing IEPs with Digital Tools\"?",
+        "golden_set": "The main goal of this course is to equip educators with the knowledge and skills to effectively understand and implement Individualized Education Programs (IEPs) using digital tools."
+    },
+    {
+        "query": "What types of courses are available for educators through UND?",
+        "golden_set": "UND offers a variety of courses for educators, including topics such as grant writing, emotional resilience, and effective communication strategies. Some specific courses include \"A History of Human Enslavement - Modern-Day Slavery Around the Globe,\" \"Effective Teaming for Educators,\" and \"Social Media and Social Emotional Learning.\""
+    },
+    {
+        "query": "How can I register for a course?",
+        "golden_set": "To register for a course, visit the course link provided in the course list. Each course has its own registration process, typically found on its respective webpage."
+    },
+    {
+        "query": "Are there any prerequisites for enrolling in these courses?",
+        "golden_set": "Most courses do not have specific prerequisites; however, it's recommended to review each course description to understand the intended audience and any recommended background knowledge."
+    },
+    {
+        "query": "What is the cost of these courses?",
+        "golden_set": "Course costs vary depending on the course, ranging from $50 to $475. For example, \"A to Z Grant Writing\" costs $135, while \"Grant Writing Made Easy\" is priced at $475."
+    },
+    {
+        "query": "How many course credits can I earn?",
+        "golden_set": "Course credits vary by course. For example, \"A History of Human Enslavement\" offers 2 GPD, while \"NDAEA Artist Series Vol. 1\" provides 1 GPD."
+    },
+    {
+        "query": "What topics are covered in the \"Adverse Childhood Experiences\" course?",
+        "golden_set": "The \"Adverse Childhood Experiences\" course explores the impact of childhood trauma on development and learning, equipping educators with strategies to support affected students."
+    },
+    {
+        "query": "Can I take these courses online?",
+        "golden_set": "Yes, many of the courses listed are offered online, allowing for flexible scheduling and participation from anywhere."
+    },
+    {
+        "query": "What can I do if I want to see a full listing of courses from my favorite Educational Partner?",
+        "golden_set": "Click on the icon below to access a full listing of courses offered by your favorite Educational Partner."
+    },
+    {
+        "query": "Where can I find online courses for educators?",
+        "golden_set": "You can find online courses for educators by visiting the Online Courses page."
+    },
+    {
+        "query": "What resources are available for opportunities for educators?",
+        "golden_set": "Resources available for educators include online courses, face-to-face learning events, and information on registration and policies. You can explore these options under the \"Opportunities for Educators\" section."
+    },
+    {
+        "query": "How can I renew my teaching license?",
+        "golden_set": "To renew your teaching license, visit the Renew a Teaching License page for more information."
+    },
+    {
+        "query": "What should I do to apply for credit through the Professional Development & Education (PDE) program?",
+        "golden_set": "You can apply for credit through the PDE program by submitting your application and required documents. For more details, visit the PDE page."
+    },
+    {
+        "query": "Where can I find information on cumulative credit?",
+        "golden_set": "Information on cumulative credit can be found on the Cumulative Credit page."
+    },
+    {
+        "query": "What is a Targeted Learning Event?",
+        "golden_set": "A Targeted Learning Event is a focused training or collaborative learning experience that covers a specific topic or theme and consists of at least 15 instructional hours."
+    },
+    {
+        "query": "How many graduate professional development credits can I earn from a Targeted Learning Event?",
+        "golden_set": "One graduate professional development credit is awarded for every 15 clock hours of instruction from your learning event or course."
+    },
+    {
+        "query": "Are non-instructional activities included in the credit calculation?",
+        "golden_set": "No, meals, breaks, exhibits, and other non-instructional activities do not count toward credit."
+    },
+    {
+        "query": "What are the qualifications for instructors and facilitators of a Targeted Learning Event?",
+        "golden_set": "Instructors, Instructors of Record, or Facilitators must hold a master\u2019s degree or higher. For multi-speaker activities, at least 75% of the total instructional time must be provided by presenters with master's degrees or higher."
+    },
+    {
+        "query": "When should I submit my application for credit?",
+        "golden_set": "You should submit your application at least 20 business days prior to the start of your event."
+    },
+    {
+        "query": "How long does it take to receive a notification about credit approval?",
+        "golden_set": "You will receive notification of your credit approval, need for editing, or disapproval within 2 weeks of submission."
+    },
+    {
+        "query": "What is the credit recording fee, and how can it be paid?",
+        "golden_set": "The credit recording fee is $50 per credit, which can be paid via credit card or company check made out to UND."
+    },
+    {
+        "query": "What types of events qualify as a Targeted Learning Event?",
+        "golden_set": "Examples of Targeted Learning Events include workshops, conferences, seminars, institutes, book studies, and study groups, which can be conducted face-to-face, online, or in a blended format."
+    },
+    {
+        "query": "How do I access the application system for professional development credits?",
+        "golden_set": "To access the application system, go to the Registration dashboard, log in with your NDUS Identifier and password, and select Professional Development for Educators under the Dashboard."
+    },
+    {
+        "query": "What should I do if I am the Instructor of Record but not appearing as one in the People Management window?",
+        "golden_set": "If you are the Instructor of Record but do not appear as one, update your profile by selecting your name in the upper menu, choosing Profile, and selecting IOR under Position Information. Complete the required information and submit your changes."
+    },
+    {
+        "query": "How do I begin the application process for a Targeted Learning Event?",
+        "golden_set": "To start the application process, select New Application. Then, choose Targeted Professional Learning for face-to-face, online, or blended learning experiences consisting of at least 15 instructional hours. Alternatively, choose Cumulative Credit if you are submitting a cafeteria-style plan for your district or consortium, which also requires a minimum of 15 instructional hours per credit."
+    },
+    {
+        "query": "What should I do if I cannot complete my application in one sitting?",
+        "golden_set": "If you cannot finish the application in one sitting, use the Save Application button to save your progress. You can resume your work later by going to My Applications, finding your application, and clicking Open Application."
+    },
+    {
+        "query": "Can I edit my application after submitting it?",
+        "golden_set": "Once you submit your application, you cannot edit it unless it is returned to you for editing. You can track its progress in the History section once the team takes action on your plan."
+    },
+    {
+        "query": "What is included in the Plan of Action section?",
+        "golden_set": "The Plan of Action section lists your approved events for cumulative credit/cafeteria plans and allows you to add additional events."
+    },
+    {
+        "query": "What are the requirements for the Instructor of Record (IOR) in the application process?",
+        "golden_set": "The Instructor of Record must hold an advanced degree (master's or above) and provide a resume that includes their educational background, current role, contact information, and relevant professional experience. The IOR ensures the proposal includes all necessary components and grades for the event."
+    },
+    {
+        "query": "What are the requirements for presenters at a multispeaker event?",
+        "golden_set": "At a multispeaker event, at least 75% of the total instructional time must be provided by individuals with a master\u2019s degree or higher. Presenters are encouraged to have advanced degrees and must provide a short biography or resume detailing their credentials and relevant experience."
+    },
+    {
+        "query": "What must the proposal form include for a learning event?",
+        "golden_set": "The proposal form must include a description of the conference or course, objectives, learner outcomes, topical outline, semester hours offered, requirements for earning credit, resources used, and an evaluation plan. For multispeaker events, it should also include session descriptions and a matrix of presenters specifying their credentials and presentation lengths."
+    },
+    {
+        "query": "What are the requirements for participants to receive graduate credit?",
+        "golden_set": "Participants must hold at least a bachelor's degree, attend a minimum of 15 hours of graduate-level activity per credit hour, complete all credit requirements, and produce a product or application of learning."
+    },
+    {
+        "query": "What is the evaluation plan criteria that must be submitted with the proposal?",
+        "golden_set": "The evaluation plan must document attendance, ensure participants complete the required hours, and include an assignment that demonstrates the application of concepts learned. An assessment rubric is required for letter grading but not for satisfactory/unsatisfactory grading."
+    },
+    {
+        "query": "What is the requirement for licensure renewal related to professional development credits?",
+        "golden_set": "As part of the five-year licensure renewal, six semester hours of reeducation credit are required, documented by college transcripts and earned within the license dates. Professional development coursework may be either undergraduate or graduate credit in professional education or related to the licensed areas."
+    },
+    {
+        "query": "What is the total cost of the course?",
+        "golden_set": "The total cost of the course is $2,000, which includes online instructional materials and on-campus lab sessions."
+    },
+    {
+        "query": "Are there any additional fees not included in the course cost?",
+        "golden_set": "Yes, the course fee does not include transportation, lodging, or meals for lab instruction. Students are responsible for their own travel arrangements and accommodations."
+    },
+    {
+        "query": "What happens if a scheduled on-campus event is postponed?",
+        "golden_set": "The University of North Dakota will notify you in advance if a scheduled on-campus event needs to be postponed. However, the University is unable to reimburse student travel expenses, fees, or change penalties due to postponements. It is recommended to make refundable travel arrangements when possible."
+    },
+    {
+        "query": "How can I request a withdrawal from the course?",
+        "golden_set": "You can request a withdrawal by submitting the Withdrawal Request Form."
+    },
+    {
+        "query": "Will I receive a refund if I withdraw?",
+        "golden_set": "If UND receives your withdrawal request within one to seven calendar days after your registration date, you will be refunded your course registration fee, minus a $35 processing fee. However, no refunds are available if the request is made 8 or more calendar days after registration or if you have attempted to submit a lesson, quiz, or take a test."
+    },
+    {
+        "query": "What type of training does the Medical Simulator Technician Training course provide?",
+        "golden_set": "The course is offered in a combination of independent study and on-campus lab format, allowing you to study to become a Medical Simulator Lab Technician."
+    },
+    {
+        "query": "Can I choose when to enroll in the course?",
+        "golden_set": "Yes, you can enroll at any time in the independent study course."
+    },
+    {
+        "query": "How does independent study work in this course?",
+        "golden_set": "With independent study, you can learn at your own pace, complete lessons on your own schedule, and choose your preferred time and place for studying."
+    },
+    {
+        "query": "What is required before attending the on-campus lab?",
+        "golden_set": "You must successfully complete all coursework prior to attending the two-day on-campus lab."
+    },
+    {
+        "query": "What qualities should I consider before enrolling in an independent study course?",
+        "golden_set": "You should assess whether you work well independently, if you stick to schedules, your reading comprehension and written communication skills, and your self-motivation level."
+    },
+    {
+        "query": "How can I get support during the course?",
+        "golden_set": "Our staff is committed to distance learning and is available to help you via email at UND.courses@UND.edu or by phone at 1.701.777.0488."
+    },
+    {
+        "query": "What are the technical requirements for this online course?",
+        "golden_set": "You need to verify that your computer equipment meets the minimum technical requirements for online courses, which are subject to change without notice."
+    },
+    {
+        "query": "What should I do if I have technical questions or need assistance?",
+        "golden_set": "You can access extended hours of technical support through chat for all online students."
+    },
+    {
+        "query": "What computer skills should I have before enrolling in the online course?",
+        "golden_set": "You should be comfortable with technology, able to access computers that meet the technical requirements, send and receive emails with attachments, navigate the Internet, manage computer files, and download necessary software."
+    },
+    {
+        "query": "What type of course is the Medical Simulator Technician Training?",
+        "golden_set": "The course is offered in a combination of independent study and on-campus lab format, allowing you to study to become a Medical Simulator Lab Technician."
+    },
+    {
+        "query": "Can I choose when to enroll in the course?",
+        "golden_set": "Yes, you can enroll at any time in the independent study course."
+    },
+    {
+        "query": "How does the independent study format work?",
+        "golden_set": "With independent study, you can learn at your own pace, complete lessons on your own schedule, and choose your preferred time and place for studying."
+    },
+    {
+        "query": "What must I do before attending the on-campus lab?",
+        "golden_set": "You must successfully complete all coursework before attending the two-day on-campus lab."
+    },
+    {
+        "query": "What qualities should I consider before enrolling in an independent study course?",
+        "golden_set": "You should assess whether you work well independently, if you stick to schedules, your reading comprehension and written communication skills, and your self-motivation level."
+    },
+    {
+        "query": "How can I get support during the course?",
+        "golden_set": "Our staff is committed to distance learning and is available to help you via email at UND.courses@UND.edu or by phone at 1.701.777.0488."
+    },
+    {
+        "query": "What are the technical requirements for taking an online course?",
+        "golden_set": "You must verify that your computer equipment meets the minimum technical requirements, which include having an active email account, a current operating system (Windows or Mac), a DSL/cable internet connection, a compatible internet browser, and word processing software (Microsoft Word recommended)."
+    },
+    {
+        "query": "What should I do if I have technical questions or need assistance?",
+        "golden_set": "Extended hours of technical support are provided through chat for all online students."
+    },
+    {
+        "query": "What computer skills should I have before enrolling in the online course?",
+        "golden_set": "You should be comfortable with technology, able to access computers that meet the technical requirements, send and receive emails with attachments, navigate the Internet, manage computer files, and download necessary software."
+    },
+    {
+        "query": "How can I access my course materials?",
+        "golden_set": "You will receive an email with your username and password within 2 to 3 days after your registration is processed. This will allow you to access your online classroom in the NDUS Blackboard system, where you can find your syllabus, lessons, grades, and complete your entire course online."
+    },
+    {
+        "query": "What is the format of the course?",
+        "golden_set": "The course is completed online with a two-day hands-on lab in Grand Forks, ND."
+    },
+    {
+        "query": "How do I cancel my enrollment in the course?",
+        "golden_set": "You can cancel by completing the withdrawal form using your confirmation email receipt number. If you cancel within 7 days of enrollment, you will receive a refund minus a $35 processing fee. No refunds are available for cancellation requests received 8 or more calendar days after your registration date or if you attempt to submit a lesson, quiz, or take a test."
+    },
+    {
+        "query": "What if I need more time to complete the online portion?",
+        "golden_set": "You can purchase an extension for $50, which will move your lab date to the next available session. You must purchase the extension before your original completion date to avoid cancellation of your course."
+    },
+    {
+        "query": "What happens if I need to withdraw from the course?",
+        "golden_set": "If your Withdrawal Request Form is received 1 to 7 calendar days after your registration, you will receive a refund minus a $35 processing fee. No refunds are given for requests received 8 or more days after registration or if you've submitted any lesson or quiz."
+    },
+    {
+        "query": "How should I report changes to my address or email?",
+        "golden_set": "You should complete the Change of Address Form as soon as possible. All correspondence will occur via email, and UND is not responsible for information that cannot be delivered due to an inactive email address."
+    },
+    {
+        "query": "What types of assessments will I complete in this course?",
+        "golden_set": "You will be required to complete several quizzes, module tests, and a final exam. A score of 70% is required on quizzes and tests to advance in the course."
+    },
+    {
+        "query": "How many attempts do I have for quizzes and tests?",
+        "golden_set": "Quizzes and module tests can be taken up to two times. The highest score will not necessarily be kept; instead, the last score will be recorded."
+    },
+    {
+        "query": "Is the final exam proctored?",
+        "golden_set": "No, the final exam is not proctored. It is open book, open notes, and open internet access, but you will have one hour to complete it."
+    },
+    {
+        "query": "What if I don\u2019t pass the final exam?",
+        "golden_set": "You can retake the final exam once for a fee of $25. To request a retake, complete the exam re-take form."
+    },
+    {
+        "query": "How do I receive my certificate of completion?",
+        "golden_set": "Upon successful completion of your course and lab, you will receive your certificate from the instructor. Keep it in a safe place. If you lose it, a duplicate can be requested for a $25 fee."
+    },
+    {
+        "query": "How can I update my contact information for certificate purposes?",
+        "golden_set": "You can update your contact information by completing the Change of Address Form or emailing your updated information to UND.courses@UND.edu."
+    },
+    {
+        "query": "How do I access my online course?",
+        "golden_set": "You will receive an email with your username and password within 2 to 3 days after your registration is processed. Use these credentials to access your online classroom in the NDUS Blackboard system, where you can find your syllabus, lessons, grades, and more."
+    },
+    {
+        "query": "What is the format of the Medical Simulator Technician Training Program?",
+        "golden_set": "The program consists of six online lesson modules followed by a two-day hands-on lab at the University of North Dakota campus. You must complete the online coursework before attending the on-campus lab."
+    },
+    {
+        "query": "What should I do if I need more time to complete the online portion of the course?",
+        "golden_set": "If you need additional time, you may purchase an extension for $50. This will allow you to move to the next available lab date, where space permits. Make sure to request the extension before your original completion date to avoid cancellation of your course."
+    },
+    {
+        "query": "What happens if I need to cancel my enrollment?",
+        "golden_set": "To cancel your enrollment, complete the withdrawal form. If you submit your form within 7 days of enrollment, you will receive a refund of the registration fee, minus a $35 processing fee. No refunds are issued after 7 days or if you have attempted any lesson or quiz."
+    },
+    {
+        "query": "How do I change my mailing or email address?",
+        "golden_set": "To change your contact information, complete the Change of Address Form as soon as possible. This ensures you continue to receive important course information without delay."
+    },
+    {
+        "query": "What is required to successfully complete the course?",
+        "golden_set": "You must achieve a score of 70% or higher on quizzes, module tests, and the final exam. You have two attempts for each quiz and module test. The final exam is open book and must also be completed with a minimum score of 70%."
+    },
+    {
+        "query": "Can I retake the final exam if I do not pass?",
+        "golden_set": "Yes, you may retake the final exam once for a fee of $25. To request a retake, complete the exam re-take form."
+    },
+    {
+        "query": "Who can enroll in the Medical Simulator Technician Training Program?",
+        "golden_set": "This program is suitable for beginners and intermediate Medical Simulator Technicians, including new hires, individuals seeking more technical operations experience, or those looking to supplement on-the-job training."
+    },
+    {
+        "query": "Who is the instructor for the program?",
+        "golden_set": "The instructor for the program is Jamie Hamilton, the simulator technician for North Dakota Simulation, Teaching, and Research for Healthcare Education (ND STAR) at the University of North Dakota. You can contact him at james.hamilton@UND.edu."
+    },
+    {
+        "query": "What if I lose my certificate of completion?",
+        "golden_set": "If you lose your certificate and need a duplicate, there is a $25 fee for this service. Make sure your address is up-to-date to receive the replacement certificate."
+    },
+    {
+        "query": "What will I be able to do upon completing the certification course?",
+        "golden_set": "Upon completion of this certification course, the learner will be able to:"
+    },
+    {
+        "query": "What basic principles will I learn in the Pneumatics and Hydraulics module?",
+        "golden_set": "In this module, learners will identify and discuss basic principles of fluid dynamics, list general safety precautions when working with hydraulics and pneumatics, define parts of a fluid system, analyze a fluid system schematic, design a fluid system to perform a specific task, and discuss the application of pneumatics and hydraulics in patient simulation."
+    },
+    {
+        "query": "What concepts will I understand after completing the Electrical module?",
+        "golden_set": "After completing the Electrical module, learners will be able to explain Ohm\u2019s Law and its three elements, identify and construct series and parallel circuits, recognize circuit faults and component failures, and summarize magnetism and its effects on electronics."
+    },
+    {
+        "query": "What software will I be able to use after the Computers module?",
+        "golden_set": "Upon completion of the Computers module, learners will be able to navigate and use Laerdal, Gaumard, and METI simulation software, describe various methods of manikin control and network usage, and demonstrate troubleshooting for manikins and computers."
+    },
+    {
+        "query": "What will I learn about manikins in this training program?",
+        "golden_set": "In the Manikins module, learners will identify major components of manikins, start, run, and shut down manikins, and determine basic problems with manikins to perform corrective actions to resolve those issues."
+    },
+    {
+        "query": "What is the purpose of a debriefing system?",
+        "golden_set": "After completing the Debriefing Systems module, learners will explain the purpose of a debriefing system, rate the effectiveness of video and audio debriefing, and demonstrate the operation of the B-Line AV system for recording and playback during debriefing."
+    },
+    {
+        "query": "How does the Anatomy & Interventions module relate to medical simulation?",
+        "golden_set": "Upon completing the Anatomy & Interventions module, learners will explain the relationship between human medical simulation and basic human anatomy and physiology, match programmed parameters to human organs and systems, identify how a manikin can mimic pathological findings, recognize commonly used drugs and their effects on the body, and understand various medical procedures performed on a manikin."
+    },
+    {
+        "query": "What are the benefits of enrolling in an independent study course at UND?",
+        "golden_set": "Enrolling in an independent study course at the University of North Dakota allows you to start anytime, learn at your own pace, complete lessons on your schedule, and choose your preferred study location, providing flexibility to fit your busy life."
+    },
+    {
+        "query": "What should I consider before enrolling in an independent study course?",
+        "golden_set": "Before enrolling, consider whether you work well independently, if you can stick to schedules, your reading and written communication skills, and your self-motivation to complete assignments without external push."
+    },
+    {
+        "query": "How does the independent study format work?",
+        "golden_set": "The independent study format allows you to engage in self-paced lessons and required readings from the comfort of your home. You can manage your time effectively and begin the course immediately."
+    },
+    {
+        "query": "What types of real estate courses does UND offer?",
+        "golden_set": "The University of North Dakota offers courses for licensed real estate agents and aspiring real estate students pursuing their North Dakota or Minnesota real estate licenses, all in an online format with anytime enrollment."
+    },
+    {
+        "query": "Is there a pre-licensing course available for North Dakota?",
+        "golden_set": "Yes, UND offers a 90-hour Salesperson Pre-Licensing Course for North Dakota, taught by an experienced instructor with over 25 years in the real estate industry. This course is approved by the ND Real Estate Commission and can be completed online."
+    },
+    {
+        "query": "Is there a pre-licensing course available for Minnesota?",
+        "golden_set": "Yes, UND also offers a 90-hour Salesperson Pre-Licensing Course for Minnesota, taught by an experienced instructor, and approved by the MN Department of Commerce. This course is available entirely online."
+    },
+    {
+        "query": "Are there continuing education courses available for North Dakota real estate professionals?",
+        "golden_set": "Yes, UND offers a wide variety of continuing education (CE) courses approved in North Dakota. All courses are sanctioned by ARELLO and the North Dakota Real Estate Commission."
+    },
+    {
+        "query": "How can I pursue Mortgage Loan Officer Pre-Licensing education at UND?",
+        "golden_set": "The University of North Dakota has partnered with The CE Shop to provide MLO Pre-License education in various states. You can select your state from a dropdown list to learn how to become licensed."
+    },
+    {
+        "query": "How can I reward an agent who referred me to UND\u2019s real estate program?",
+        "golden_set": "If you were referred by an agent, you can complete the referral form to reward them with a free continuing education (CE) course."
+    },
+    {
+        "query": "What are the pre-license requirements for North Dakota real estate?",
+        "golden_set": "In North Dakota, you are required to complete a total of 90 hours of pre-licensing education, which consists entirely of mandatory hours (90 hours mandatory, 0 hours elective)."
+    },
+    {
+        "query": "What courses are offered for North Dakota pre-licensing?",
+        "golden_set": "The University of North Dakota offers the 90-Hr. ND Pre-Licensing Course, which includes exam preparation for both national and state portions."
+    },
+    {
+        "query": "What is the price for the North Dakota pre-licensing course?",
+        "golden_set": "The 90-Hr. ND Pre-Licensing Course is priced at $799."
+    },
+    {
+        "query": "How is the licensing exam administered in North Dakota?",
+        "golden_set": "The licensing exam is administered by PSI. Registration for the state licensing exam is a separate process from the course final exam. For more information and instructions on how to register, please visit the PSI website."
+    },
+    {
+        "query": "Where can I find more information about the North Dakota pre-licensing courses?",
+        "golden_set": "You can find detailed information about the courses and state requirements on the University of North Dakota's official website here."
+    },
+    {
+        "query": "What are the state requirements for pre-licensing education in North Dakota?",
+        "golden_set": "In North Dakota, the state requires 90 hours of pre-licensing education, all of which are mandatory. There are no elective hours needed."
+    },
+    {
+        "query": "What courses are available for North Dakota pre-licensing education?",
+        "golden_set": "The University of North Dakota offers a 90-Hr. ND Pre-Licensing Course, which includes exam preparation for both national and state portions."
+    },
+    {
+        "query": "How much does the North Dakota pre-licensing course cost?",
+        "golden_set": "The 90-Hr. ND Pre-Licensing Course is priced at $799."
+    },
+    {
+        "query": "How is the licensing exam administered in North Dakota?",
+        "golden_set": "The licensing exam is administered by PSI. Registration for the state licensing exam is separate from the proctoring of the course final exam. For detailed registration instructions, please visit the PSI website."
+    },
+    {
+        "query": "Where can I find more information about the licensing and regulatory agency for real estate in North Dakota?",
+        "golden_set": "More information about licensing and regulatory agency details can be found on the University of North Dakota's website here."
+    },
+    {
+        "query": "What educational types are offered for North Dakota real estate education?",
+        "golden_set": "The available educational types include:"
+    },
+    {
+        "query": "How do I add a course to my cart?",
+        "golden_set": "To add a course to your cart, simply click the \"Add To Cart\" button associated with the desired course listing."
+    },
+    {
+        "query": "What is the process for registering for the North Dakota licensing exam?",
+        "golden_set": "The licensing exam is administered by PSI. Registration for the state licensing exam is a separate process from proctoring your course final exam. For detailed instructions on how to register for your state licensing exam, please visit the PSI registration page."
+    },
+    {
+        "query": "Where can I find licensing and regulatory agency information?",
+        "golden_set": "You can find information about licensing and regulatory agencies by clicking here."
+    },
+    {
+        "query": "What are the total hours required for pre-licensing education in North Dakota?",
+        "golden_set": "The state requires a total of 90 hours for pre-licensing education, all of which are mandatory. There are no elective hours."
+    },
+    {
+        "query": "What courses does the University of North Dakota offer for pre-licensing education?",
+        "golden_set": "The University of North Dakota offers the 90-Hr. ND Pre-Licensing Course, which includes exam preparation for both national and state portions."
+    },
+    {
+        "query": "What is the cost of the North Dakota pre-licensing course?",
+        "golden_set": "The 90-Hr. ND Pre-Licensing Course is priced at $799."
+    },
+    {
+        "query": "What types of real estate education are available in North Dakota?",
+        "golden_set": "The available educational types include:"
+    },
+    {
+        "query": "How can I add a course to my cart?",
+        "golden_set": "To add a course to your cart, simply click the \"Add To Cart\" button associated with the desired course listing."
+    },
+    {
+        "query": "Is there a filter option to select my state for the courses?",
+        "golden_set": "Yes, you can filter the courses by selecting your state, with options available for Minnesota and North Dakota."
+    },
+    {
+        "query": "What types of education are available for real estate professionals in North Dakota?",
+        "golden_set": "The available education types include:"
+    },
+    {
+        "query": "What course is offered for North Dakota pre-licensing education?",
+        "golden_set": "The University of North Dakota offers the 90-Hr. ND Pre-Licensing Course with Exam Prep, which covers both national and state portions. More details can be found here."
+    },
+    {
+        "query": "How many total hours are required for the North Dakota pre-licensing education?",
+        "golden_set": "The state requires a total of 90 hours for pre-licensing education, all of which are mandatory."
+    },
+    {
+        "query": "What is the cost of the 90-Hr. ND Pre-Licensing Course?",
+        "golden_set": "The cost for the 90-Hr. ND Pre-Licensing Course is $799."
+    },
+    {
+        "query": "Where can I find the details about the North Dakota state requirement for pre-licensing education?",
+        "golden_set": "Details regarding the North Dakota state requirements for pre-licensing education can be found on the University of North Dakota's website."
+    },
+    {
+        "query": "How do I register for the licensing exam?",
+        "golden_set": "The licensing exam is administered by PSI, and registration for the state licensing exam is a separate process from proctoring your course final exam. For instructions to register for your state licensing exam and further information, please click here."
+    },
+    {
+        "query": "What is the purpose of the Essential Studies (ES) Program assessment process?",
+        "golden_set": "The ES Program assessment process aims to evaluate course material based on specific ES learning goals through faculty assessments, ensuring effective measurement and improvement of each learning goal."
+    },
+    {
+        "query": "How is data collected for the Essential Studies assessment?",
+        "golden_set": "Data is collected from faculty on one learning goal per semester using ES learning goal rubrics. The data is gathered only from validated courses that align with the designated learning goal and are being offered in the specified semester."
+    },
+    {
+        "query": "What are the upcoming assessment goals and their timelines?",
+        "golden_set": "The assessment goals and their respective timelines are:"
+    },
+    {
+        "query": "What training materials are available for faculty regarding the Written Communication assessment in Spring 2024?",
+        "golden_set": "Faculty can access a Training Video and Presentation Slides for the Written Communication assessment."
+    },
+    {
+        "query": "Which courses will be assessed for Written Communication in Spring 2024?",
+        "golden_set": "The courses to be assessed include ACCT 450, CSD 485, LEAD 101, PSYC 460, and many others as listed in the original document. If a course is offered only as Self-Paced Enroll Anytime (SPEA), faculty are not required to complete the ES assessment requirements."
+    },
+    {
+        "query": "What materials are available for the Intercultural Knowledge & Skills assessment in Fall 2023?",
+        "golden_set": "Faculty can access a Presentation and a Training Video for the Intercultural Knowledge & Skills assessment."
+    },
+    {
+        "query": "What courses will be assessed for Intercultural Knowledge & Skills in Fall 2023?",
+        "golden_set": "The courses for assessment include ANTH 171, FREN 201, HIST 310, NORW 201, SPAN 101, and many others as listed in the original document. If a course is offered only as Self-Paced Enroll Anytime (SPEA), faculty are not required to complete the ES assessment requirements."
+    },
+    {
+        "query": "Where can faculty find the rubrics for the Essential Studies assessments?",
+        "golden_set": "Faculty can find the assessment rubrics for the Essential Studies program at the following links:"
+    },
+    {
+        "query": "What are the data summaries available for Written Communication in Spring 2024?",
+        "golden_set": "The data summary for Written Communication in Spring 2024 can be accessed here."
+    },
+    {
+        "query": "What data is available for Intercultural Knowledge & Skills for Fall 2023?",
+        "golden_set": "The data summary for Intercultural Knowledge & Skills in Fall 2023 can be accessed here."
+    },
+    {
+        "query": "Where can I find the Oral Communication data for Spring 2023?",
+        "golden_set": "The Oral Communication data summary for Spring 2023 can be accessed here."
+    },
+    {
+        "query": "Is there data available for Information Literacy for Fall 2022?",
+        "golden_set": "Yes, the data summary for Information Literacy for Fall 2022 can be accessed here."
+    },
+    {
+        "query": "Why is there no data summary for 2020 and 2021?",
+        "golden_set": "There are no data summaries from 2020 or 2021 because a summary was not received from the VALUE Institute submissions in 2020. At that time, the decision was made to stop submitting work for assessment purposes. Additionally, no data was collected in 2021 while a new process was developed to ensure data collection starting in Fall 2022."
+    },
+    {
+        "query": "What is the summary report for Quantitative Literacy from July 2019?",
+        "golden_set": "The 2017-2018 VALUE Institute Summary for Quantitative Literacy can be accessed here."
+    },
+    {
+        "query": "What was the methodology used for the Oral Communication assessment in May 2017?",
+        "golden_set": "In May 2017, a total of 86 faculty and staff scorers assessed approximately 350 students during the Spring UNDergraduate Showcase poster session. Key data quality considerations included:"
+    },
+    {
+        "query": "What does the scorer variability indicate for the Oral Communication assessment?",
+        "golden_set": "The scorer variability showed that the score range of two or less is significantly larger than the score range of three or greater, indicating consistency among scorers."
+    },
+    {
+        "query": "What was the score distribution for the Oral Communication assessment?",
+        "golden_set": "Approximately 68 students were selected as \"Accomplished\" with scores ranging from 4.5 to 6."
+    },
+    {
+        "query": "What does the Oral Communication assessment suggest about UND students' abilities?",
+        "golden_set": "The results suggest that UND students\u2019 oral communication abilities are rarely rated as \u201cunsatisfactory,\u201d with more than two-thirds scoring as \u201caccomplished.\u201d"
+    },
+    {
+        "query": "How was the Written Communication assessment conducted in December 2016?",
+        "golden_set": "A total of 20 faculty and staff assessed approximately 85 students\u2019 written work based on a performance task developed by UND faculty, focusing on the ES Written Communication learning goal. This assessment occurred during the February 2016 Assessment Week, using similar data quality considerations and assessment methodologies as noted in the Oral Communication assessment."
+    },
+    {
+        "query": "What does the scorer variability indicate for the Written Communication assessment?",
+        "golden_set": "A significant amount of scorers selected a score range of 2 or less."
+    },
+    {
+        "query": "What was the results summary for the Written Communication assessment?",
+        "golden_set": "The majority of scores fell in the \"Developing\" category, with scores ranging from 2.5 to 4.5."
+    },
+    {
+        "query": "What do the results suggest about the Written Communication abilities of students?",
+        "golden_set": "There is clear room for improvement, as only approximately 30% of students produced work in the \u201caccomplished\u201d category."
+    },
+    {
+        "query": "What was the methodology for the Intercultural Knowledge & Skills assessment in May 2016?",
+        "golden_set": "A total of 22 faculty and staff scored approximately 100 students\u2019 written work based on a performance task focused on the ES Diversity learning goal (which was later revised to Intercultural Knowledge & Skills). This assessment took place during the February 2016 Assessment Week and included the following data quality considerations:"
+    },
+    {
+        "query": "What does the scorer variability indicate for the Intercultural Knowledge & Skills assessment?",
+        "golden_set": "The majority of scorers selected a score range of 2 or less."
+    },
+    {
+        "query": "What was the results summary for the Intercultural Knowledge & Skills assessment?",
+        "golden_set": "The majority of scores fell in the \"Unsatisfactory\" category, with scores ranging from 0 to 2.5."
+    },
+    {
+        "query": "What do the results suggest about the Intercultural Knowledge & Skills abilities of students?",
+        "golden_set": "The results were discouraging, as only approximately 15% of students produced work in the \u201caccomplished\u201d category, while almost half showed scores in the \u201cunsatisfactory\u201d category. Consequently, the ES requirements in this area have been revised to strengthen course criteria and expectations."
+    },
+    {
+        "query": "What was the methodology for the Quantitative Reasoning assessment in December 2015?",
+        "golden_set": "A total of 15 faculty and staff scored approximately 120 students\u2019 written work based on a performance task focused on the ES Quantitative Reasoning learning goal. This assessment occurred during the February 2015 Assessment Week and followed similar data quality considerations as noted in previous assessments:"
+    },
+    {
+        "query": "What was the results summary for the Quantitative Reasoning assessment?",
+        "golden_set": "The majority of scores fell in the \"Accomplished\" category, with scores ranging from 4.5 to 6."
+    },
+    {
+        "query": "Where can I find the scoring session results for Quantitative Reasoning?",
+        "golden_set": "For the most valid results, focus on the 363 scoring instances of ES capstone students with a scorer spread of 0 or 1, detailed in the Quantitative Reasoning Scoring Session, December 2015: Scoring Results and Brief Analysis."
+    },
+    {
+        "query": "What do the results suggest about the Quantitative Reasoning abilities of students?",
+        "golden_set": "Approximately 45% of students scored in both the \u201caccomplished\u201d and \u201cdeveloping\u201d categories, indicating clear room for improvement."
+    },
+    {
+        "query": "What was the methodology for the Information Literacy assessment in February 2018?",
+        "golden_set": "In February 2018, senior students (n=171) in ES Capstone courses volunteered to take a specially designed performance task focused on the ES Information Literacy (IL) learning goal, aligned with the Association of American Colleges & Universities\u2019 VALUE rubric for IL. Faculty and staff (n=28) scored the students' work in May 2018."
+    },
+    {
+        "query": "What were the results of the Information Literacy assessment?",
+        "golden_set": "The majority of scorers selected \"Developing.\""
+    },
+    {
+        "query": "Where can I find the scoring results for Information Literacy?",
+        "golden_set": "For further details, see the Information Literacy Scoring Results and Brief Analysis."
+    },
+    {
+        "query": "What was the focus of the Critical Thinking and Written Communication assessment in February 2017?",
+        "golden_set": "In February 2017, senior students (n=240) in ES Capstone courses completed a performance task focused on the ES Critical Inquiry & Analysis (CI&A) learning goal, aligned with UND\u2019s ES CI&A criteria and assessment rubric."
+    },
+    {
+        "query": "What does the scorer variability indicate for the Critical Thinking and Written Communication assessment?",
+        "golden_set": "The majority of scorers selected a score range of 2 or less."
+    },
+    {
+        "query": "Where can I find the scoring session results for Critical Thinking and Written Communication?",
+        "golden_set": "The detailed results are available in the Critical Thinking and Written Communication: Scoring Session Results/Report."
+    },
+    {
+        "query": "Who can I contact for more information about the Essential Studies assessment process?",
+        "golden_set": "You can contact Karina Knutson, Assessment & Accreditation Specialist, or Karyn Plumm, Essential Studies Director, at karyn.plumm@UND.edu."
+    },
+    {
+        "query": "How does the development of Essential Studies courses begin?",
+        "golden_set": "The development starts with individual faculty members and their departments."
+    },
+    {
+        "query": "What are the key principles guiding the curriculum design at UND?",
+        "golden_set": "Faculty leadership in curriculum design and departmental \u201cownership\u201d for courses are two key principles. Additionally, the responsibility for the general education program belongs to the entire community, working collaboratively."
+    },
+    {
+        "query": "What is the process for submitting Essential Studies course proposals?",
+        "golden_set": "Course proposals, changes, and assessments are faculty-initiated, with oversight and approval by a campus-wide committee under the jurisdiction of the University Senate."
+    },
+    {
+        "query": "What are the options for developing a new ES course?",
+        "golden_set": "There are four main ways to develop an ES course:New ES Course: This can be an existing course proposed for addition to the ES program or a new course going thro the university curriculum procedure. Validation proposals may be submitted before approval by the University Curriculum Committee.ES Course Change: A request to change an already-approved ES course to meet a different ES requirement, treated as a new validation.ES Revalidation: A review and analysis of a course's effectiveness in meeting students' learning, conducted on a 4-year cycle by the ES Committee.ES Course Deletion: A request to remove a course from the ES program, managed by notifying the ES Director."
+    },
+    {
+        "query": "What criteria does the Essential Studies Committee consider when reviewing a course for inclusion in the program?",
+        "golden_set": "The committee looks at the following critical elements:"
+    },
+    {
+        "query": "Where can I find more information about instructional design and teaching techniques?",
+        "golden_set": "For more information and advice about instructional design, teaching techniques, and more, visit the Teaching Transformation & Development Academy."
+    },
+    {
+        "query": "What are Essential Studies courses at UND?",
+        "golden_set": "Essential Studies courses form the core education for UND undergraduate students."
+    },
+    {
+        "query": "What is required to use a course to meet Essential Studies (ES) requirements?",
+        "golden_set": "The course must be on the approved list in the semester you take it, as the curriculum may change. A course previously approved might have been modified or dropped from the list."
+    },
+    {
+        "query": "Where can I find information on how courses are approved?",
+        "golden_set": "You can find information about course approval here."
+    },
+    {
+        "query": "Where can I see the current approved Essential Studies courses?",
+        "golden_set": "The current approved ES courses are available here."
+    },
+    {
+        "query": "What are the requirements for Intercultural Knowledge and Skills in Essential Studies?",
+        "golden_set": "As of Fall 2020, students are required to complete 2 courses in this area focusing on Diversity of Human Experience (D) and Analyzing Worldviews (W), instead of the previous Global (G) and US (U) Diversity courses."
+    },
+    {
+        "query": "What should I do if I began at UND prior to Fall 2020?",
+        "golden_set": "You can view the courses that meet the previous requirements in the link for \"Fall 2019-Spring 2020 Special Emphasis.\""
+    },
+    {
+        "query": "How can I use a course to meet Essential Studies requirements if it was on the approved list in the past?",
+        "golden_set": "It must still be on the approved list in the semester that you take it. Curricula may change, and a past-approved course may have been modified or dropped."
+    },
+    {
+        "query": "What are the goals of the Essential Studies Program at UND?",
+        "golden_set": "The goals of the Essential Studies Program at UND are to prepare students for productive and fulfilling public, private, and professional lives by developing key intellectual skills through various courses. These skills include critical inquiry and analysis, quantitative reasoning, written communication, oral communication, information literacy, and intercultural knowledge and skills."
+    },
+    {
+        "query": "What is Critical Inquiry and Analysis in the Essential Studies Program?",
+        "golden_set": "Critical Inquiry and Analysis is a systematic process of exploring issues, objects, or works through the collection and analysis of evidence that leads to informed conclusions or judgments. It involves breaking complex topics or issues into parts to gain a better understanding."
+    },
+    {
+        "query": "What does Quantitative Reasoning entail in the Essential Studies Program?",
+        "golden_set": "Quantitative Reasoning involves competency and comfort in working with numerical data to reason and solve quantitative problems in various authentic contexts and everyday situations. It also includes creating and clearly communicating sophisticated arguments supported by quantitative evidence using words, tables, graphs, and mathematical equations."
+    },
+    {
+        "query": "How is Written Communication defined in the Essential Studies Program?",
+        "golden_set": "Written Communication refers to the development and expression of ideas in writing, encompassing various genres and styles. It may involve working with different writing technologies and integrating text, data, and images."
+    },
+    {
+        "query": "What is the focus of Oral Communication in the Essential Studies Program?",
+        "golden_set": "Oral Communication focuses on purposeful presentations designed to increase knowledge, foster understanding, or promote changes in the listeners' attitudes, values, beliefs, or behaviors."
+    },
+    {
+        "query": "What does Information Literacy mean in the context of the Essential Studies Program?",
+        "golden_set": "Information Literacy encompasses a set of integrated abilities that involve the reflective discovery of information, understanding how information is produced and valued, and using information to create new knowledge while participating ethically in learning communities."
+    },
+    {
+        "query": "How does the Essential Studies Program promote Intercultural Knowledge & Skills?",
+        "golden_set": "Intercultural Knowledge & Skills foster the ability to meaningfully engage with the perspectives of individuals from different cultures and identities. This involves awareness of how these perspectives are shaped by larger social structures and contemporary issues in global society."
+    },
+    {
+        "query": "What does the course addressing the Essential Studies learning goal of Critical Inquiry & Analysis focus on?",
+        "golden_set": "This course focuses on collecting and analyzing information to reach conclusions based on evidence. Specifically, it involves a systematic process of exploring issues, objects, or works through the collection and analysis of evidence, leading to informed conclusions or judgments. You should expect to develop these intellectual skills throughout the course."
+    },
+    {
+        "query": "How is Information Literacy defined in the context of this course?",
+        "golden_set": "Information Literacy is about finding necessary information, understanding its origins, and evaluating and using that information appropriately. It encompasses the reflective discovery of information, understanding how information is produced and valued, and using information to create new knowledge while participating ethically in learning communities. You should expect to focus on these skills as part of this course."
+    },
+    {
+        "query": "What skills does the course aim to develop regarding Intercultural Knowledge & Skills?",
+        "golden_set": "This course aims to acquire the knowledge, skills, and attitudes needed to interact successfully with individuals from different backgrounds. It fosters the capacity to meaningfully engage with diverse perspectives, while being aware of how these perspectives are shaped by larger social structures and contemporary global issues. You should expect to focus on these intellectual skills as part of this course."
+    },
+    {
+        "query": "What does Quantitative Reasoning involve in this course?",
+        "golden_set": "Quantitative Reasoning focuses on becoming competent and comfortable when working with numerical data and graphic displays of information. It involves reasoning and solving quantitative problems from various authentic contexts and everyday life situations, and creating sophisticated arguments supported by quantitative evidence such as words, tables, graphs, and mathematical equations. You should expect to develop these intellectual skills in this course."
+    },
+    {
+        "query": "What is the focus of the Essential Studies Communication course?",
+        "golden_set": "The Essential Studies Communication course is designed to introduce and practice effective speaking and writing skills in civic, academic, and professional settings. It emphasizes the learning process through continued practice, with regular feedback from instructors and multiple oral presentations and/or written texts. The course encourages awareness of purpose, audience, argument construction, and the analysis and synthesis of outside sources."
+    },
+    {
+        "query": "What will students learn in the Essential Studies Social Sciences course?",
+        "golden_set": "The Essential Studies Social Sciences course involves the study of human behavior and cultures, individually or in groups. It will include empirical analysis to evaluate and make predictions about human behavior, using methodologies such as probabilistic models, case studies, surveys, and ethnographies. Students will be introduced to human behavior and the various methods through which conclusions are reached in social sciences."
+    },
+    {
+        "query": "What does the Essential Studies Fine Arts course emphasize?",
+        "golden_set": "The Essential Studies Fine Arts course emphasizes artistic creation and instruction in techniques for imaginative creation, including visual, aural, performance arts, and linguistic expressions. It also includes instruction in interpreting and evaluating creative productions."
+    },
+    {
+        "query": "What does the Essential Studies Humanities course focus on?",
+        "golden_set": "The Essential Studies Humanities course involves the investigation and interpretation of human behavior and affairs, culture, thought, language, literature, text, and symbols. It primarily aims to analyze language, history, culture, society, formal structures, and artistic works, while helping students develop facility with language."
+    },
+    {
+        "query": "What is the focus of the Essential Studies Math, Science, and Technology course?",
+        "golden_set": "The Essential Studies Math, Science, and Technology course fits into one of the following subareas: Mathematics, Natural Sciences, or Engineering and Technology."
+    },
+    {
+        "query": "What does the Advanced Communication course emphasize?",
+        "golden_set": "The Advanced Communication course emphasizes practice and process in communication. Students will receive regular feedback on their speaking and writing, with multiple spoken presentations and written texts required. At least one-third of the assignments will focus on writing and speaking skills, building on previous courses' skills such as audience awareness and argumentation. Feedback on communication quality will be provided to help improve students' skills."
+    },
+    {
+        "query": "How does the Diversity of Human Experience course enhance understanding of human diversity?",
+        "golden_set": "The Diversity of Human Experience course emphasizes understanding human diversity and the multiplicity of differing worldviews. At least one-third of the course\u2019s focus and graded assignments will help students recognize cultural differences, understand how worldviews are shaped by identities and cultures, and reflect on their own identity and worldview."
+    },
+    {
+        "query": "What is the goal of the Analyzing Worldview course?",
+        "golden_set": "The Analyzing Worldview course aims to help students develop transferrable academic skills for interacting with diverse backgrounds. It focuses on recognizing social and cultural differences while understanding how worldviews are shaped by identities and cultures. At least half of the course\u2019s focus and graded assignments will analyze how worldviews are influenced by privilege and oppression, and encourage reflective thinking about personal ideological systems."
+    },
+    {
+        "query": "What does the Quantitative Reasoning course aim to achieve?",
+        "golden_set": "The Quantitative Reasoning course aims to improve students' confidence with mathematics, data interpretation, and decision-making using data. It includes assignments designed to make students comfortable with quantitative ideas and applying methods in practical contexts. The course encourages reasoning with numbers, data, and graphs and aims to provide students with the skills to use mathematics as a powerful tool in everyday life, enhancing their ability to measure and estimate accurately."
+    },
+    {
+        "query": "What is the focus of the Digital Information Literacy course?",
+        "golden_set": "The Digital Information Literacy course is an Essential Studies Special Emphasis course that prepares students to access, create, evaluate, organize, interpret, and disseminate information in digital formats. These transferable skills are essential for success in the current and emerging workforce and for active participation in a democratic society.Students will develop foundational skills to work with and evaluate new technologies, including artificial intelligence, and will engage in critical thinking and rhetorical skills through their own research. The course emphasizes self-reflection on cognitive, ethical, and emotional growth in digital spaces and provides opportunities to evaluate information and misinformation effectively.At least one-third of the course\u2019s focus and graded assignments will emphasize digital information literacy skills, promoting active participation in digital information environments."
+    },
+    {
+        "query": "What does the Capstone course aim to achieve?",
+        "golden_set": "The Capstone course is an Essential Studies Capstone course designed to consolidate, synthesize, and utilize the various intellectual skills acquired throughout the undergraduate curriculum. It focuses on integrating Essential Studies learning goals into the coursework, allowing students to produce advanced-level work that represents a culmination of their educational experience.Students can expect to engage meaningfully with the learning goals of Essential Studies, demonstrating their knowledge and skills in a comprehensive manner."
+    },
+    {
+        "query": "What was the purpose of the program review conducted for Essential Studies (ES) at UND in September 2014?",
+        "golden_set": "The program review aimed to consider ES as a coherent program rather than just a collection of courses. It was a recommendation from the General Education Task Force to conduct periodic reviews, contributing to the ongoing development and refinement of Essential Studies.You can view the ES Program Review Team's final report prepared in November 2014."
+    },
+    {
+        "query": "What was the transition process to Essential Studies at UND?",
+        "golden_set": "In May 2007, the University Senate approved the transition from the previous General Education Program to the Essential Studies program. This decision was made after extensive work by the General Education Task Force. The transition year culminated in the launch of the Essential Studies program for the freshman class of 2008-2009."
+    },
+    {
+        "query": "What are the Essential Studies requirements at UND?",
+        "golden_set": "To fulfill Essential Studies requirements, students must complete 39 semester credits, which include 36 credits and a 3-credit Capstone course. Students can select courses that meet multiple requirements simultaneously, including Special Emphasis, Breadth of Knowledge, or major requirements.For more details, see the REQUIRED CREDITS and APPROVED COURSES."
+    },
+    {
+        "query": "What are the six learning goals of Essential Studies courses?",
+        "golden_set": "The six learning goals of Essential Studies courses at UND are designed to prepare students for successful careers. Each course focuses on at least one of these goals:Critical Inquiry & Analysis: Collect and analyze information to reach evidence-based conclusions.Quantitative Reasoning: Develop competence and comfort when working with numbers and graphical data.Written Communication: Express ideas effectively in writing, using words, data, and images.Oral Communication: Present information in various settings to achieve specific purposes.Information Literacy: Locate, understand, evaluate, and use information appropriately.Intercultural Knowledge & Skills: Interact successfully with people from diverse backgrounds and apply that understanding to contemporary issues.For more information, see ES, Your Career and Future Success."
+    },
+    {
+        "query": "What are the Breadth of Knowledge requirements for Essential Studies?",
+        "golden_set": "The Breadth of Knowledge requirements include:II. Communication: 9 semester credits minimum (must include Engl. 110, Engl. 120 or Engl. 125, and 3 credits of oral communication).III. Social Sciences: 9 semester credits minimum (must be taken in at least 2 departments).IV. Fine Arts and Humanities: 9 semester credits minimum (must be taken in at least 2 departments, with a minimum of 3 credits in Fine Arts and 3 credits in Humanities).V. Mathematics, Science and Technology: 9 semester credits minimum (must be taken in at least 2 departments, including a 4-hour science course with a lab)."
+    },
+    {
+        "query": "What is the Capstone requirement in Essential Studies?",
+        "golden_set": "The Capstone requirement involves taking an approved Capstone course (carrying the \"C\" designation) in the senior year, totaling at least 3 semester credits. All students, including transfers, must complete this Capstone course as part of their Essential Studies requirements.Transfer students who have completed general education requirements at NDUS, MnSCU, or Washington State institutions only need to fulfill the Essential Studies Capstone requirement at UND. Those transferring from other institutions must meet all Essential Studies requirements listed above. For more details, visit the transfer student information website."
+    },
+    {
+        "query": "What courses are required for the Communication section of the Essential Studies program?",
+        "golden_set": "You must choose one course from each of the three areas: College Composition I (Engl 110), College Composition II (Engl 120), or Technical and Business Writing (Engl 125) for the writing requirement, and one oral communication course such as Fundamentals of Public Speaking (Comm 110) or Senior Design II (EE 481)."
+    },
+    {
+        "query": "What are the Social Sciences requirements for the Essential Studies program?",
+        "golden_set": "A minimum of 9 semester credits must be taken in at least 2 departments. You can choose from various disciplines, including Anthropology, Business Administration, Communication, Economics, Geography, History, and Indian Studies, among others."
+    },
+    {
+        "query": "What is the course Nurs 490 about?",
+        "golden_set": "Nurs 490 focuses on Transcultural Health Care Theories, Research, and Practice, and is worth 3 credits."
+    },
+    {
+        "query": "What does the N&D 335 course cover?",
+        "golden_set": "N&D 335 covers World Food Patterns and is worth 3 credits."
+    },
+    {
+        "query": "What are some courses offered in Political Science?",
+        "golden_set": "The Political Science program includes courses like Pols 115 (American Government I), Pols 116 (State and Local Government), and Pols 220 (International Politics), each worth 3 credits."
+    },
+    {
+        "query": "What introductory courses are available in Psychology?",
+        "golden_set": "Courses such as Psyc 111 (Introduction to Psychology) and Psyc 250 (Developmental Psychology) are available, with Psyc 250 offering 4 credits."
+    },
+    {
+        "query": "What is covered in RLS 201?",
+        "golden_set": "RLS 201 explores Recreation and Society and is worth 3 credits."
+    },
+    {
+        "query": "What is the focus of RHS 250?",
+        "golden_set": "RHS 250 addresses Contemporary Issues in Rehabilitation and is worth 3 credits."
+    },
+    {
+        "query": "What are some Sociology courses offered?",
+        "golden_set": "Sociology courses include Soc 110 (Introduction to Sociology), Soc 115 (Social Problems), and Soc 250 (Diversity in American Society), among others, all worth 3 credits."
+    },
+    {
+        "query": "What does SpSt 300 discuss?",
+        "golden_set": "SpSt 300 is titled The Case for Space and is worth 3 credits."
+    },
+    {
+        "query": "What course is offered for Child Development?",
+        "golden_set": "T&L 252 focuses on Child Development and is worth 3 credits."
+    },
+    {
+        "query": "What does WS 225 cover?",
+        "golden_set": "WS 225 is an Introduction to the Study of Women and is worth 3 credits."
+    },
+    {
+        "query": "What are the requirements for the Arts and Humanities section?",
+        "golden_set": "A minimum of 9 semester hours is required, taken in at least 2 departments, including 3 credits designated as Fine Arts and 3 credits designated as Humanities."
+    },
+    {
+        "query": "What are some courses offered in Fine Arts?",
+        "golden_set": "Courses include Art 100 (Introduction to Sculpture) and Art 120 (Introduction to Drawing and Color Materials), both worth 3 credits."
+    },
+    {
+        "query": "What is Engl 308 about?",
+        "golden_set": "Engl 308 is Advanced Composition I and is worth 3 credits."
+    },
+    {
+        "query": "What course is offered as an Integrated Cultural Experience?",
+        "golden_set": "Hum 212 offers an Integrated Cultural Experience and is worth 3 credits."
+    },
+    {
+        "query": "What does IT 322 focus on?",
+        "golden_set": "IT 322 covers Fundamentals of Photography and is worth 3 credits."
+    },
+    {
+        "query": "What are some music courses available?",
+        "golden_set": "Music courses include Musc 100 (Introduction to the Understanding of Music) and various individual lesson options, all worth 1 credit each."
+    },
+    {
+        "query": "What does Thea 110 cover?",
+        "golden_set": "Thea 110 is an Introduction to Theatre Arts and is worth 3 credits."
+    },
+    {
+        "query": "What does Art 110 discuss?",
+        "golden_set": "Art 110 is an Introduction to the Visual Arts and is worth 3 credits."
+    },
+    {
+        "query": "What course is offered in Canadian Studies?",
+        "golden_set": "A&S 252 introduces students to Canadian Studies and is worth 3 credits."
+    },
+    {
+        "query": "What is Engl 265 about?",
+        "golden_set": "Engl 265 covers Native American Literature and is worth 3 credits."
+    },
+    {
+        "query": "What does FA 150 introduce?",
+        "golden_set": "FA 150 introduces students to Fine Arts and is worth 3 credits."
+    },
+    {
+        "query": "What are some courses offered in History?",
+        "golden_set": "History courses include Hist 101 (Western Civilization I) and Hist 102 (Western Civilization II), each worth 3 credits."
+    },
+    {
+        "query": "What is Hon 101 about?",
+        "golden_set": "Hon 101 is Inquiry in the Humanities and is worth 3 credits."
+    },
+    {
+        "query": "What do Hum 101 and Hum 102 cover?",
+        "golden_set": "Hum 101 and Hum 102 are Humanities I and II courses, each worth 4 credits."
+    },
+    {
+        "query": "What courses are offered under Indian Studies?",
+        "golden_set": "The courses offered under Indian Studies include:"
+    },
+    {
+        "query": "What language courses are available?",
+        "golden_set": "The available language courses include:"
+    },
+    {
+        "query": "What courses are offered in Theatre Arts?",
+        "golden_set": "The courses offered in Theatre Arts include:"
+    },
+    {
+        "query": "What are the requirements for Mathematics, Science, and Technology courses?",
+        "golden_set": "Students must complete a minimum of 9 semester hours, taking courses from at least two different departments, including one 4-hour science course with a lab (designated with an L)."
+    },
+    {
+        "query": "What courses are available under Anthropology?",
+        "golden_set": "The courses offered under Anthropology include:"
+    },
+    {
+        "query": "What Atmospheric Sciences courses are available?",
+        "golden_set": "The available course in Atmospheric Sciences is:AtSc 110: Meteorology I (ND) (4 credits)"
+    },
+    {
+        "query": "What Biology courses are offered?",
+        "golden_set": "The courses offered in Biology include:"
+    },
+    {
+        "query": "What Chemistry courses are available?",
+        "golden_set": "The Chemistry courses offered include:"
+    },
+    {
+        "query": "What Computer Science courses are offered?",
+        "golden_set": "The Computer Science courses available include:"
+    },
+    {
+        "query": "What Economics courses are available?",
+        "golden_set": "The course offered in Economics is:"
+    },
+    {
+        "query": "What Geography courses are offered?",
+        "golden_set": "The Geography courses available include:"
+    },
+    {
+        "query": "What courses are available in Geology?",
+        "golden_set": "The courses offered in Geology include:"
+    },
+    {
+        "query": "What Honors courses are available?",
+        "golden_set": "The Honors courses offered include:"
+    },
+    {
+        "query": "What Humanities courses are available?",
+        "golden_set": "The courses offered under Humanities include:"
+    },
+    {
+        "query": "What courses are available in Indian Studies?",
+        "golden_set": "The available course in Indian Studies is:"
+    },
+    {
+        "query": "What Mathematics courses are offered?",
+        "golden_set": "The Mathematics courses available include:"
+    },
+    {
+        "query": "What Nutrition and Dietetics courses are available?",
+        "golden_set": "The course offered in Nutrition and Dietetics is:"
+    },
+    {
+        "query": "What courses are included in the Theatre Arts section?",
+        "golden_set": "The Theatre Arts section includes the following courses:"
+    },
+    {
+        "query": "What is the minimum requirement for Mathematics, Science, and Technology?",
+        "golden_set": "A minimum of 9 semester hours is required, which must be taken in a minimum of 2 departments and include a 4-hour science course with a lab."
+    },
+    {
+        "query": "Which Anthropology courses are available?",
+        "golden_set": "The available Anthropology courses are:"
+    },
+    {
+        "query": "What courses are offered under Atmospheric Sciences?",
+        "golden_set": "The Atmospheric Sciences courses include:"
+    },
+    {
+        "query": "What Biology courses are available with lab components?",
+        "golden_set": "The Biology courses available with lab components are:"
+    },
+    {
+        "query": "What Chemistry courses can students take?",
+        "golden_set": "The Chemistry courses available are:"
+    },
+    {
+        "query": "What Computer Science courses are offered?",
+        "golden_set": "The Computer Science courses offered are:"
+    },
+    {
+        "query": "What is the requirement for Economics courses?",
+        "golden_set": "The available Economics course is:"
+    },
+    {
+        "query": "What Geography courses are available with lab components?",
+        "golden_set": "The Geography courses available with lab components are:"
+    },
+    {
+        "query": "What courses are offered under Geology?",
+        "golden_set": "The available Geology courses are:"
+    },
+    {
+        "query": "What honors courses are available?",
+        "golden_set": "The available honors courses are:"
+    },
+    {
+        "query": "What Humanities courses are offered?",
+        "golden_set": "The Humanities courses available are:"
+    },
+    {
+        "query": "What Nutrition and Dietetics course is available?",
+        "golden_set": "The available course in Nutrition and Dietetics is:"
+    },
+    {
+        "query": "What Physics courses are offered with lab components?",
+        "golden_set": "The Physics courses available with lab components are:"
+    },
+    {
+        "query": "What Psychology course is available?",
+        "golden_set": "The available Psychology course is:Psyc 241: Introduction to Statistics - (4)"
+    },
+    {
+        "query": "What Sociology course is offered?",
+        "golden_set": "The Sociology course offered is:Soc 326: Sociological Statistics - (3)"
+    },
+    {
+        "query": "What course is available under Space Studies?",
+        "golden_set": "The available course in Space Studies is:SpSt 200: Introduction to Space Studies (ND)"
+    },
+    {
+        "query": "What Technology course is offered?",
+        "golden_set": "The available Technology course is:IT 300: Technology and Society (ND) - (3)"
+    },
+    {
+        "query": "What is required for the Capstone course?",
+        "golden_set": "An approved Capstone course or course sequence is required, which must be taken in the senior year of the undergraduate program."
+    }
+]

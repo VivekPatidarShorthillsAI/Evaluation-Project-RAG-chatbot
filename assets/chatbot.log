@@ -1,0 +1,291 @@
+INFO:root:No existing index found. Building new index.
+INFO:root:Chunking text document
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Generating embeddings for text
+INFO:root:Building FAISS index
+INFO:root:Index built successfully
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: Tell me something about Development of a GPS Spoofing Apparatus to Attack a DJI Matrie 100
+Quadcopter
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: Tell me something about Development of a GPS Spoofing Apparatus to Attack a DJI Matrie 100
+Quadcopter
+ERROR:root:Error generating response: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: How do I take a collaborative course(s)? How do I take a course(s) at another school to count towards my UND degree?
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: How do I take a collaborative course(s)? How do I take a course(s) at another school to count towards my UND degree?
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: what are all  the computer science courses alvailable
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: what are all  the computer science courses alvailable
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: what are all the computer science courses alvailable
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: what are all the computer science courses alvailable
+ERROR:root:Failed to parse model response as JSON
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: Give me all computer Science courses
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: Give me all computer Science courses
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: Are there any certificates for professional technical communication? 
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: Are there any certificates for professional technical communication? 
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: What training is available for becoming a certified travel agent? 
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: What training is available for becoming a certified travel agent? 
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: Are there any programs that focus on car rentals? 
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: Are there any programs that focus on car rentals? 
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: What leadership courses are available for women in business? 
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: What leadership courses are available for women in business? 
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: Can you list some personal and professional development courses? 
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: Can you list some personal and professional development courses? 
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: What is the cost of the 'Bartending at Home-Online' course?
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: What is the cost of the 'Bartending at Home-Online' course?
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: What is included in the Complete IT Training Series?
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: What is included in the Complete IT Training Series?
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: What courses are available in Digital Marketing?
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: What courses are available in Digital Marketing?
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: What courses are available in Digital Marketing?
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: What courses are available in Digital Marketing?
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: What courses are available in Digital Marketing?
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: What courses are available in Digital Marketing?
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: What is the cost of the 'Digital Game Artist Certificate' course?
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: What is the cost of the 'Digital Game Artist Certificate' course?
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: Can you list some intermediate programming courses?
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: Can you list some intermediate programming courses?
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: Are there any courses related to web design?
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: Are there any courses related to web design?
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: What is the cost of the 'Digital Game Artist Certificate' course
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: What is the cost of the 'Digital Game Artist Certificate' course
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: hat courses are offered for personal development related to home improvement?
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: hat courses are offered for personal development related to home improvement?
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: What is required to maintain the CDM, CFPP credential?
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: What is required to maintain the CDM, CFPP credential?
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Loading existing FAISS index
+INFO:root:Responder initialized with model: gemini-1.5-flash
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Loading existing FAISS index
+INFO:root:Responder initialized with model: gemini-1.5-flash
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: Can you provide details about the 'Certificate in Accounting Studies' course?
+INFO:root:Generating embeddings for text
+ERROR:root:UI Error: 'Responder' object has no attribute 'generate_response'
+INFO:root:Loading existing FAISS index
+INFO:root:Responder initialized with model: gemini-1.5-flash
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: Can you provide details about the 'Certificate in Accounting Studies' course?
+INFO:root:Generating embeddings for text
+ERROR:root:UI Error: 'Responder' object has no attribute 'generate_response'
+INFO:root:Loading existing FAISS index
+INFO:root:Responder initialized with model: gemini-1.5-flash
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Loading existing FAISS index
+INFO:root:Responder initialized with model: gemini-1.5-flash
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: What is the job outlook for MPA graduates in various industries?
+INFO:root:Generating embeddings for text
+ERROR:root:UI Error: 'Responder' object has no attribute 'generate_response'
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: What is the job outlook for MPA graduates in various industries?
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: What is the job outlook for MPA graduates in various industries?
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: Are there any courses focused on accounting software?
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: Are there any courses focused on accounting software?
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: What is the job outlook for MPA graduates in various industries?
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: What is the job outlook for MPA graduates in various industries?
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: What are the requirements for Mathematics, Science, and Technology courses?
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: What are the requirements for Mathematics, Science, and Technology courses?
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: How many Graduate Professional Development (GPD) credits can I earn from the "iPads in Education" course?
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: How many Graduate Professional Development (GPD) credits can I earn from the "iPads in Education" course?
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: Are there any courses specifically targeting social emotional learning strategies?
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: Are there any courses specifically targeting social emotional learning strategies?
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: What is the focus of the course \"iPad Strategies to Engage Students Who Have Autism\"?
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: What is the focus of the course \"iPad Strategies to Engage Students Who Have Autism\"?
+INFO:root:Loading existing FAISS index
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:root:Loading existing FAISS index
+INFO:root:Processing query: Can you provide details about the 'Certificate in Accounting Studies' course?
+INFO:root:Generating embeddings for text
+INFO:root:Generating response for query: Can you provide details about the 'Certificate in Accounting Studies' course?

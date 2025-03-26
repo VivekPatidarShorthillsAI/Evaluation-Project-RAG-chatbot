@@ -1,0 +1,314 @@
+2025-03-26 01:24:32,978 - INFO - Loading faiss with AVX512 support.
+2025-03-26 01:24:32,988 - INFO - Successfully loaded faiss with AVX512 support.
+2025-03-26 01:24:32,992 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-03-26 01:24:32,993 - INFO - Initializing EvaluationGenerator
+2025-03-26 01:24:32,994 - INFO - Use pytorch device_name: cpu
+2025-03-26 01:24:32,994 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-26 01:24:37,704 - INFO - Loading existing FAISS index
+2025-03-26 01:24:37,881 - INFO - Components initialized successfully
+2025-03-26 01:24:37,881 - INFO - Loading queries from assets/golden_set_ragas.json
+2025-03-26 01:24:37,882 - INFO - Loaded 100 queries
+2025-03-26 01:24:37,882 - INFO - Starting processing of 100 queries
+2025-03-26 01:24:37,883 - INFO - Processing query: What types of accounting courses are offered?
+2025-03-26 01:24:37,883 - INFO - Generating embeddings for text
+2025-03-26 01:24:37,921 - INFO - Generating response for query: What types of accounting courses are offered?
+2025-03-26 01:24:55,381 - INFO - Processing query: Can you provide details about the 'Certificate in Accounting Studies' course?
+2025-03-26 01:24:55,381 - INFO - Generating embeddings for text
+2025-03-26 01:24:55,410 - INFO - Generating response for query: Can you provide details about the 'Certificate in Accounting Studies' course?
+2025-03-26 01:25:11,254 - INFO - Processing query: What is included in the 'Complete Enrolled Agent (EA) Review Program and Exam Prep'?
+2025-03-26 01:25:11,255 - INFO - Generating embeddings for text
+2025-03-26 01:25:11,292 - INFO - Generating response for query: What is included in the 'Complete Enrolled Agent (EA) Review Program and Exam Prep'?
+2025-03-26 01:25:27,022 - INFO - Processing query: Are there any courses focused on accounting software?
+2025-03-26 01:25:27,022 - INFO - Generating embeddings for text
+2025-03-26 01:25:27,051 - INFO - Generating response for query: Are there any courses focused on accounting software?
+2025-03-26 01:25:42,711 - INFO - Processing query: What are the costs associated with the accounting courses?
+2025-03-26 01:25:42,711 - INFO - Generating embeddings for text
+2025-03-26 01:25:42,723 - INFO - Generating response for query: What are the costs associated with the accounting courses?
+2025-03-26 01:25:58,560 - INFO - Processing query: Where can I find the Office of Extended Learning?
+2025-03-26 01:25:58,561 - INFO - Generating embeddings for text
+2025-03-26 01:25:58,588 - INFO - Generating response for query: Where can I find the Office of Extended Learning?
+2025-03-26 01:26:14,631 - INFO - Processing query: What is the duration of the accounting courses?
+2025-03-26 01:26:14,632 - INFO - Generating embeddings for text
+2025-03-26 01:26:14,660 - INFO - Generating response for query: What is the duration of the accounting courses?
+2025-03-26 01:26:30,514 - INFO - Processing query: Is there a course that includes a voucher?
+2025-03-26 01:26:30,514 - INFO - Generating embeddings for text
+2025-03-26 01:26:30,542 - INFO - Generating response for query: Is there a course that includes a voucher?
+2025-03-26 01:26:46,192 - INFO - Processing query: Who is the partner for these accounting courses?
+2025-03-26 01:26:46,193 - INFO - Generating embeddings for text
+2025-03-26 01:26:46,220 - INFO - Generating response for query: Who is the partner for these accounting courses?
+2025-03-26 01:27:01,947 - INFO - Processing query: What topics are covered in the 'All Access IRS CE Library' course?
+2025-03-26 01:27:01,947 - INFO - Generating embeddings for text
+2025-03-26 01:27:01,975 - INFO - Generating response for query: What topics are covered in the 'All Access IRS CE Library' course?
+2025-03-26 01:27:17,744 - INFO - Processing query: Are these courses suitable for beginners?
+2025-03-26 01:27:17,745 - INFO - Generating embeddings for text
+2025-03-26 01:27:17,772 - INFO - Generating response for query: Are these courses suitable for beginners?
+2025-03-26 01:27:33,587 - INFO - Processing query: What resources are provided with the courses?
+2025-03-26 01:27:33,587 - INFO - Generating embeddings for text
+2025-03-26 01:27:33,614 - INFO - Generating response for query: What resources are provided with the courses?
+2025-03-26 01:27:49,659 - INFO - Processing query: How can I enroll in these courses?
+2025-03-26 01:27:49,660 - INFO - Generating embeddings for text
+2025-03-26 01:27:49,686 - INFO - Generating response for query: How can I enroll in these courses?
+2025-03-26 01:28:05,642 - INFO - Processing query: Is financial aid available for these courses?
+2025-03-26 01:28:05,643 - INFO - Generating embeddings for text
+2025-03-26 01:28:05,670 - INFO - Generating response for query: Is financial aid available for these courses?
+2025-03-26 01:28:21,511 - INFO - Processing query: Do the courses offer any certification upon completion?
+2025-03-26 01:28:21,511 - INFO - Generating embeddings for text
+2025-03-26 01:28:21,539 - INFO - Generating response for query: Do the courses offer any certification upon completion?
+2025-03-26 01:28:37,384 - INFO - Processing query: What courses are available for event planners on campus?
+2025-03-26 01:28:37,384 - INFO - Generating embeddings for text
+2025-03-26 01:28:37,412 - INFO - Generating response for query: What courses are available for event planners on campus?
+2025-03-26 01:28:53,361 - INFO - Processing query: Can you list some personal and professional development courses?
+2025-03-26 01:28:53,361 - INFO - Generating embeddings for text
+2025-03-26 01:28:53,389 - INFO - Generating response for query: Can you list some personal and professional development courses?
+2025-03-26 01:29:09,335 - INFO - Processing query: What certifications can I obtain related to Dietary Managers?
+2025-03-26 01:29:09,335 - INFO - Generating embeddings for text
+2025-03-26 01:29:09,363 - INFO - Generating response for query: What certifications can I obtain related to Dietary Managers?
+2025-03-26 01:29:25,101 - INFO - Processing query: Are there any courses focused on creativity and innovation?
+2025-03-26 01:29:25,102 - INFO - Generating embeddings for text
+2025-03-26 01:29:25,132 - INFO - Generating response for query: Are there any courses focused on creativity and innovation?
+2025-03-26 01:29:40,978 - INFO - Processing query: What career advancement courses are offered?
+2025-03-26 01:29:40,978 - INFO - Generating embeddings for text
+2025-03-26 01:29:41,006 - INFO - Generating response for query: What career advancement courses are offered?
+2025-03-26 01:29:56,745 - INFO - Processing query: Which courses help with effective communication?
+2025-03-26 01:29:56,745 - INFO - Generating embeddings for text
+2025-03-26 01:29:56,772 - INFO - Generating response for query: Which courses help with effective communication?
+2025-03-26 01:30:12,439 - INFO - Processing query: Can you provide information about the courses related to business?
+2025-03-26 01:30:12,439 - INFO - Generating embeddings for text
+2025-03-26 01:30:12,468 - INFO - Generating response for query: Can you provide information about the courses related to business?
+2025-03-26 01:30:28,388 - INFO - Processing query: Are there any specific certifications for bartending?
+2025-03-26 01:30:28,389 - INFO - Generating embeddings for text
+2025-03-26 01:30:28,417 - INFO - Generating response for query: Are there any specific certifications for bartending?
+2025-03-26 01:30:44,354 - INFO - Processing query: What kind of resources are available for Human Resource Certification?
+2025-03-26 01:30:44,354 - INFO - Generating embeddings for text
+2025-03-26 01:30:44,382 - INFO - Generating response for query: What kind of resources are available for Human Resource Certification?
+2025-03-26 01:31:00,229 - INFO - Processing query: What is the cost of the Certificate in Emerging Technology for Managers?
+2025-03-26 01:31:00,229 - INFO - Generating embeddings for text
+2025-03-26 01:31:00,259 - INFO - Generating response for query: What is the cost of the Certificate in Emerging Technology for Managers?
+2025-03-26 01:31:15,999 - INFO - Processing query: Can you tell me about the A Manager's Guide to Artificial Intelligence course?
+2025-03-26 01:31:15,999 - INFO - Generating embeddings for text
+2025-03-26 01:31:16,027 - INFO - Generating response for query: Can you tell me about the A Manager's Guide to Artificial Intelligence course?
+2025-03-26 01:31:31,842 - INFO - Processing query: Are there any certificates available for entrepreneurship?
+2025-03-26 01:31:31,842 - INFO - Generating embeddings for text
+2025-03-26 01:31:31,870 - INFO - Generating response for query: Are there any certificates available for entrepreneurship?
+2025-03-26 01:31:47,749 - INFO - Processing query: How much does the Introduction to Entrepreneurship course cost?
+2025-03-26 01:31:47,750 - INFO - Generating embeddings for text
+2025-03-26 01:31:47,778 - INFO - Generating response for query: How much does the Introduction to Entrepreneurship course cost?
+2025-03-26 01:32:03,509 - INFO - Processing query: What is the cost of the Being a Business Professional Learning Bundle?
+2025-03-26 01:32:03,509 - INFO - Generating embeddings for text
+2025-03-26 01:32:03,538 - INFO - Generating response for query: What is the cost of the Being a Business Professional Learning Bundle?
+2025-03-26 01:32:19,185 - INFO - Processing query: Can you provide details on the Technical Reports for Industry, Government, and Business course?
+2025-03-26 01:32:19,186 - INFO - Generating embeddings for text
+2025-03-26 01:32:19,214 - INFO - Generating response for query: Can you provide details on the Technical Reports for Industry, Government, and Business course?
+2025-03-26 01:32:35,047 - INFO - Processing query: Is there a certification for grant writing?
+2025-03-26 01:32:35,047 - INFO - Generating embeddings for text
+2025-03-26 01:32:35,074 - INFO - Generating response for query: Is there a certification for grant writing?
+2025-03-26 01:32:50,799 - INFO - Processing query: What is the cost of the Introduction to Grant Writing course?
+2025-03-26 01:32:50,800 - INFO - Generating embeddings for text
+2025-03-26 01:32:50,831 - INFO - Generating response for query: What is the cost of the Introduction to Grant Writing course?
+2025-03-26 01:33:06,690 - INFO - Processing query: What is the cost of the Front Desk Agent course?
+2025-03-26 01:33:06,690 - INFO - Generating embeddings for text
+2025-03-26 01:33:06,718 - INFO - Generating response for query: What is the cost of the Front Desk Agent course?
+2025-03-26 01:33:22,366 - INFO - Processing query: Is there a certificate program for hotels?
+2025-03-26 01:33:22,367 - INFO - Generating embeddings for text
+2025-03-26 01:33:22,380 - INFO - Generating response for query: Is there a certificate program for hotels?
+2025-03-26 01:33:38,236 - INFO - Processing query: What training and certification programs are available for HIPAA?
+2025-03-26 01:33:38,237 - INFO - Generating embeddings for text
+2025-03-26 01:33:38,264 - INFO - Generating response for query: What training and certification programs are available for HIPAA?
+2025-03-26 01:33:54,008 - INFO - Processing query: What is the cost of the Onboarding New Employees course?
+2025-03-26 01:33:54,008 - INFO - Generating embeddings for text
+2025-03-26 01:33:54,036 - INFO - Generating response for query: What is the cost of the Onboarding New Employees course?
+2025-03-26 01:34:09,774 - INFO - Processing query: Is there any exam prep available for international trade certifications?
+2025-03-26 01:34:09,775 - INFO - Generating embeddings for text
+2025-03-26 01:34:09,803 - INFO - Generating response for query: Is there any exam prep available for international trade certifications?
+2025-03-26 01:34:25,717 - INFO - Processing query: How much does the Global Supply Chain Management course cost?
+2025-03-26 01:34:25,717 - INFO - Generating embeddings for text
+2025-03-26 01:34:25,731 - INFO - Generating response for query: How much does the Global Supply Chain Management course cost?
+2025-03-26 01:34:41,419 - INFO - Processing query: What is the cost of the AEM�/CEM� Prep Course (U.S. Version)?
+2025-03-26 01:34:41,420 - INFO - Generating embeddings for text
+2025-03-26 01:34:41,434 - INFO - Generating response for query: What is the cost of the AEM�/CEM� Prep Course (U.S. Version)?
+2025-03-26 01:34:57,188 - INFO - Processing query: Which partner provides the Building Management and Maintenance Training Series?
+2025-03-26 01:34:57,188 - INFO - Generating embeddings for text
+2025-03-26 01:34:57,217 - INFO - Generating response for query: Which partner provides the Building Management and Maintenance Training Series?
+2025-03-26 01:35:12,857 - INFO - Processing query: Can you tell me about the Certificate in Managing Change and Resolving Conflict?
+2025-03-26 01:35:12,858 - INFO - Generating embeddings for text
+2025-03-26 01:35:12,886 - INFO - Generating response for query: Can you tell me about the Certificate in Managing Change and Resolving Conflict?
+2025-03-26 01:35:28,829 - INFO - Processing query: Which course offers training in Supervisory and Managerial Skills?
+2025-03-26 01:35:28,829 - INFO - Generating embeddings for text
+2025-03-26 01:35:28,857 - INFO - Generating response for query: Which course offers training in Supervisory and Managerial Skills?
+2025-03-26 01:35:44,603 - INFO - Processing query: What is the cost of the Emotional Intelligence for Managers course?
+2025-03-26 01:35:44,603 - INFO - Generating embeddings for text
+2025-03-26 01:35:44,637 - INFO - Generating response for query: What is the cost of the Emotional Intelligence for Managers course?
+2025-03-26 01:36:00,375 - INFO - Processing query: Where can I find training on Negotiation Skills?
+2025-03-26 01:36:00,375 - INFO - Generating embeddings for text
+2025-03-26 01:36:00,403 - INFO - Generating response for query: Where can I find training on Negotiation Skills?
+2025-03-26 01:36:16,139 - INFO - Processing query: Is there a course on Time Management?
+2025-03-26 01:36:16,139 - INFO - Generating embeddings for text
+2025-03-26 01:36:16,167 - INFO - Generating response for query: Is there a course on Time Management?
+2025-03-26 01:36:31,845 - INFO - Processing query: Are there any bartending courses available?
+2025-03-26 01:36:31,846 - INFO - Generating embeddings for text
+2025-03-26 01:36:31,873 - INFO - Generating response for query: Are there any bartending courses available?
+2025-03-26 01:36:47,895 - INFO - Processing query: Which partner provides the Agile Certified Practitioner (PMI-ACP)� Exam Prep?
+2025-03-26 01:36:47,896 - INFO - Generating embeddings for text
+2025-03-26 01:36:47,923 - INFO - Generating response for query: Which partner provides the Agile Certified Practitioner (PMI-ACP)� Exam Prep?
+2025-03-26 01:37:03,653 - INFO - Processing query: What is the cost of the Sales Coach Online course?
+2025-03-26 01:37:03,653 - INFO - Generating embeddings for text
+2025-03-26 01:37:03,681 - INFO - Generating response for query: What is the cost of the Sales Coach Online course?
+2025-03-26 01:37:19,421 - INFO - Processing query: Can you tell me more about the Social Media Marketing Certificate Series?
+2025-03-26 01:37:19,422 - INFO - Generating embeddings for text
+2025-03-26 01:37:19,449 - INFO - Generating response for query: Can you tell me more about the Social Media Marketing Certificate Series?
+2025-03-26 01:37:35,909 - INFO - Processing query: How much does the Lean Six Sigma Green Belt Manufacturing Version course cost?
+2025-03-26 01:37:35,909 - INFO - Generating embeddings for text
+2025-03-26 01:37:35,937 - INFO - Generating response for query: How much does the Lean Six Sigma Green Belt Manufacturing Version course cost?
+2025-03-26 01:37:51,601 - INFO - Processing query: What are some affordable courses for small business owners?
+2025-03-26 01:37:51,602 - INFO - Generating embeddings for text
+2025-03-26 01:37:51,629 - INFO - Generating response for query: What are some affordable courses for small business owners?
+2025-03-26 01:38:07,550 - INFO - Processing query: What does the Sustainable Management: Leadership Ethics course cover?
+2025-03-26 01:38:07,550 - INFO - Generating embeddings for text
+2025-03-26 01:38:07,568 - INFO - Generating response for query: What does the Sustainable Management: Leadership Ethics course cover?
+2025-03-26 01:38:23,627 - INFO - Processing query: Is there a certification for Search Engine Optimization?
+2025-03-26 01:38:23,627 - INFO - Generating embeddings for text
+2025-03-26 01:38:23,726 - INFO - Generating response for query: Is there a certification for Search Engine Optimization?
+2025-03-26 01:38:39,500 - INFO - Processing query: What is included in the Digital Marketing & Social Media Career Advancement Certificate?
+2025-03-26 01:38:39,500 - INFO - Generating embeddings for text
+2025-03-26 01:38:39,534 - INFO - Generating response for query: What is included in the Digital Marketing & Social Media Career Advancement Certificate?
+2025-03-26 01:38:55,389 - INFO - Processing query: Do you have a Lean Six Sigma course for transactional environments?
+2025-03-26 01:38:55,390 - INFO - Generating embeddings for text
+2025-03-26 01:38:55,438 - INFO - Generating response for query: Do you have a Lean Six Sigma course for transactional environments?
+2025-03-26 01:39:11,246 - INFO - Processing query: What advanced technical writing courses are available?
+2025-03-26 01:39:11,246 - INFO - Generating embeddings for text
+2025-03-26 01:39:11,266 - INFO - Generating response for query: What advanced technical writing courses are available?
+2025-03-26 01:39:27,116 - INFO - Processing query: Can you recommend a basic technical writing course?
+2025-03-26 01:39:27,116 - INFO - Generating embeddings for text
+2025-03-26 01:39:27,129 - INFO - Generating response for query: Can you recommend a basic technical writing course?
+2025-03-26 01:39:42,818 - INFO - Processing query: Are there any certificates for professional technical communication?
+2025-03-26 01:39:42,818 - INFO - Generating embeddings for text
+2025-03-26 01:39:42,840 - INFO - Generating response for query: Are there any certificates for professional technical communication?
+2025-03-26 01:39:58,586 - INFO - Processing query: What training is available for becoming a certified travel agent?
+2025-03-26 01:39:58,587 - INFO - Generating embeddings for text
+2025-03-26 01:39:58,603 - INFO - Generating response for query: What training is available for becoming a certified travel agent?
+2025-03-26 01:40:14,309 - INFO - Processing query: Are there any programs that focus on car rentals?
+2025-03-26 01:40:14,309 - INFO - Generating embeddings for text
+2025-03-26 01:40:14,450 - INFO - Generating response for query: Are there any programs that focus on car rentals?
+2025-03-26 01:40:30,130 - INFO - Processing query: Do you have courses related to cruise lines?
+2025-03-26 01:40:30,130 - INFO - Generating embeddings for text
+2025-03-26 01:40:30,149 - INFO - Generating response for query: Do you have courses related to cruise lines?
+2025-03-26 01:40:45,857 - INFO - Processing query: What courses can help me get certified for flying drones?
+2025-03-26 01:40:45,857 - INFO - Generating embeddings for text
+2025-03-26 01:40:45,885 - INFO - Generating response for query: What courses can help me get certified for flying drones?
+2025-03-26 01:41:01,841 - INFO - Processing query: Are there beginner courses for drone flying?
+2025-03-26 01:41:01,841 - INFO - Generating embeddings for text
+2025-03-26 01:41:01,868 - INFO - Generating response for query: Are there beginner courses for drone flying?
+2025-03-26 01:41:17,811 - INFO - Processing query: What leadership courses are available for women in business?
+2025-03-26 01:41:17,811 - INFO - Generating embeddings for text
+2025-03-26 01:41:17,856 - INFO - Generating response for query: What leadership courses are available for women in business?
+2025-03-26 01:41:33,600 - INFO - Processing query: Are there any courses focused on work-life balance for women in business?
+2025-03-26 01:41:33,600 - INFO - Generating embeddings for text
+2025-03-26 01:41:33,628 - INFO - Generating response for query: Are there any courses focused on work-life balance for women in business?
+2025-03-26 01:41:49,456 - INFO - Processing query: What kind of courses does the Office of Extended Learning offer?
+2025-03-26 01:41:49,456 - INFO - Generating embeddings for text
+2025-03-26 01:41:49,484 - INFO - Generating response for query: What kind of courses does the Office of Extended Learning offer?
+2025-03-26 01:42:05,253 - INFO - Processing query: Can you list some of the business courses available?
+2025-03-26 01:42:05,253 - INFO - Generating embeddings for text
+2025-03-26 01:42:05,280 - INFO - Generating response for query: Can you list some of the business courses available?
+2025-03-26 01:42:21,083 - INFO - Processing query: What is the cost of the 'Effective Public Speaking' course?
+2025-03-26 01:42:21,084 - INFO - Generating embeddings for text
+2025-03-26 01:42:21,119 - INFO - Generating response for query: What is the cost of the 'Effective Public Speaking' course?
+2025-03-26 01:42:37,062 - INFO - Processing query: What topics are covered in the business courses?
+2025-03-26 01:42:37,063 - INFO - Generating embeddings for text
+2025-03-26 01:42:37,092 - INFO - Generating response for query: What topics are covered in the business courses?
+2025-03-26 01:42:52,835 - INFO - Processing query: Are there any courses related to emerging technologies?
+2025-03-26 01:42:52,835 - INFO - Generating embeddings for text
+2025-03-26 01:42:52,862 - INFO - Generating response for query: Are there any courses related to emerging technologies?
+2025-03-26 01:43:08,759 - INFO - Processing query: What are the costs for the entrepreneurship courses?
+2025-03-26 01:43:08,759 - INFO - Generating embeddings for text
+2025-03-26 01:43:08,787 - INFO - Generating response for query: What are the costs for the entrepreneurship courses?
+2025-03-26 01:43:24,988 - INFO - Processing query: How can I register for the courses offered by the Office of Extended Learning?
+2025-03-26 01:43:24,988 - INFO - Generating embeddings for text
+2025-03-26 01:43:25,016 - INFO - Generating response for query: How can I register for the courses offered by the Office of Extended Learning?
+2025-03-26 01:43:41,479 - INFO - Processing query: What is the partner organization for the 'Certificate in Communication and Writing Skills with Office 2016' course?
+2025-03-26 01:43:41,480 - INFO - Generating embeddings for text
+2025-03-26 01:43:41,511 - INFO - Generating response for query: What is the partner organization for the 'Certificate in Communication and Writing Skills with Office 2016' course?
+2025-03-26 01:43:57,356 - INFO - Processing query: Is there a course that focuses on customer service?
+2025-03-26 01:43:57,356 - INFO - Generating embeddings for text
+2025-03-26 01:43:57,378 - INFO - Generating response for query: Is there a course that focuses on customer service?
+2025-03-26 01:44:13,300 - INFO - Processing query: What courses are available for learning business professionalism?
+2025-03-26 01:44:13,300 - INFO - Generating embeddings for text
+2025-03-26 01:44:13,328 - INFO - Generating response for query: What courses are available for learning business professionalism?
+2025-03-26 01:44:29,114 - INFO - Processing query: How much does the Security Awareness Training course cost?
+2025-03-26 01:44:29,114 - INFO - Generating embeddings for text
+2025-03-26 01:44:29,142 - INFO - Generating response for query: How much does the Security Awareness Training course cost?
+2025-03-26 01:44:44,864 - INFO - Processing query: What courses are available for learning about grant writing?
+2025-03-26 01:44:44,864 - INFO - Generating embeddings for text
+2025-03-26 01:44:44,881 - INFO - Generating response for query: What courses are available for learning about grant writing?
+2025-03-26 01:45:00,841 - INFO - Processing query: Which hotel-related course provides a certification program?
+2025-03-26 01:45:00,841 - INFO - Generating embeddings for text
+2025-03-26 01:45:00,970 - INFO - Generating response for query: Which hotel-related course provides a certification program?
+2025-03-26 01:45:16,712 - INFO - Processing query: What are some courses available in Human Resources?
+2025-03-26 01:45:16,712 - INFO - Generating embeddings for text
+2025-03-26 01:45:16,783 - INFO - Generating response for query: What are some courses available in Human Resources?
+2025-03-26 01:45:32,574 - INFO - Processing query: What is the cost of the Certified Global Business Professional (CGBP) Exam Prep course?
+2025-03-26 01:45:32,574 - INFO - Generating embeddings for text
+2025-03-26 01:45:32,595 - INFO - Generating response for query: What is the cost of the Certified Global Business Professional (CGBP) Exam Prep course?
+2025-03-26 01:45:48,287 - INFO - Processing query: Are there any leadership development courses available?
+2025-03-26 01:45:48,287 - INFO - Generating embeddings for text
+2025-03-26 01:45:48,305 - INFO - Generating response for query: Are there any leadership development courses available?
+2025-03-26 01:46:04,218 - INFO - Processing query: What is the most expensive management certificate course available?
+2025-03-26 01:46:04,219 - INFO - Generating embeddings for text
+2025-03-26 01:46:04,246 - INFO - Generating response for query: What is the most expensive management certificate course available?
+2025-03-26 01:46:19,997 - INFO - Processing query: Can I learn about managing change and conflict?
+2025-03-26 01:46:19,997 - INFO - Generating embeddings for text
+2025-03-26 01:46:20,025 - INFO - Generating response for query: Can I learn about managing change and conflict?
+2025-03-26 01:46:35,767 - INFO - Processing query: What is the cost of the 'Budgeting in a Nonprofit Organization' course?
+2025-03-26 01:46:35,767 - INFO - Generating embeddings for text
+2025-03-26 01:46:35,797 - INFO - Generating response for query: What is the cost of the 'Budgeting in a Nonprofit Organization' course?
+2025-03-26 01:46:51,539 - INFO - Processing query: Who offers the 'Capital Campaigns' course?
+2025-03-26 01:46:51,539 - INFO - Generating embeddings for text
+2025-03-26 01:46:51,566 - INFO - Generating response for query: Who offers the 'Capital Campaigns' course?
+2025-03-26 01:47:07,294 - INFO - Processing query: How much does the 'Leadership in a Nonprofit Organization' course cost?
+2025-03-26 01:47:07,295 - INFO - Generating embeddings for text
+2025-03-26 01:47:07,323 - INFO - Generating response for query: How much does the 'Leadership in a Nonprofit Organization' course cost?
+2025-03-26 01:47:23,076 - INFO - Processing query: Which course covers volunteer development for nonprofits?
+2025-03-26 01:47:23,076 - INFO - Generating embeddings for text
+2025-03-26 01:47:23,114 - INFO - Generating response for query: Which course covers volunteer development for nonprofits?
+2025-03-26 01:47:38,838 - INFO - Processing query: What is the price of the 'Leading the Courtney Museum Simulation' course?
+2025-03-26 01:47:38,839 - INFO - Generating embeddings for text
+2025-03-26 01:47:38,874 - INFO - Generating response for query: What is the price of the 'Leading the Courtney Museum Simulation' course?
+2025-03-26 01:47:54,585 - INFO - Processing query: What is the cost of the 'Payroll Management Training & Certification Program'?
+2025-03-26 01:47:54,585 - INFO - Generating embeddings for text
+2025-03-26 01:47:54,612 - INFO - Generating response for query: What is the cost of the 'Payroll Management Training & Certification Program'?
+2025-03-26 01:48:10,278 - INFO - Processing query: Who offers the 'Payroll Wage & Hour Training & Certification Program'?
+2025-03-26 01:48:10,279 - INFO - Generating embeddings for text
+2025-03-26 01:48:10,307 - INFO - Generating response for query: Who offers the 'Payroll Wage & Hour Training & Certification Program'?
+2025-03-26 01:48:26,049 - INFO - Processing query: What is the price of the 'Bartending for the Masters' course?
+2025-03-26 01:48:26,049 - INFO - Generating embeddings for text
+2025-03-26 01:48:26,079 - INFO - Generating response for query: What is the price of the 'Bartending for the Masters' course?
+2025-03-26 01:48:41,687 - INFO - Processing query: Which course covers professional bar management?
+2025-03-26 01:48:41,687 - INFO - Generating embeddings for text
+2025-03-26 01:48:41,714 - INFO - Generating response for query: Which course covers professional bar management?
+2025-03-26 01:48:57,486 - INFO - Processing query: How much does the 'Agile Certified Practitioner (PMI-ACP)� Exam Prep' course cost?
+2025-03-26 01:48:57,487 - INFO - Generating embeddings for text
+2025-03-26 01:48:57,515 - INFO - Generating response for query: How much does the 'Agile Certified Practitioner (PMI-ACP)� Exam Prep' course cost?
+2025-03-26 01:49:13,264 - INFO - Processing query: Who offers the 'Certificate in Agile Project Management'?
+2025-03-26 01:49:13,265 - INFO - Generating embeddings for text
+2025-03-26 01:49:13,278 - INFO - Generating response for query: Who offers the 'Certificate in Agile Project Management'?
+2025-03-26 01:49:28,918 - INFO - Processing query: What is the cost of the 'Applied Project Management' course?
+2025-03-26 01:49:28,918 - INFO - Generating embeddings for text
+2025-03-26 01:49:28,946 - INFO - Generating response for query: What is the cost of the 'Applied Project Management' course?
+2025-03-26 01:49:44,687 - INFO - Processing query: What is the price of the 'SalesForce: Power User Course'?
+2025-03-26 01:49:44,687 - INFO - Generating embeddings for text
+2025-03-26 01:49:44,717 - INFO - Generating response for query: What is the price of the 'SalesForce: Power User Course'?
+2025-03-26 01:50:00,464 - INFO - Processing query: Who offers the 'Search Engine Optimization Certification'?
+2025-03-26 01:50:00,465 - INFO - Generating embeddings for text
+2025-03-26 01:50:00,479 - INFO - Generating response for query: Who offers the 'Search Engine Optimization Certification'?
+2025-03-26 01:50:16,102 - INFO - Processing query: What is the cost of the 'Corporate Social Responsibility' course?
+2025-03-26 01:50:16,103 - INFO - Generating embeddings for text
+2025-03-26 01:50:16,115 - INFO - Generating response for query: What is the cost of the 'Corporate Social Responsibility' course?
+2025-03-26 01:50:31,798 - INFO - Processing query: Who offers the 'Certificate in Sustainable Management'?
+2025-03-26 01:50:31,798 - INFO - Generating embeddings for text
+2025-03-26 01:50:31,810 - INFO - Generating response for query: Who offers the 'Certificate in Sustainable Management'?
+2025-03-26 01:50:47,455 - INFO - Processing query: What is the cost of the Advanced Certificate in Technical Writing?
+2025-03-26 01:50:47,455 - INFO - Generating embeddings for text
+2025-03-26 01:50:47,468 - INFO - Generating response for query: What is the cost of the Advanced Certificate in Technical Writing?
+2025-03-26 01:51:03,128 - INFO - Completed processing. Generated 100 responses
+2025-03-26 01:51:03,128 - INFO - Writing to temporary file: assets/model_output_ragas.tmp
+2025-03-26 01:51:03,130 - INFO - Successfully saved 100 records to assets/model_output_ragas.json

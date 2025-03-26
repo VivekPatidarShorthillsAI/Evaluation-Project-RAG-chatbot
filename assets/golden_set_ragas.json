@@ -1,0 +1,402 @@
+[
+    {
+        "query": "What types of accounting courses are offered?",
+        "golden_set": "The accounting courses offered include topics in accounting fundamentals, accounting software, and personal finance, investments, and taxes."
+    },
+    {
+        "query": "Can you provide details about the 'Certificate in Accounting Studies' course?",
+        "golden_set": "The 'Certificate in Accounting Studies' course costs $2195 and is offered by the JER Group. You can find more details [here](https://und.coursecatalog.com/coursedetail.aspx?courseId=2716)."
+    },
+    {
+        "query": "What is included in the 'Complete Enrolled Agent (EA) Review Program and Exam Prep'?",
+        "golden_set": "The 'Complete Enrolled Agent (EA) Review Program and Exam Prep' costs $1799 and is designed to help participants prepare for the Enrolled Agent exam. More information can be found [here](https://und.coursecatalog.com/coursedetail.aspx?courseId=2826)."
+    },
+    {
+        "query": "Are there any courses focused on accounting software?",
+        "golden_set": "Yes, there is a 'QuickBooks Bundle (2012 to 2019)' course available for $199, which is also offered by the JER Group. Details can be found [here](https://und.coursecatalog.com/coursedetail.aspx?courseId=2761)."
+    },
+    {
+        "query": "What are the costs associated with the accounting courses?",
+        "golden_set": "The costs for the accounting courses vary, with prices ranging from $199 for the QuickBooks Bundle to $2749 for the 'Certificate in Accounting and Bookkeeping Studies (including Voucher)'."
+    },
+    {
+        "query": "Where can I find the Office of Extended Learning?",
+        "golden_set": "The Office of Extended Learning is located in O'Kelly Hall Room 300 at 221 Centennial Dr Stop 9021, Grand Forks, ND 58202-9021. You can contact them at 701.777.0488 or email [UND.courses@UND.edu](mailto:UND.courses@UND.edu)."
+    },
+    {
+        "query": "What is the duration of the accounting courses?",
+        "golden_set": "The duration of the accounting courses may vary depending on the specific course. It is best to check the course details on the respective links for precise duration information."
+    },
+    {
+        "query": "Is there a course that includes a voucher?",
+        "golden_set": "Yes, both the 'Certificate in Accounting Studies (including Voucher)' and the 'Certificate in Accounting and Bookkeeping Studies (including Voucher)' courses include a voucher. The costs are $2349 and $2749, respectively."
+    },
+    {
+        "query": "Who is the partner for these accounting courses?",
+        "golden_set": "All the accounting courses listed are offered by the JER Group."
+    },
+    {
+        "query": "What topics are covered in the 'All Access IRS CE Library' course?",
+        "golden_set": "The 'All Access IRS CE Library' course covers various topics related to IRS continuing education, including tax regulations, compliance, and best practices for tax preparation. It is priced at $499."
+    },
+    {
+        "query": "Are these courses suitable for beginners?",
+        "golden_set": "Yes, many of these accounting courses are designed for individuals at various skill levels, including beginners who want to build a solid foundation in accounting principles."
+    },
+    {
+        "query": "What resources are provided with the courses?",
+        "golden_set": "Resources provided with the courses may include course materials, access to online platforms, and sometimes additional tools or vouchers for related software."
+    },
+    {
+        "query": "How can I enroll in these courses?",
+        "golden_set": "You can enroll in these courses by clicking on the course titles provided in the course listings, which will take you to their respective pages for registration."
+    },
+    {
+        "query": "Is financial aid available for these courses?",
+        "golden_set": "Information regarding financial aid for these courses is not provided. It is recommended to contact the Office of Extended Learning for inquiries about financial assistance options."
+    },
+    {
+        "query": "Do the courses offer any certification upon completion?",
+        "golden_set": "Yes, many of the accounting courses offer certificates upon completion, which can enhance your resume and professional qualifications."
+    },
+    {
+        "query": "What courses are available for event planners on campus?",
+        "golden_set": "Event planners on campus can benefit from resources such as Conference, Camp & Event Services, marketing support, catering services, audiovisual equipment rental, and access to venue space and facilities."
+    },
+    {
+        "query": "Can you list some personal and professional development courses?",
+        "golden_set": "Personal and professional development courses include topics like Effective Emails, Memos, and Letters, Customer Service Learning Bundle, and the Certificate in Business Communications."
+    },
+    {
+        "query": "What certifications can I obtain related to Dietary Managers?",
+        "golden_set": "You can obtain certifications such as Nutrition and Foodservice Professional Training Programs, CDM Exam Success Courses, and Continuing Education Courses for Dietary Managers."
+    },
+    {
+        "query": "Are there any courses focused on creativity and innovation?",
+        "golden_set": "Yes, courses focused on creativity and innovation include the Certificate in Innovation and Critical Thinking, Creativity in Teams and Organizations, and Personal Creativity."
+    },
+    {
+        "query": "What career advancement courses are offered?",
+        "golden_set": "Career advancement courses offered include Medical Scribe Career Training, HVAC Technician Online, and Comprehensive Appliance Repair Certificate."
+    },
+    {
+        "query": "Which courses help with effective communication?",
+        "golden_set": "Courses that help with effective communication include Effective Presentations, Effective Public Speaking, and High Impact Communication."
+    },
+    {
+        "query": "Can you provide information about the courses related to business?",
+        "golden_set": "Non-credit business courses cover topics like management, leadership, sales, marketing, and software. Some examples include The Art of Listening Persuasion and Compromise, and Certificate in Business Communications."
+    },
+    {
+        "query": "Are there any specific certifications for bartending?",
+        "golden_set": "Yes, certifications for bartending include Bartending at Home-Online, and Bartending the Easy Way - Online."
+    },
+    {
+        "query": "What kind of resources are available for Human Resource Certification?",
+        "golden_set": "Resources for Human Resource Certification include comprehensive courses designed to enhance HR knowledge and skills, as well as certification preparation resources."
+    },
+    {
+        "query": "What is the cost of the Certificate in Emerging Technology for Managers?",
+        "golden_set": "The Certificate in Emerging Technology for Managers costs $199 and is offered by Mindedge."
+    },
+    {
+        "query": "Can you tell me about the A Manager's Guide to Artificial Intelligence course?",
+        "golden_set": "The A Manager's Guide to Artificial Intelligence course costs $99 and is provided by Mindedge. It is designed to help managers understand the applications of AI in business."
+    },
+    {
+        "query": "Are there any certificates available for entrepreneurship?",
+        "golden_set": "Yes, the Certificate in Entrepreneurship is available for $599, offered by Mindedge. Additionally, there is the Entrepreneurship (ACE CREDIT\ufffd) certificate, which costs $698."
+    },
+    {
+        "query": "How much does the Introduction to Entrepreneurship course cost?",
+        "golden_set": "The Introduction to Entrepreneurship course costs $129 and is offered by Mindedge."
+    },
+    {
+        "query": "What is the cost of the Being a Business Professional Learning Bundle?",
+        "golden_set": "The Being a Business Professional Learning Bundle costs $269 and is offered by JER Group."
+    },
+    {
+        "query": "Can you provide details on the Technical Reports for Industry, Government, and Business course?",
+        "golden_set": "The Technical Reports for Industry, Government, and Business course costs $975 and is offered by JER Group. It is designed to enhance report-writing skills across multiple sectors."
+    },
+    {
+        "query": "Is there a certification for grant writing?",
+        "golden_set": "Yes, the Introduction to Grant Research and Writing Certificate is available for $1999, offered by JER Group."
+    },
+    {
+        "query": "What is the cost of the Introduction to Grant Writing course?",
+        "golden_set": "The Introduction to Grant Writing course costs $399 and is offered by JER Group."
+    },
+    {
+        "query": "What is the cost of the Front Desk Agent course?",
+        "golden_set": "The Front Desk Agent course costs $369 and is offered by JER Group as an instructor-led program."
+    },
+    {
+        "query": "Is there a certificate program for hotels?",
+        "golden_set": "Yes, the Hotel Certificate Program is offered for $1400 and is instructor-led by JER Group."
+    },
+    {
+        "query": "What training and certification programs are available for HIPAA?",
+        "golden_set": "There are two HIPAA-related training and certification programs available: the HIPAA Privacy Training & Certification Program and the HIPAA Portability Training & Certification Program. Both are offered by JER Group at $449 each."
+    },
+    {
+        "query": "What is the cost of the Onboarding New Employees course?",
+        "golden_set": "The Onboarding New Employees course costs $225 and is offered by JER Group."
+    },
+    {
+        "query": "Is there any exam prep available for international trade certifications?",
+        "golden_set": "Yes, the Certified Global Business Professional (CGBP) Exam Prep is available for $799 and is offered by Mindedge."
+    },
+    {
+        "query": "How much does the Global Supply Chain Management course cost?",
+        "golden_set": "The Global Supply Chain Management course costs $275 and is offered by Mindedge."
+    },
+    {
+        "query": "What is the cost of the AEM\ufffd/CEM\ufffd Prep Course (U.S. Version)?",
+        "golden_set": "The AEM\ufffd/CEM\ufffd Prep Course (U.S. Version) costs $399 and is offered by Mindedge."
+    },
+    {
+        "query": "Which partner provides the Building Management and Maintenance Training Series?",
+        "golden_set": "The Building Management and Maintenance Training Series is provided by JER Group and costs $245."
+    },
+    {
+        "query": "Can you tell me about the Certificate in Managing Change and Resolving Conflict?",
+        "golden_set": "The Certificate in Managing Change and Resolving Conflict costs $630 and is offered by Mindedge."
+    },
+    {
+        "query": "Which course offers training in Supervisory and Managerial Skills?",
+        "golden_set": "The Certificate in Supervisory and Managerial Skills, provided by JER Group, costs $2595."
+    },
+    {
+        "query": "What is the cost of the Emotional Intelligence for Managers course?",
+        "golden_set": "The Emotional Intelligence for Managers course is offered by Mindedge and costs $79."
+    },
+    {
+        "query": "Where can I find training on Negotiation Skills?",
+        "golden_set": "You can find negotiation skills training in the Certificate in Negotiations, offered by Mindedge for $199."
+    },
+    {
+        "query": "Is there a course on Time Management?",
+        "golden_set": "Yes, there is a Time Management course offered by Mindedge for $79."
+    },
+    {
+        "query": "Are there any bartending courses available?",
+        "golden_set": "Yes, there are bartending courses available, such as Bartending for the Masters ($149) and Master Level Bartending Certificate Online ($699), both offered by JER Group."
+    },
+    {
+        "query": "Which partner provides the Agile Certified Practitioner (PMI-ACP)\ufffd Exam Prep?",
+        "golden_set": "The Agile Certified Practitioner (PMI-ACP)\ufffd Exam Prep is provided by Mindedge and costs $499."
+    },
+    {
+        "query": "What is the cost of the Sales Coach Online course?",
+        "golden_set": "The Sales Coach Online course costs $497, and it is offered by JER Group."
+    },
+    {
+        "query": "Can you tell me more about the Social Media Marketing Certificate Series?",
+        "golden_set": "The Social Media Marketing Certificate Series costs $899 and is provided by JER Group. This program offers comprehensive training in social media marketing strategies."
+    },
+    {
+        "query": "How much does the Lean Six Sigma Green Belt Manufacturing Version course cost?",
+        "golden_set": "The Lean Six Sigma Green Belt Course Library for the Manufacturing Version is priced at $249, and it's offered by JER Group."
+    },
+    {
+        "query": "What are some affordable courses for small business owners?",
+        "golden_set": "Affordable courses for small business owners include 'Accounting Fundamentals for Small Businesses' at $99, 'Budgeting and Financial Analysis for Small Business' at $99, and 'Small Business Marketing' at $99. All these courses are provided by Mindedge."
+    },
+    {
+        "query": "What does the Sustainable Management: Leadership Ethics course cover?",
+        "golden_set": "The Sustainable Management: Leadership Ethics course costs $99 and is provided by Mindedge. It focuses on ethical leadership within sustainable management practices."
+    },
+    {
+        "query": "Is there a certification for Search Engine Optimization?",
+        "golden_set": "Yes, the Search Engine Optimization Certification is available for $1,095 and is offered by JER Group."
+    },
+    {
+        "query": "What is included in the Digital Marketing & Social Media Career Advancement Certificate?",
+        "golden_set": "The Digital Marketing & Social Media Career Advancement Certificate costs $2,195, and it's provided by JER Group. This comprehensive program covers various aspects of digital marketing and social media strategies."
+    },
+    {
+        "query": "Do you have a Lean Six Sigma course for transactional environments?",
+        "golden_set": "Yes, the Lean Six Sigma Green Belt Course Library for Transactional Version is available for $249, and it is provided by JER Group."
+    },
+    {
+        "query": "What advanced technical writing courses are available?",
+        "golden_set": "The available advanced technical writing courses include the 'Advanced Certificate in Technical Writing' ($1299), 'Advanced Certificate Course in Structured Writing for Technical Documentation' ($349), and 'Advanced Technical Writing' ($335), all offered by the JER Group."
+    },
+    {
+        "query": "Can you recommend a basic technical writing course?",
+        "golden_set": "A recommended basic course is the 'Basic Certificate in Technical Writing' offered by JER Group. It costs $975 and covers foundational technical writing principles."
+    },
+    {
+        "query": "Are there any certificates for professional technical communication?",
+        "golden_set": "Yes, the 'Certificate in Professional Technical Communication - Portfolio' is available for $1200 from JER Group."
+    },
+    {
+        "query": "What training is available for becoming a certified travel agent?",
+        "golden_set": "The 'Travel Agent Certificate Program - Instructor Led' offered by JER Group costs $3960 and provides comprehensive training for aspiring travel agents."
+    },
+    {
+        "query": "Are there any programs that focus on car rentals?",
+        "golden_set": "Yes, the 'Car Rental Certificate Program - Instructor Led' by JER Group costs $1499 and offers specialized training for car rental services."
+    },
+    {
+        "query": "Do you have courses related to cruise lines?",
+        "golden_set": "Yes, the 'Cruise Line Certificate Program - Instructor Led' is available for $1750 from JER Group."
+    },
+    {
+        "query": "What courses can help me get certified for flying drones?",
+        "golden_set": "For drone certification, you can take the 'UAS Remote Pilot Certificate - Test Prep for FAA Part 107 Exam,' which costs $190 from JER Group."
+    },
+    {
+        "query": "Are there beginner courses for drone flying?",
+        "golden_set": "Yes, the 'Drone Flying 101 - A Beginner's Guide for Drone Enthusiasts' is available for $99 from JER Group."
+    },
+    {
+        "query": "What leadership courses are available for women in business?",
+        "golden_set": "The 'Certificate in Leadership for Women in Business' by Mindedge costs $499, and 'Leadership and Management for Women in Business' is available for $79."
+    },
+    {
+        "query": "Are there any courses focused on work-life balance for women in business?",
+        "golden_set": "Yes, 'Work-Life Balance for Women in Business' is offered for $79 through Mindedge."
+    },
+    {
+        "query": "What kind of courses does the Office of Extended Learning offer?",
+        "golden_set": "The Office of Extended Learning offers a variety of non-credit courses including business courses, professional development programs, insurance prelicensing, dietary management training, real estate courses, and more."
+    },
+    {
+        "query": "Can you list some of the business courses available?",
+        "golden_set": "Some of the business courses available include:"
+    },
+    {
+        "query": "What is the cost of the 'Effective Public Speaking' course?",
+        "golden_set": "The cost of the 'Effective Public Speaking' course is $99."
+    },
+    {
+        "query": "What topics are covered in the business courses?",
+        "golden_set": "Business courses cover various topics such as management, leadership, sales, marketing, software, communication, creativity, and entrepreneurship."
+    },
+    {
+        "query": "Are there any courses related to emerging technologies?",
+        "golden_set": "Yes, there are courses related to emerging technologies, including:"
+    },
+    {
+        "query": "What are the costs for the entrepreneurship courses?",
+        "golden_set": "The costs for entrepreneurship courses vary, for example:"
+    },
+    {
+        "query": "How can I register for the courses offered by the Office of Extended Learning?",
+        "golden_set": "You can register for courses offered by the Office of Extended Learning through their official website. Each course page typically contains registration information and links to sign up."
+    },
+    {
+        "query": "What is the partner organization for the 'Certificate in Communication and Writing Skills with Office 2016' course?",
+        "golden_set": "The partner organization for the 'Certificate in Communication and Writing Skills with Office 2016' course is JER Group."
+    },
+    {
+        "query": "Is there a course that focuses on customer service?",
+        "golden_set": "Yes, there are courses focused on customer service, including 'Customer Service Learning Bundle' and 'Customer Service for Bars and Restaurants-Online.'"
+    },
+    {
+        "query": "What courses are available for learning business professionalism?",
+        "golden_set": "Courses available for learning business professionalism include 'Being a Business Professional (Learning Bundle)' offered by JER Group for $269."
+    },
+    {
+        "query": "How much does the Security Awareness Training course cost?",
+        "golden_set": "The Security Awareness Training course costs $15 and is offered by Mindedge."
+    },
+    {
+        "query": "What courses are available for learning about grant writing?",
+        "golden_set": "Courses available for grant writing include the 'Introduction to Grant Research and Writing Certificate' for $1999 and the 'Introduction to Grant Writing' for $399, both offered by JER Group."
+    },
+    {
+        "query": "Which hotel-related course provides a certification program?",
+        "golden_set": "The 'Hotel Certificate Program - Instructor Led' provides a certification and is offered by JER Group for $1400."
+    },
+    {
+        "query": "What are some courses available in Human Resources?",
+        "golden_set": "Some courses available in Human Resources include '401(k) Training & Certification Program,' 'ADA Training & Certification Program,' and 'COBRA Training & Certification Program,' all offered by JER Group for $449 each."
+    },
+    {
+        "query": "What is the cost of the Certified Global Business Professional (CGBP) Exam Prep course?",
+        "golden_set": "The Certified Global Business Professional (CGBP) Exam Prep course costs $799 and is offered by Mindedge."
+    },
+    {
+        "query": "Are there any leadership development courses available?",
+        "golden_set": "Yes, courses like 'Leadership Development Learning Bundle' for $279 and 'Leadership Best Practices' for $99 are available, both offered by JER Group."
+    },
+    {
+        "query": "What is the most expensive management certificate course available?",
+        "golden_set": "The most expensive management certificate course is the 'Management & Leadership Studies Certificate' offered by JER Group for $2595."
+    },
+    {
+        "query": "Can I learn about managing change and conflict?",
+        "golden_set": "Yes, the 'Certificate in Managing Change and Resolving Conflict' is available for $630 and is offered by Mindedge."
+    },
+    {
+        "query": "What is the cost of the 'Budgeting in a Nonprofit Organization' course?",
+        "golden_set": "The 'Budgeting in a Nonprofit Organization' course costs $79."
+    },
+    {
+        "query": "Who offers the 'Capital Campaigns' course?",
+        "golden_set": "The 'Capital Campaigns' course is offered by Mindedge."
+    },
+    {
+        "query": "How much does the 'Leadership in a Nonprofit Organization' course cost?",
+        "golden_set": "The 'Leadership in a Nonprofit Organization' course costs $99."
+    },
+    {
+        "query": "Which course covers volunteer development for nonprofits?",
+        "golden_set": "The 'Non-profit Board and Volunteer Development' course covers volunteer development for nonprofits."
+    },
+    {
+        "query": "What is the price of the 'Leading the Courtney Museum Simulation' course?",
+        "golden_set": "The 'Leading the Courtney Museum Simulation' course costs $399."
+    },
+    {
+        "query": "What is the cost of the 'Payroll Management Training & Certification Program'?",
+        "golden_set": "The 'Payroll Management Training & Certification Program' costs $449."
+    },
+    {
+        "query": "Who offers the 'Payroll Wage & Hour Training & Certification Program'?",
+        "golden_set": "The 'Payroll Wage & Hour Training & Certification Program' is offered by JER Group."
+    },
+    {
+        "query": "What is the price of the 'Bartending for the Masters' course?",
+        "golden_set": "The 'Bartending for the Masters' course costs $149."
+    },
+    {
+        "query": "Which course covers professional bar management?",
+        "golden_set": "The 'Professional Bar Management' course covers professional bar management."
+    },
+    {
+        "query": "How much does the 'Agile Certified Practitioner (PMI-ACP)\ufffd Exam Prep' course cost?",
+        "golden_set": "The 'Agile Certified Practitioner (PMI-ACP)\ufffd Exam Prep' course costs $499."
+    },
+    {
+        "query": "Who offers the 'Certificate in Agile Project Management'?",
+        "golden_set": "The 'Certificate in Agile Project Management' is offered by Mindedge."
+    },
+    {
+        "query": "What is the cost of the 'Applied Project Management' course?",
+        "golden_set": "The 'Applied Project Management' course costs $799."
+    },
+    {
+        "query": "What is the price of the 'SalesForce: Power User Course'?",
+        "golden_set": "The 'SalesForce: Power User Course' costs $399."
+    },
+    {
+        "query": "Who offers the 'Search Engine Optimization Certification'?",
+        "golden_set": "The 'Search Engine Optimization Certification' is offered by JER Group."
+    },
+    {
+        "query": "What is the cost of the 'Corporate Social Responsibility' course?",
+        "golden_set": "The 'Corporate Social Responsibility' course costs $99."
+    },
+    {
+        "query": "Who offers the 'Certificate in Sustainable Management'?",
+        "golden_set": "The 'Certificate in Sustainable Management' is offered by Mindedge."
+    },
+    {
+        "query": "What is the cost of the Advanced Certificate in Technical Writing?",
+        "golden_set": "The Advanced Certificate in Technical Writing costs $1299 and is offered by JER Group."
+    }
+]
